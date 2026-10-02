@@ -1,0 +1,2001 @@
+Transaction_ID,Date,Time,Day_of_Week,Customer_ID,Gender,Age,Item,Category,Size,Quantity,Unit_Price,Total_Sale,Payment_Method,Store_Location,Loyalty_Member
+T0001,2023-10-08,15:38,Sunday,C252,Female,44,Brownie,Food,-,3,2.37,7.11,Mobile Pay,Midtown,Yes
+T0002,2023-01-04,10:52,Wednesday,C190,Male,39,Tea,Drink,Medium,3,3.11,9.33,Card,Uptown,Yes
+T0003,2023-06-12,18:54,Monday,C016,Male,53,Iced Coffee,Drink,Large,3,4.47,13.41,Cash,Suburb,Yes
+T0004,2023-12-10,20:34,Sunday,C081,Male,22,Iced Coffee,Drink,Small,3,3.04,9.12,Cash,Suburb,No
+T0005,2023-05-17,18:07,Wednesday,C160,Male,24,Mocha,Drink,Large,1,5.08,5.08,Mobile Pay,Riverside,Yes
+T0006,2023-01-19,11:41,Thursday,C182,Female,29,Croissant,Food,-,1,3.16,3.16,Mobile Pay,Riverside,No
+T0007,2023-10-14,09:35,Saturday,C422,Female,43,Sandwich,Food,-,3,5.62,16.86,Card,Uptown,Yes
+T0008,2023-04-15,06:44,Saturday,C329,Male,21,Muffin,Food,-,2,2.99,5.98,Card,Midtown,No
+T0009,2023-07-19,20:59,Wednesday,C335,Female,46,Espresso,Drink,Large,2,3.18,6.36,Cash,Midtown,Yes
+T0010,2023-10-19,10:39,Thursday,C443,Male,47,Mocha,Drink,Large,1,4.67,4.67,Card,Riverside,Yes
+T0011,2023-09-02,06:31,Saturday,C233,Male,27,Mocha,Drink,Large,2,4.29,8.58,Cash,Uptown,Yes
+T0012,2023-09-14,13:48,Thursday,C407,Male,57,Espresso,Drink,Medium,1,2.29,2.29,Card,Downtown,Yes
+T0013,2023-03-09,16:34,Thursday,C077,Male,58,Mocha,Drink,Large,1,4.87,4.87,Mobile Pay,Suburb,Yes
+T0014,2023-04-17,10:09,Monday,C185,Male,40,Espresso,Drink,Small,2,2.79,5.58,Mobile Pay,Riverside,Yes
+T0015,2023-02-23,09:29,Thursday,C099,Male,46,Muffin,Food,-,2,2.41,4.82,Mobile Pay,Uptown,Yes
+T0016,2023-10-23,06:59,Monday,C194,Female,53,Muffin,Food,-,3,2.31,6.93,Mobile Pay,Downtown,Yes
+T0017,2023-08-01,09:22,Tuesday,C399,Female,28,Latte,Drink,Small,2,3.79,7.58,Cash,Riverside,No
+T0018,2023-09-27,09:50,Wednesday,C477,Female,49,Iced Coffee,Drink,Large,1,4.18,4.18,Cash,Midtown,Yes
+T0019,2023-08-31,15:58,Thursday,C385,Female,49,Mocha,Drink,Medium,2,3.63,7.26,Cash,Midtown,No
+T0020,2023-02-20,13:06,Monday,C192,Male,37,Espresso,Drink,Medium,3,2.74,8.22,Card,Riverside,No
+T0021,2023-12-20,09:49,Wednesday,C300,Male,48,Muffin,Food,-,1,2.02,2.02,Card,Uptown,Yes
+T0022,2023-07-29,20:28,Saturday,C180,Female,35,Latte,Drink,Small,1,3.59,3.59,Mobile Pay,Midtown,No
+T0023,2023-05-29,17:02,Monday,C454,Female,37,Cappuccino,Drink,Large,1,3.08,3.08,Mobile Pay,Suburb,Yes
+T0024,2023-10-10,20:58,Tuesday,C109,Female,44,Croissant,Food,-,3,3.21,9.63,Mobile Pay,Downtown,No
+T0025,2023-10-19,10:31,Thursday,C115,Male,38,Espresso,Drink,Large,2,3.09,6.18,Mobile Pay,Uptown,No
+T0026,2023-01-03,09:28,Tuesday,C357,Female,25,Mocha,Drink,Medium,3,5.19,15.57,Card,Suburb,No
+T0027,2023-03-20,13:42,Monday,C217,Male,31,Muffin,Food,-,1,2.59,2.59,Cash,Riverside,No
+T0028,2023-06-25,20:23,Sunday,C327,Male,60,Brownie,Food,-,3,1.68,5.04,Card,Midtown,Yes
+T0029,2023-10-13,07:58,Friday,C393,Male,45,Mocha,Drink,Small,2,3.96,7.92,Mobile Pay,Suburb,Yes
+T0030,2023-12-03,07:47,Sunday,C336,Male,59,Espresso,Drink,Medium,1,2.91,2.91,Card,Uptown,Yes
+T0031,2023-08-29,11:10,Tuesday,C409,Male,39,Latte,Drink,Medium,2,4.35,8.7,Mobile Pay,Uptown,Yes
+T0032,2023-11-08,12:24,Wednesday,C349,Female,30,Brownie,Food,-,1,1.66,1.66,Mobile Pay,Downtown,No
+T0033,2023-03-31,07:44,Friday,C422,Male,52,Cappuccino,Drink,Medium,3,4.38,13.14,Mobile Pay,Riverside,No
+T0034,2023-12-13,20:47,Wednesday,C006,Female,41,Brownie,Food,-,1,2.5,2.5,Cash,Uptown,Yes
+T0035,2023-08-24,08:52,Thursday,C157,Female,53,Mocha,Drink,Small,1,5.39,5.39,Mobile Pay,Midtown,Yes
+T0036,2023-09-20,07:08,Wednesday,C413,Male,38,Croissant,Food,-,3,3.15,9.45,Card,Suburb,Yes
+T0037,2023-03-13,10:40,Monday,C052,Male,53,Muffin,Food,-,1,2.93,2.93,Mobile Pay,Riverside,No
+T0038,2023-05-31,08:52,Wednesday,C090,Male,60,Espresso,Drink,Small,1,3.0,3.0,Card,Suburb,No
+T0039,2023-06-30,15:00,Friday,C284,Male,27,Espresso,Drink,Small,3,2.49,7.47,Card,Suburb,Yes
+T0040,2023-09-29,06:10,Friday,C370,Female,30,Mocha,Drink,Small,3,4.41,13.23,Cash,Downtown,No
+T0041,2023-12-18,12:24,Monday,C431,Female,30,Latte,Drink,Small,2,3.57,7.14,Card,Suburb,No
+T0042,2023-01-06,15:51,Friday,C197,Male,60,Croissant,Food,-,3,3.13,9.39,Cash,Downtown,No
+T0043,2023-11-05,15:11,Sunday,C282,Female,51,Sandwich,Food,-,3,6.01,18.03,Cash,Midtown,No
+T0044,2023-07-26,18:51,Wednesday,C305,Female,38,Muffin,Food,-,1,2.36,2.36,Mobile Pay,Riverside,No
+T0045,2023-12-23,11:32,Saturday,C490,Male,19,Muffin,Food,-,1,2.47,2.47,Cash,Riverside,Yes
+T0046,2023-08-13,12:26,Sunday,C448,Female,33,Sandwich,Food,-,1,5.17,5.17,Card,Suburb,Yes
+T0047,2023-06-06,08:30,Tuesday,C052,Female,27,Muffin,Food,-,2,2.07,4.14,Cash,Uptown,Yes
+T0048,2023-03-06,20:52,Monday,C155,Female,52,Croissant,Food,-,2,2.3,4.6,Card,Riverside,Yes
+T0049,2023-03-15,11:15,Wednesday,C309,Male,21,Espresso,Drink,Small,3,2.42,7.26,Card,Uptown,No
+T0050,2023-10-25,12:41,Wednesday,C053,Male,50,Sandwich,Food,-,1,5.91,5.91,Cash,Riverside,No
+T0051,2023-02-23,13:27,Thursday,C329,Female,24,Iced Coffee,Drink,Medium,2,3.25,6.5,Mobile Pay,Riverside,No
+T0052,2023-01-15,19:38,Sunday,C256,Female,37,Latte,Drink,Small,1,3.52,3.52,Mobile Pay,Downtown,No
+T0053,2023-11-27,11:32,Monday,C040,Female,26,Mocha,Drink,Small,3,5.5,16.5,Mobile Pay,Suburb,Yes
+T0054,2023-01-17,20:09,Tuesday,C013,Male,47,Sandwich,Food,-,3,5.09,15.27,Mobile Pay,Midtown,Yes
+T0055,2023-08-03,14:56,Thursday,C173,Female,48,Espresso,Drink,Small,3,2.86,8.58,Cash,Uptown,No
+T0056,2023-04-18,18:49,Tuesday,C426,Female,22,Muffin,Food,-,3,2.08,6.24,Mobile Pay,Suburb,No
+T0057,2023-01-02,18:56,Monday,C400,Male,18,Espresso,Drink,Medium,2,2.69,5.38,Cash,Downtown,Yes
+T0058,2023-06-23,20:03,Friday,C203,Male,39,Espresso,Drink,Medium,3,2.34,7.02,Mobile Pay,Uptown,Yes
+T0059,2023-08-15,11:12,Tuesday,C310,Female,45,Brownie,Food,-,3,1.52,4.56,Mobile Pay,Suburb,No
+T0060,2023-06-03,07:54,Saturday,C192,Male,36,Tea,Drink,Medium,3,3.5,10.5,Cash,Uptown,Yes
+T0061,2023-06-13,11:02,Tuesday,C402,Male,24,Muffin,Food,-,1,2.93,2.93,Card,Downtown,Yes
+T0062,2023-12-15,19:26,Friday,C252,Male,30,Iced Coffee,Drink,Medium,3,3.61,10.83,Mobile Pay,Downtown,Yes
+T0063,2023-12-18,06:39,Monday,C013,Female,55,Croissant,Food,-,1,2.45,2.45,Card,Suburb,No
+T0064,2023-09-15,16:01,Friday,C013,Female,51,Iced Coffee,Drink,Small,2,4.01,8.02,Mobile Pay,Riverside,No
+T0065,2023-03-08,14:18,Wednesday,C033,Female,48,Muffin,Food,-,1,1.86,1.86,Card,Downtown,Yes
+T0066,2023-07-16,16:16,Sunday,C423,Male,33,Espresso,Drink,Medium,3,2.1,6.3,Card,Suburb,No
+T0067,2023-11-25,06:45,Saturday,C056,Male,37,Brownie,Food,-,2,1.6,3.2,Mobile Pay,Suburb,No
+T0068,2023-02-01,10:20,Wednesday,C456,Female,40,Sandwich,Food,-,2,6.17,12.34,Cash,Uptown,No
+T0069,2023-11-25,08:19,Saturday,C098,Male,56,Cappuccino,Drink,Small,3,3.14,9.42,Cash,Midtown,No
+T0070,2023-05-16,17:10,Tuesday,C046,Male,48,Latte,Drink,Small,2,4.12,8.24,Cash,Midtown,Yes
+T0071,2023-04-16,15:49,Sunday,C150,Male,39,Sandwich,Food,-,3,4.6,13.8,Cash,Uptown,No
+T0072,2023-09-12,12:16,Tuesday,C092,Male,35,Brownie,Food,-,3,1.72,5.16,Card,Midtown,Yes
+T0073,2023-04-07,20:11,Friday,C069,Male,51,Espresso,Drink,Medium,1,2.47,2.47,Card,Downtown,Yes
+T0074,2023-12-08,12:27,Friday,C283,Female,47,Sandwich,Food,-,2,4.69,9.38,Mobile Pay,Midtown,No
+T0075,2023-06-30,17:10,Friday,C350,Male,41,Brownie,Food,-,3,2.05,6.15,Mobile Pay,Suburb,Yes
+T0076,2023-10-28,12:00,Saturday,C048,Female,46,Croissant,Food,-,3,2.49,7.47,Card,Suburb,Yes
+T0077,2023-10-15,06:29,Sunday,C146,Male,23,Croissant,Food,-,2,2.98,5.96,Cash,Uptown,Yes
+T0078,2023-05-13,08:20,Saturday,C193,Male,38,Espresso,Drink,Small,1,2.58,2.58,Cash,Uptown,Yes
+T0079,2023-11-22,16:22,Wednesday,C383,Male,32,Iced Coffee,Drink,Large,3,3.57,10.71,Card,Midtown,No
+T0080,2023-09-28,08:13,Thursday,C154,Male,36,Tea,Drink,Large,2,2.76,5.52,Mobile Pay,Downtown,Yes
+T0081,2023-05-05,12:46,Friday,C161,Female,41,Espresso,Drink,Medium,3,3.39,10.17,Mobile Pay,Downtown,Yes
+T0082,2023-05-31,18:06,Wednesday,C100,Male,26,Tea,Drink,Large,1,2.55,2.55,Card,Suburb,No
+T0083,2023-03-28,07:38,Tuesday,C430,Male,46,Latte,Drink,Small,2,3.62,7.24,Cash,Suburb,Yes
+T0084,2023-08-23,20:49,Wednesday,C062,Female,37,Brownie,Food,-,3,1.93,5.79,Cash,Suburb,Yes
+T0085,2023-02-20,08:53,Monday,C242,Female,59,Iced Coffee,Drink,Large,2,3.72,7.44,Cash,Downtown,No
+T0086,2023-03-03,08:08,Friday,C472,Male,31,Latte,Drink,Large,2,4.75,9.5,Cash,Midtown,No
+T0087,2023-11-19,06:21,Sunday,C033,Male,30,Mocha,Drink,Large,1,4.83,4.83,Mobile Pay,Riverside,Yes
+T0088,2023-05-11,16:09,Thursday,C426,Female,39,Mocha,Drink,Small,3,3.64,10.92,Card,Riverside,No
+T0089,2023-08-01,09:04,Tuesday,C492,Female,40,Sandwich,Food,-,2,4.1,8.2,Mobile Pay,Uptown,No
+T0090,2023-08-13,14:42,Sunday,C035,Female,46,Iced Coffee,Drink,Medium,3,3.25,9.75,Mobile Pay,Suburb,No
+T0091,2023-09-21,19:49,Thursday,C151,Male,44,Cappuccino,Drink,Medium,2,3.64,7.28,Mobile Pay,Riverside,No
+T0092,2023-11-08,12:19,Wednesday,C028,Male,45,Sandwich,Food,-,2,4.57,9.14,Mobile Pay,Uptown,Yes
+T0093,2023-04-17,06:48,Monday,C177,Female,57,Brownie,Food,-,2,1.64,3.28,Mobile Pay,Riverside,No
+T0094,2023-08-28,15:04,Monday,C499,Male,42,Brownie,Food,-,2,2.3,4.6,Cash,Uptown,No
+T0095,2023-06-15,13:56,Thursday,C135,Male,51,Tea,Drink,Medium,1,3.01,3.01,Mobile Pay,Midtown,No
+T0096,2023-11-11,09:07,Saturday,C270,Male,49,Espresso,Drink,Medium,2,3.45,6.9,Card,Riverside,Yes
+T0097,2023-01-30,18:44,Monday,C076,Male,59,Sandwich,Food,-,2,4.15,8.3,Card,Uptown,No
+T0098,2023-08-15,06:28,Tuesday,C298,Female,38,Tea,Drink,Large,1,3.16,3.16,Mobile Pay,Uptown,Yes
+T0099,2023-12-15,17:35,Friday,C099,Female,59,Tea,Drink,Small,2,3.44,6.88,Mobile Pay,Downtown,Yes
+T0100,2023-06-01,18:01,Thursday,C426,Male,49,Brownie,Food,-,2,1.85,3.7,Card,Uptown,No
+T0101,2023-12-05,07:56,Tuesday,C036,Male,45,Croissant,Food,-,3,3.05,9.15,Cash,Downtown,Yes
+T0102,2023-04-14,20:02,Friday,C146,Female,29,Sandwich,Food,-,2,6.23,12.46,Mobile Pay,Riverside,Yes
+T0103,2023-12-03,19:12,Sunday,C453,Female,42,Mocha,Drink,Small,2,3.65,7.3,Card,Midtown,Yes
+T0104,2023-07-03,11:43,Monday,C443,Female,55,Muffin,Food,-,3,2.17,6.51,Cash,Suburb,Yes
+T0105,2023-06-08,19:41,Thursday,C074,Female,43,Cappuccino,Drink,Medium,1,3.73,3.73,Mobile Pay,Downtown,No
+T0106,2023-09-14,18:54,Thursday,C304,Male,39,Latte,Drink,Large,1,4.61,4.61,Mobile Pay,Riverside,No
+T0107,2023-02-17,11:37,Friday,C490,Male,41,Mocha,Drink,Large,3,3.7,11.1,Mobile Pay,Suburb,No
+T0108,2023-01-11,08:58,Wednesday,C270,Male,57,Mocha,Drink,Medium,2,5.31,10.62,Card,Suburb,Yes
+T0109,2023-11-17,11:40,Friday,C243,Male,23,Mocha,Drink,Small,1,4.36,4.36,Cash,Midtown,Yes
+T0110,2023-05-14,09:06,Sunday,C377,Male,34,Cappuccino,Drink,Small,3,3.91,11.73,Card,Midtown,No
+T0111,2023-07-31,18:06,Monday,C380,Female,42,Mocha,Drink,Small,3,3.59,10.77,Mobile Pay,Uptown,Yes
+T0112,2023-11-25,16:01,Saturday,C373,Female,22,Mocha,Drink,Small,3,5.07,15.21,Cash,Suburb,No
+T0113,2023-08-08,18:18,Tuesday,C125,Male,59,Tea,Drink,Medium,3,3.34,10.02,Cash,Midtown,No
+T0114,2023-07-03,08:02,Monday,C358,Female,45,Sandwich,Food,-,1,5.47,5.47,Cash,Uptown,Yes
+T0115,2023-09-08,14:56,Friday,C398,Female,31,Tea,Drink,Medium,2,2.53,5.06,Card,Suburb,No
+T0116,2023-02-23,10:08,Thursday,C140,Female,30,Mocha,Drink,Small,2,4.67,9.34,Cash,Uptown,Yes
+T0117,2023-07-13,07:55,Thursday,C208,Female,42,Mocha,Drink,Large,2,5.33,10.66,Card,Downtown,Yes
+T0118,2023-03-25,14:49,Saturday,C140,Male,51,Cappuccino,Drink,Small,2,3.69,7.38,Card,Riverside,Yes
+T0119,2023-06-28,08:58,Wednesday,C007,Female,30,Tea,Drink,Medium,2,2.12,4.24,Card,Riverside,Yes
+T0120,2023-08-12,18:41,Saturday,C011,Female,48,Tea,Drink,Medium,3,2.62,7.86,Mobile Pay,Midtown,Yes
+T0121,2023-01-05,15:15,Thursday,C047,Male,22,Iced Coffee,Drink,Small,2,4.3,8.6,Cash,Midtown,Yes
+T0122,2023-06-16,17:05,Friday,C324,Female,53,Sandwich,Food,-,3,6.03,18.09,Cash,Riverside,No
+T0123,2023-06-16,18:37,Friday,C121,Male,22,Mocha,Drink,Large,3,4.68,14.04,Mobile Pay,Suburb,No
+T0124,2023-05-21,12:04,Sunday,C199,Male,33,Tea,Drink,Medium,3,2.72,8.16,Card,Downtown,Yes
+T0125,2023-01-07,16:06,Saturday,C294,Female,60,Brownie,Food,-,1,1.84,1.84,Cash,Downtown,No
+T0126,2023-09-30,17:33,Saturday,C234,Female,57,Cappuccino,Drink,Large,2,4.1,8.2,Mobile Pay,Riverside,Yes
+T0127,2023-04-04,09:57,Tuesday,C320,Female,28,Espresso,Drink,Large,2,2.48,4.96,Mobile Pay,Suburb,Yes
+T0128,2023-06-18,18:14,Sunday,C095,Female,45,Croissant,Food,-,1,2.43,2.43,Cash,Riverside,No
+T0129,2023-08-25,08:11,Friday,C474,Female,42,Latte,Drink,Small,3,4.81,14.43,Mobile Pay,Uptown,Yes
+T0130,2023-07-28,14:29,Friday,C060,Female,52,Sandwich,Food,-,2,4.12,8.24,Cash,Riverside,Yes
+T0131,2023-03-23,07:34,Thursday,C237,Male,48,Latte,Drink,Medium,3,3.52,10.56,Mobile Pay,Midtown,Yes
+T0132,2023-04-18,14:40,Tuesday,C465,Female,19,Tea,Drink,Large,1,2.97,2.97,Mobile Pay,Riverside,No
+T0133,2023-09-13,18:04,Wednesday,C332,Male,22,Mocha,Drink,Medium,1,4.17,4.17,Mobile Pay,Suburb,No
+T0134,2023-12-18,06:37,Monday,C371,Male,39,Sandwich,Food,-,3,4.48,13.44,Mobile Pay,Uptown,No
+T0135,2023-10-09,10:14,Monday,C246,Male,35,Brownie,Food,-,2,2.44,4.88,Card,Downtown,No
+T0136,2023-04-01,19:33,Saturday,C323,Female,24,Brownie,Food,-,1,1.7,1.7,Cash,Uptown,No
+T0137,2023-05-16,06:01,Tuesday,C190,Female,52,Croissant,Food,-,3,3.46,10.38,Cash,Suburb,No
+T0138,2023-04-18,17:20,Tuesday,C167,Male,43,Croissant,Food,-,2,3.39,6.78,Mobile Pay,Downtown,No
+T0139,2023-11-11,09:35,Saturday,C373,Male,23,Mocha,Drink,Large,1,5.3,5.3,Card,Riverside,No
+T0140,2023-10-01,15:41,Sunday,C315,Male,42,Iced Coffee,Drink,Large,3,4.43,13.29,Card,Suburb,No
+T0141,2023-06-11,17:13,Sunday,C266,Male,20,Iced Coffee,Drink,Large,2,3.95,7.9,Mobile Pay,Uptown,No
+T0142,2023-06-17,13:07,Saturday,C483,Male,41,Tea,Drink,Small,3,2.36,7.08,Mobile Pay,Riverside,Yes
+T0143,2023-10-10,16:42,Tuesday,C021,Male,26,Espresso,Drink,Medium,1,3.16,3.16,Card,Suburb,No
+T0144,2023-05-01,12:43,Monday,C082,Female,20,Latte,Drink,Small,1,4.3,4.3,Card,Downtown,Yes
+T0145,2023-09-16,15:01,Saturday,C375,Female,18,Latte,Drink,Large,3,4.65,13.95,Card,Midtown,Yes
+T0146,2023-07-07,08:09,Friday,C470,Male,33,Mocha,Drink,Large,1,5.12,5.12,Card,Downtown,Yes
+T0147,2023-11-26,08:36,Sunday,C361,Female,58,Sandwich,Food,-,1,5.27,5.27,Cash,Midtown,Yes
+T0148,2023-07-28,14:13,Friday,C221,Female,35,Muffin,Food,-,3,2.12,6.36,Card,Suburb,Yes
+T0149,2023-07-29,19:20,Saturday,C078,Female,56,Croissant,Food,-,1,3.15,3.15,Cash,Downtown,No
+T0150,2023-06-01,20:02,Thursday,C244,Female,19,Mocha,Drink,Medium,3,3.78,11.34,Cash,Suburb,No
+T0151,2023-08-22,17:07,Tuesday,C404,Male,56,Iced Coffee,Drink,Medium,2,4.46,8.92,Card,Riverside,Yes
+T0152,2023-07-28,16:01,Friday,C292,Male,23,Latte,Drink,Small,3,4.83,14.49,Card,Downtown,Yes
+T0153,2023-05-31,09:54,Wednesday,C216,Female,25,Iced Coffee,Drink,Medium,3,3.08,9.24,Cash,Downtown,No
+T0154,2023-02-17,19:31,Friday,C076,Male,50,Brownie,Food,-,2,2.46,4.92,Cash,Midtown,Yes
+T0155,2023-01-15,14:32,Sunday,C243,Male,42,Tea,Drink,Large,3,3.31,9.93,Mobile Pay,Riverside,No
+T0156,2023-03-28,13:29,Tuesday,C313,Male,47,Espresso,Drink,Large,1,3.38,3.38,Cash,Midtown,No
+T0157,2023-06-04,18:05,Sunday,C137,Male,44,Brownie,Food,-,3,1.55,4.65,Mobile Pay,Downtown,No
+T0158,2023-05-07,19:35,Sunday,C490,Male,30,Croissant,Food,-,2,3.36,6.72,Mobile Pay,Suburb,No
+T0159,2023-10-30,06:28,Monday,C372,Female,50,Brownie,Food,-,3,1.66,4.98,Cash,Downtown,No
+T0160,2023-02-19,11:56,Sunday,C081,Female,41,Croissant,Food,-,2,2.94,5.88,Cash,Midtown,No
+T0161,2023-09-15,10:18,Friday,C446,Male,39,Mocha,Drink,Large,3,3.81,11.43,Cash,Downtown,Yes
+T0162,2023-07-19,12:49,Wednesday,C242,Male,37,Muffin,Food,-,3,2.91,8.73,Mobile Pay,Riverside,No
+T0163,2023-04-20,13:02,Thursday,C371,Female,36,Muffin,Food,-,3,2.73,8.19,Card,Uptown,No
+T0164,2023-02-22,15:06,Wednesday,C079,Female,54,Croissant,Food,-,3,3.44,10.32,Cash,Uptown,No
+T0165,2023-04-01,15:13,Saturday,C244,Male,44,Latte,Drink,Large,2,4.81,9.62,Cash,Downtown,Yes
+T0166,2023-09-17,09:43,Sunday,C450,Female,39,Cappuccino,Drink,Small,2,3.7,7.4,Cash,Uptown,Yes
+T0167,2023-04-14,18:08,Friday,C261,Male,22,Brownie,Food,-,3,2.39,7.17,Card,Suburb,Yes
+T0168,2023-01-22,20:44,Sunday,C270,Male,41,Mocha,Drink,Medium,2,3.72,7.44,Cash,Suburb,Yes
+T0169,2023-05-27,14:43,Saturday,C115,Female,27,Mocha,Drink,Large,1,5.0,5.0,Mobile Pay,Downtown,No
+T0170,2023-08-26,10:18,Saturday,C113,Male,26,Sandwich,Food,-,2,4.61,9.22,Mobile Pay,Downtown,Yes
+T0171,2023-03-03,12:14,Friday,C374,Male,45,Iced Coffee,Drink,Medium,3,4.15,12.45,Card,Uptown,No
+T0172,2023-06-06,14:14,Tuesday,C075,Female,19,Cappuccino,Drink,Small,1,3.31,3.31,Mobile Pay,Uptown,Yes
+T0173,2023-03-07,09:53,Tuesday,C180,Female,40,Cappuccino,Drink,Small,1,3.6,3.6,Cash,Riverside,No
+T0174,2023-02-28,15:19,Tuesday,C312,Female,47,Sandwich,Food,-,3,4.96,14.88,Card,Downtown,Yes
+T0175,2023-08-08,07:18,Tuesday,C085,Male,20,Sandwich,Food,-,1,4.23,4.23,Card,Midtown,No
+T0176,2023-05-22,10:56,Monday,C067,Male,30,Tea,Drink,Small,1,3.32,3.32,Card,Midtown,No
+T0177,2023-06-02,13:44,Friday,C027,Male,29,Mocha,Drink,Small,1,4.45,4.45,Card,Midtown,No
+T0178,2023-06-13,06:16,Tuesday,C480,Male,45,Sandwich,Food,-,3,4.26,12.78,Cash,Midtown,No
+T0179,2023-10-25,15:12,Wednesday,C435,Female,22,Croissant,Food,-,1,3.36,3.36,Card,Suburb,No
+T0180,2023-01-01,13:36,Sunday,C238,Female,57,Mocha,Drink,Large,3,4.46,13.38,Card,Suburb,No
+T0181,2023-10-10,20:12,Tuesday,C491,Male,27,Sandwich,Food,-,1,4.05,4.05,Mobile Pay,Downtown,Yes
+T0182,2023-07-13,10:33,Thursday,C364,Male,38,Sandwich,Food,-,3,4.06,12.18,Card,Suburb,No
+T0183,2023-02-22,07:05,Wednesday,C118,Male,44,Espresso,Drink,Medium,1,2.3,2.3,Mobile Pay,Riverside,Yes
+T0184,2023-08-07,12:50,Monday,C500,Male,50,Espresso,Drink,Small,2,2.88,5.76,Card,Downtown,Yes
+T0185,2023-11-12,07:00,Sunday,C184,Male,57,Latte,Drink,Small,2,3.66,7.32,Card,Riverside,Yes
+T0186,2023-03-14,11:00,Tuesday,C175,Female,60,Mocha,Drink,Large,2,3.54,7.08,Cash,Downtown,Yes
+T0187,2023-10-19,09:08,Thursday,C208,Female,22,Iced Coffee,Drink,Large,2,3.91,7.82,Mobile Pay,Midtown,No
+T0188,2023-11-08,13:40,Wednesday,C125,Male,28,Croissant,Food,-,3,2.24,6.72,Cash,Downtown,No
+T0189,2023-06-11,07:58,Sunday,C366,Female,58,Espresso,Drink,Medium,3,2.14,6.42,Card,Uptown,Yes
+T0190,2023-08-31,12:57,Thursday,C269,Female,43,Tea,Drink,Large,2,3.13,6.26,Cash,Uptown,Yes
+T0191,2023-10-31,11:49,Tuesday,C490,Female,50,Tea,Drink,Small,2,2.1,4.2,Card,Uptown,Yes
+T0192,2023-07-24,20:30,Monday,C003,Female,43,Croissant,Food,-,3,2.1,6.3,Mobile Pay,Riverside,No
+T0193,2023-02-15,15:44,Wednesday,C366,Female,43,Latte,Drink,Medium,1,3.88,3.88,Cash,Riverside,No
+T0194,2023-10-06,19:22,Friday,C311,Female,31,Croissant,Food,-,3,3.1,9.3,Mobile Pay,Riverside,No
+T0195,2023-09-03,20:32,Sunday,C275,Female,19,Muffin,Food,-,2,2.62,5.24,Cash,Downtown,Yes
+T0196,2023-09-10,16:05,Sunday,C301,Male,48,Iced Coffee,Drink,Medium,2,3.28,6.56,Cash,Midtown,Yes
+T0197,2023-07-05,16:44,Wednesday,C011,Female,58,Latte,Drink,Large,3,3.6,10.8,Mobile Pay,Midtown,Yes
+T0198,2023-11-25,20:16,Saturday,C203,Female,20,Muffin,Food,-,2,2.69,5.38,Cash,Riverside,Yes
+T0199,2023-09-22,09:09,Friday,C181,Female,35,Mocha,Drink,Medium,3,5.48,16.44,Card,Downtown,No
+T0200,2023-08-01,17:07,Tuesday,C007,Female,27,Cappuccino,Drink,Small,3,4.04,12.12,Card,Uptown,Yes
+T0201,2023-11-11,15:09,Saturday,C327,Female,20,Sandwich,Food,-,1,5.56,5.56,Card,Downtown,No
+T0202,2023-05-03,20:39,Wednesday,C286,Male,59,Iced Coffee,Drink,Large,3,3.53,10.59,Mobile Pay,Suburb,Yes
+T0203,2023-02-27,16:55,Monday,C343,Male,22,Tea,Drink,Medium,3,2.46,7.38,Cash,Uptown,No
+T0204,2023-11-12,07:22,Sunday,C282,Male,48,Muffin,Food,-,2,2.98,5.96,Cash,Downtown,No
+T0205,2023-04-22,07:06,Saturday,C494,Female,27,Tea,Drink,Medium,3,2.59,7.77,Card,Downtown,No
+T0206,2023-05-19,16:34,Friday,C449,Female,59,Cappuccino,Drink,Large,3,3.17,9.51,Cash,Uptown,Yes
+T0207,2023-11-17,07:12,Friday,C344,Male,45,Muffin,Food,-,3,2.0,6.0,Card,Midtown,Yes
+T0208,2023-03-21,20:46,Tuesday,C108,Female,33,Tea,Drink,Small,2,3.01,6.02,Card,Downtown,No
+T0209,2023-03-12,06:52,Sunday,C432,Female,60,Croissant,Food,-,3,2.28,6.84,Cash,Uptown,Yes
+T0210,2023-08-12,16:30,Saturday,C089,Female,18,Tea,Drink,Large,1,3.19,3.19,Card,Uptown,Yes
+T0211,2023-03-14,10:16,Tuesday,C035,Female,37,Croissant,Food,-,3,3.36,10.08,Card,Downtown,Yes
+T0212,2023-02-09,11:17,Thursday,C031,Female,56,Brownie,Food,-,2,2.24,4.48,Card,Suburb,No
+T0213,2023-03-31,19:14,Friday,C466,Male,33,Iced Coffee,Drink,Small,1,4.09,4.09,Cash,Suburb,No
+T0214,2023-09-18,11:30,Monday,C164,Female,53,Brownie,Food,-,1,1.92,1.92,Mobile Pay,Riverside,Yes
+T0215,2023-12-15,20:34,Friday,C326,Male,21,Tea,Drink,Large,2,2.22,4.44,Cash,Midtown,No
+T0216,2023-07-16,17:38,Sunday,C200,Female,56,Brownie,Food,-,3,2.11,6.33,Card,Downtown,Yes
+T0217,2023-12-30,15:11,Saturday,C295,Female,19,Brownie,Food,-,1,1.98,1.98,Cash,Midtown,No
+T0218,2023-12-20,17:20,Wednesday,C039,Male,45,Iced Coffee,Drink,Large,3,4.04,12.12,Cash,Downtown,Yes
+T0219,2023-08-03,08:21,Thursday,C102,Male,20,Brownie,Food,-,2,2.12,4.24,Card,Midtown,No
+T0220,2023-03-29,06:00,Wednesday,C473,Female,60,Espresso,Drink,Small,1,3.12,3.12,Cash,Uptown,No
+T0221,2023-01-16,14:36,Monday,C320,Male,37,Croissant,Food,-,3,2.97,8.91,Card,Midtown,No
+T0222,2023-09-05,18:40,Tuesday,C278,Female,24,Espresso,Drink,Medium,2,2.3,4.6,Mobile Pay,Uptown,Yes
+T0223,2023-07-28,18:22,Friday,C114,Female,27,Iced Coffee,Drink,Large,1,3.21,3.21,Mobile Pay,Suburb,No
+T0224,2023-03-22,18:47,Wednesday,C076,Female,34,Espresso,Drink,Large,2,3.1,6.2,Card,Uptown,No
+T0225,2023-10-17,13:54,Tuesday,C040,Male,38,Muffin,Food,-,2,2.04,4.08,Card,Riverside,Yes
+T0226,2023-05-08,07:40,Monday,C079,Male,24,Iced Coffee,Drink,Large,3,3.08,9.24,Cash,Midtown,Yes
+T0227,2023-05-30,17:25,Tuesday,C419,Male,27,Latte,Drink,Small,3,4.38,13.14,Mobile Pay,Downtown,No
+T0228,2023-08-23,09:20,Wednesday,C366,Female,30,Croissant,Food,-,2,3.14,6.28,Card,Riverside,No
+T0229,2023-03-23,10:09,Thursday,C166,Female,26,Muffin,Food,-,2,2.43,4.86,Card,Riverside,Yes
+T0230,2023-03-02,07:44,Thursday,C020,Male,60,Mocha,Drink,Large,2,4.89,9.78,Cash,Downtown,No
+T0231,2023-10-25,08:00,Wednesday,C130,Male,23,Latte,Drink,Medium,3,4.2,12.6,Cash,Riverside,No
+T0232,2023-12-04,14:42,Monday,C045,Male,30,Sandwich,Food,-,2,4.84,9.68,Mobile Pay,Suburb,Yes
+T0233,2023-10-21,12:12,Saturday,C047,Male,22,Croissant,Food,-,2,2.3,4.6,Cash,Uptown,Yes
+T0234,2023-03-02,17:21,Thursday,C079,Female,46,Iced Coffee,Drink,Medium,3,3.24,9.72,Card,Suburb,Yes
+T0235,2023-11-16,13:23,Thursday,C381,Male,57,Cappuccino,Drink,Small,3,3.11,9.33,Card,Suburb,Yes
+T0236,2023-11-01,18:32,Wednesday,C163,Female,28,Mocha,Drink,Small,3,4.72,14.16,Cash,Midtown,Yes
+T0237,2023-10-24,18:47,Tuesday,C135,Female,50,Croissant,Food,-,3,3.28,9.84,Card,Uptown,Yes
+T0238,2023-12-16,19:51,Saturday,C018,Female,51,Muffin,Food,-,1,1.98,1.98,Card,Uptown,No
+T0239,2023-02-23,14:23,Thursday,C299,Female,28,Espresso,Drink,Medium,1,3.1,3.1,Mobile Pay,Downtown,No
+T0240,2023-06-05,11:56,Monday,C003,Male,48,Muffin,Food,-,1,2.25,2.25,Mobile Pay,Midtown,Yes
+T0241,2023-10-27,12:03,Friday,C162,Male,55,Mocha,Drink,Large,2,4.39,8.78,Card,Riverside,No
+T0242,2023-08-31,15:45,Thursday,C478,Female,46,Mocha,Drink,Small,1,4.88,4.88,Mobile Pay,Uptown,No
+T0243,2023-06-22,12:22,Thursday,C043,Female,34,Latte,Drink,Medium,1,4.22,4.22,Mobile Pay,Midtown,Yes
+T0244,2023-01-13,12:38,Friday,C220,Female,50,Mocha,Drink,Small,1,4.11,4.11,Mobile Pay,Downtown,No
+T0245,2023-09-21,13:51,Thursday,C162,Male,33,Tea,Drink,Medium,2,2.69,5.38,Cash,Suburb,Yes
+T0246,2023-02-04,15:28,Saturday,C368,Male,48,Sandwich,Food,-,2,4.47,8.94,Mobile Pay,Downtown,Yes
+T0247,2023-03-29,09:42,Wednesday,C261,Male,52,Brownie,Food,-,2,2.0,4.0,Mobile Pay,Suburb,No
+T0248,2023-10-07,11:10,Saturday,C267,Male,60,Iced Coffee,Drink,Large,3,3.06,9.18,Cash,Downtown,Yes
+T0249,2023-08-28,10:24,Monday,C162,Male,30,Croissant,Food,-,2,2.29,4.58,Mobile Pay,Downtown,No
+T0250,2023-01-20,17:37,Friday,C318,Female,33,Mocha,Drink,Large,1,3.69,3.69,Card,Downtown,No
+T0251,2023-01-19,18:47,Thursday,C156,Male,33,Tea,Drink,Small,3,2.31,6.93,Cash,Suburb,Yes
+T0252,2023-05-16,08:04,Tuesday,C018,Female,35,Muffin,Food,-,1,2.29,2.29,Mobile Pay,Suburb,Yes
+T0253,2023-08-11,06:25,Friday,C390,Male,40,Latte,Drink,Small,1,4.0,4.0,Card,Uptown,Yes
+T0254,2023-09-07,20:26,Thursday,C329,Male,52,Latte,Drink,Large,2,4.2,8.4,Cash,Riverside,Yes
+T0255,2023-04-01,07:47,Saturday,C364,Female,27,Cappuccino,Drink,Medium,1,3.82,3.82,Card,Suburb,Yes
+T0256,2023-02-22,19:23,Wednesday,C465,Female,36,Croissant,Food,-,3,2.68,8.04,Mobile Pay,Suburb,No
+T0257,2023-03-23,06:05,Thursday,C258,Male,60,Muffin,Food,-,3,2.53,7.59,Card,Downtown,No
+T0258,2023-05-16,12:45,Tuesday,C320,Male,55,Brownie,Food,-,1,2.08,2.08,Cash,Uptown,Yes
+T0259,2023-06-08,08:44,Thursday,C020,Male,27,Sandwich,Food,-,3,4.37,13.11,Cash,Riverside,Yes
+T0260,2023-07-22,19:39,Saturday,C161,Female,18,Iced Coffee,Drink,Large,1,3.14,3.14,Mobile Pay,Riverside,Yes
+T0261,2023-11-28,20:01,Tuesday,C439,Female,21,Iced Coffee,Drink,Medium,3,4.02,12.06,Card,Midtown,No
+T0262,2023-06-13,19:42,Tuesday,C325,Female,33,Espresso,Drink,Large,3,2.1,6.3,Mobile Pay,Suburb,No
+T0263,2023-08-16,20:35,Wednesday,C127,Female,37,Brownie,Food,-,3,1.64,4.92,Card,Midtown,Yes
+T0264,2023-12-31,07:13,Sunday,C091,Female,20,Tea,Drink,Medium,1,3.1,3.1,Card,Uptown,No
+T0265,2023-08-31,17:58,Thursday,C458,Male,34,Cappuccino,Drink,Large,3,3.15,9.45,Cash,Riverside,No
+T0266,2023-05-30,20:09,Tuesday,C231,Female,33,Tea,Drink,Small,1,2.06,2.06,Mobile Pay,Midtown,No
+T0267,2023-04-11,09:53,Tuesday,C194,Male,18,Tea,Drink,Medium,3,2.43,7.29,Card,Downtown,Yes
+T0268,2023-06-12,15:58,Monday,C101,Male,19,Sandwich,Food,-,3,5.19,15.57,Mobile Pay,Suburb,No
+T0269,2023-12-26,07:40,Tuesday,C431,Male,47,Sandwich,Food,-,1,5.56,5.56,Mobile Pay,Midtown,Yes
+T0270,2023-09-03,11:45,Sunday,C028,Male,35,Iced Coffee,Drink,Small,2,4.45,8.9,Cash,Riverside,Yes
+T0271,2023-11-13,09:07,Monday,C188,Male,38,Espresso,Drink,Medium,3,2.5,7.5,Mobile Pay,Uptown,No
+T0272,2023-06-18,07:56,Sunday,C072,Female,59,Croissant,Food,-,2,2.6,5.2,Cash,Suburb,Yes
+T0273,2023-01-01,19:21,Sunday,C470,Male,57,Latte,Drink,Medium,3,4.05,12.15,Cash,Uptown,No
+T0274,2023-01-20,17:54,Friday,C437,Male,33,Croissant,Food,-,2,2.97,5.94,Cash,Riverside,Yes
+T0275,2023-10-27,12:01,Friday,C227,Male,26,Latte,Drink,Small,3,3.66,10.98,Card,Uptown,Yes
+T0276,2023-07-20,16:37,Thursday,C471,Male,56,Brownie,Food,-,3,2.39,7.17,Cash,Riverside,No
+T0277,2023-01-15,19:42,Sunday,C373,Female,56,Cappuccino,Drink,Small,2,3.13,6.26,Mobile Pay,Midtown,No
+T0278,2023-07-27,09:48,Thursday,C100,Male,57,Latte,Drink,Medium,1,4.32,4.32,Cash,Suburb,Yes
+T0279,2023-05-31,09:17,Wednesday,C253,Male,23,Espresso,Drink,Small,3,2.6,7.8,Mobile Pay,Uptown,Yes
+T0280,2023-02-02,20:36,Thursday,C158,Male,47,Croissant,Food,-,3,3.23,9.69,Mobile Pay,Uptown,Yes
+T0281,2023-04-07,18:28,Friday,C197,Female,48,Muffin,Food,-,1,1.98,1.98,Card,Suburb,No
+T0282,2023-05-16,07:12,Tuesday,C454,Male,47,Iced Coffee,Drink,Large,3,3.78,11.34,Mobile Pay,Uptown,No
+T0283,2023-06-05,19:59,Monday,C068,Female,46,Iced Coffee,Drink,Small,3,4.45,13.35,Cash,Downtown,No
+T0284,2023-10-20,08:49,Friday,C067,Female,22,Brownie,Food,-,1,1.67,1.67,Mobile Pay,Downtown,No
+T0285,2023-08-23,09:49,Wednesday,C050,Male,37,Iced Coffee,Drink,Large,3,4.44,13.32,Cash,Midtown,No
+T0286,2023-11-15,09:58,Wednesday,C352,Female,48,Mocha,Drink,Medium,3,3.65,10.95,Mobile Pay,Downtown,Yes
+T0287,2023-05-27,12:21,Saturday,C368,Male,54,Tea,Drink,Small,3,2.35,7.05,Cash,Suburb,Yes
+T0288,2023-02-20,12:11,Monday,C333,Male,50,Croissant,Food,-,1,2.77,2.77,Mobile Pay,Midtown,Yes
+T0289,2023-10-04,20:29,Wednesday,C231,Female,45,Iced Coffee,Drink,Small,3,3.94,11.82,Card,Uptown,Yes
+T0290,2023-01-16,11:32,Monday,C451,Male,47,Brownie,Food,-,1,2.39,2.39,Card,Suburb,No
+T0291,2023-02-16,08:10,Thursday,C082,Male,52,Sandwich,Food,-,2,4.66,9.32,Cash,Uptown,No
+T0292,2023-01-31,06:38,Tuesday,C399,Male,31,Croissant,Food,-,3,2.9,8.7,Card,Midtown,Yes
+T0293,2023-11-07,15:23,Tuesday,C051,Female,30,Croissant,Food,-,1,3.14,3.14,Card,Uptown,Yes
+T0294,2023-10-24,06:53,Tuesday,C249,Female,43,Sandwich,Food,-,2,5.86,11.72,Cash,Downtown,No
+T0295,2023-05-02,10:15,Tuesday,C335,Female,20,Brownie,Food,-,1,2.07,2.07,Cash,Midtown,Yes
+T0296,2023-07-19,18:41,Wednesday,C423,Male,18,Mocha,Drink,Large,3,5.2,15.6,Cash,Downtown,Yes
+T0297,2023-04-17,06:32,Monday,C366,Female,42,Sandwich,Food,-,2,4.55,9.1,Cash,Suburb,No
+T0298,2023-05-28,14:01,Sunday,C418,Male,41,Sandwich,Food,-,3,5.19,15.57,Cash,Downtown,No
+T0299,2023-03-21,12:21,Tuesday,C309,Male,22,Latte,Drink,Large,1,4.07,4.07,Mobile Pay,Suburb,Yes
+T0300,2023-03-19,12:35,Sunday,C009,Male,22,Latte,Drink,Large,1,4.23,4.23,Cash,Riverside,No
+T0301,2023-12-21,11:25,Thursday,C451,Male,32,Brownie,Food,-,2,1.63,3.26,Card,Uptown,Yes
+T0302,2023-08-06,18:47,Sunday,C254,Female,19,Espresso,Drink,Medium,3,3.33,9.99,Cash,Uptown,Yes
+T0303,2023-10-03,14:25,Tuesday,C345,Male,40,Mocha,Drink,Small,2,3.79,7.58,Cash,Uptown,No
+T0304,2023-06-20,19:21,Tuesday,C066,Female,24,Brownie,Food,-,3,1.74,5.22,Mobile Pay,Suburb,No
+T0305,2023-07-29,20:17,Saturday,C082,Female,43,Espresso,Drink,Large,3,2.4,7.2,Card,Riverside,No
+T0306,2023-03-23,13:35,Thursday,C099,Female,49,Cappuccino,Drink,Small,1,4.06,4.06,Cash,Suburb,Yes
+T0307,2023-03-18,13:21,Saturday,C067,Male,58,Muffin,Food,-,3,2.85,8.55,Cash,Riverside,Yes
+T0308,2023-05-05,09:02,Friday,C372,Female,44,Cappuccino,Drink,Small,3,3.07,9.21,Cash,Downtown,Yes
+T0309,2023-01-25,10:39,Wednesday,C250,Female,51,Brownie,Food,-,2,1.9,3.8,Card,Midtown,Yes
+T0310,2023-09-10,20:58,Sunday,C291,Male,25,Espresso,Drink,Medium,3,2.81,8.43,Card,Suburb,Yes
+T0311,2023-05-22,18:06,Monday,C305,Male,46,Croissant,Food,-,2,2.17,4.34,Card,Uptown,Yes
+T0312,2023-02-13,17:59,Monday,C018,Female,56,Mocha,Drink,Small,1,3.67,3.67,Cash,Uptown,Yes
+T0313,2023-09-14,12:43,Thursday,C054,Male,53,Iced Coffee,Drink,Large,3,4.1,12.3,Card,Suburb,Yes
+T0314,2023-01-28,19:33,Saturday,C262,Male,60,Iced Coffee,Drink,Large,1,3.57,3.57,Mobile Pay,Riverside,No
+T0315,2023-10-24,06:09,Tuesday,C090,Male,51,Iced Coffee,Drink,Medium,3,3.82,11.46,Cash,Uptown,Yes
+T0316,2023-08-15,18:16,Tuesday,C291,Female,51,Muffin,Food,-,3,2.15,6.45,Cash,Uptown,No
+T0317,2023-06-13,14:07,Tuesday,C020,Male,60,Brownie,Food,-,3,2.31,6.93,Card,Midtown,No
+T0318,2023-10-25,11:26,Wednesday,C142,Female,41,Tea,Drink,Medium,2,2.77,5.54,Cash,Downtown,No
+T0319,2023-03-03,13:29,Friday,C154,Female,24,Iced Coffee,Drink,Medium,3,3.27,9.81,Cash,Downtown,Yes
+T0320,2023-10-23,15:05,Monday,C119,Female,60,Cappuccino,Drink,Small,2,3.39,6.78,Mobile Pay,Riverside,Yes
+T0321,2023-10-18,14:37,Wednesday,C141,Male,26,Latte,Drink,Medium,1,4.97,4.97,Mobile Pay,Suburb,No
+T0322,2023-11-06,13:57,Monday,C420,Male,50,Cappuccino,Drink,Medium,3,4.13,12.39,Mobile Pay,Riverside,Yes
+T0323,2023-08-23,08:44,Wednesday,C013,Male,50,Muffin,Food,-,1,2.5,2.5,Mobile Pay,Downtown,No
+T0324,2023-07-17,18:24,Monday,C092,Male,58,Croissant,Food,-,1,2.77,2.77,Card,Riverside,Yes
+T0325,2023-06-06,11:30,Tuesday,C487,Male,34,Tea,Drink,Medium,2,3.37,6.74,Mobile Pay,Midtown,Yes
+T0326,2023-09-02,14:06,Saturday,C046,Male,30,Mocha,Drink,Medium,2,3.69,7.38,Cash,Downtown,Yes
+T0327,2023-09-18,16:50,Monday,C164,Male,31,Muffin,Food,-,1,2.4,2.4,Cash,Riverside,No
+T0328,2023-10-08,09:24,Sunday,C160,Male,47,Latte,Drink,Large,2,4.29,8.58,Card,Riverside,Yes
+T0329,2023-10-18,07:13,Wednesday,C434,Male,25,Iced Coffee,Drink,Small,3,4.13,12.39,Card,Uptown,No
+T0330,2023-06-16,14:03,Friday,C248,Female,48,Cappuccino,Drink,Large,3,4.34,13.02,Mobile Pay,Suburb,Yes
+T0331,2023-03-12,06:50,Sunday,C413,Female,38,Latte,Drink,Small,2,4.48,8.96,Card,Midtown,No
+T0332,2023-08-25,17:48,Friday,C058,Female,32,Tea,Drink,Small,3,3.37,10.11,Cash,Midtown,Yes
+T0333,2023-01-24,17:49,Tuesday,C142,Female,35,Croissant,Food,-,1,2.58,2.58,Mobile Pay,Riverside,Yes
+T0334,2023-11-17,18:04,Friday,C240,Male,28,Tea,Drink,Large,3,2.27,6.81,Card,Suburb,Yes
+T0335,2023-11-13,20:15,Monday,C483,Male,45,Latte,Drink,Medium,3,3.55,10.65,Mobile Pay,Uptown,Yes
+T0336,2023-11-20,20:38,Monday,C418,Female,56,Croissant,Food,-,3,2.63,7.89,Mobile Pay,Downtown,Yes
+T0337,2023-10-06,19:15,Friday,C084,Female,42,Iced Coffee,Drink,Large,2,4.44,8.88,Card,Downtown,No
+T0338,2023-07-02,06:31,Sunday,C430,Female,58,Tea,Drink,Small,1,3.38,3.38,Cash,Uptown,No
+T0339,2023-01-01,08:00,Sunday,C046,Female,24,Brownie,Food,-,1,2.39,2.39,Cash,Uptown,Yes
+T0340,2023-12-18,20:19,Monday,C119,Female,29,Croissant,Food,-,1,2.4,2.4,Cash,Midtown,Yes
+T0341,2023-09-25,19:21,Monday,C176,Female,22,Latte,Drink,Medium,1,4.29,4.29,Mobile Pay,Suburb,Yes
+T0342,2023-05-30,15:19,Tuesday,C040,Male,39,Croissant,Food,-,2,2.51,5.02,Card,Suburb,Yes
+T0343,2023-11-17,20:22,Friday,C102,Male,26,Mocha,Drink,Medium,2,5.32,10.64,Card,Midtown,No
+T0344,2023-01-03,08:45,Tuesday,C230,Male,30,Iced Coffee,Drink,Small,2,3.23,6.46,Card,Riverside,No
+T0345,2023-07-15,09:16,Saturday,C132,Female,45,Muffin,Food,-,2,1.86,3.72,Card,Suburb,No
+T0346,2023-11-24,09:22,Friday,C150,Male,19,Espresso,Drink,Medium,3,3.41,10.23,Mobile Pay,Suburb,Yes
+T0347,2023-11-08,06:43,Wednesday,C225,Male,55,Tea,Drink,Medium,1,3.08,3.08,Card,Midtown,Yes
+T0348,2023-08-11,06:42,Friday,C160,Male,23,Sandwich,Food,-,3,5.97,17.91,Cash,Uptown,Yes
+T0349,2023-03-27,14:50,Monday,C051,Female,46,Tea,Drink,Small,2,2.15,4.3,Card,Riverside,Yes
+T0350,2023-06-14,11:56,Wednesday,C032,Female,30,Espresso,Drink,Medium,1,2.99,2.99,Card,Suburb,No
+T0351,2023-07-08,11:59,Saturday,C124,Male,34,Muffin,Food,-,3,2.46,7.38,Mobile Pay,Downtown,No
+T0352,2023-10-09,06:03,Monday,C234,Male,47,Tea,Drink,Large,3,2.91,8.73,Mobile Pay,Uptown,Yes
+T0353,2023-11-20,16:41,Monday,C033,Female,40,Sandwich,Food,-,3,5.57,16.71,Cash,Riverside,Yes
+T0354,2023-08-22,18:39,Tuesday,C305,Female,21,Mocha,Drink,Large,3,3.65,10.95,Mobile Pay,Midtown,No
+T0355,2023-07-10,13:17,Monday,C371,Male,31,Brownie,Food,-,2,2.37,4.74,Mobile Pay,Suburb,No
+T0356,2023-09-06,17:48,Wednesday,C064,Female,59,Sandwich,Food,-,1,4.45,4.45,Mobile Pay,Midtown,No
+T0357,2023-08-21,07:15,Monday,C064,Female,41,Croissant,Food,-,1,2.85,2.85,Cash,Suburb,Yes
+T0358,2023-08-27,16:16,Sunday,C465,Male,59,Croissant,Food,-,1,2.64,2.64,Card,Riverside,No
+T0359,2023-08-08,15:05,Tuesday,C380,Male,50,Brownie,Food,-,3,1.64,4.92,Card,Uptown,Yes
+T0360,2023-08-04,11:11,Friday,C499,Male,58,Sandwich,Food,-,3,5.01,15.03,Cash,Riverside,Yes
+T0361,2023-03-10,10:39,Friday,C197,Female,30,Muffin,Food,-,1,1.99,1.99,Mobile Pay,Uptown,Yes
+T0362,2023-07-12,08:20,Wednesday,C290,Female,58,Iced Coffee,Drink,Small,1,3.41,3.41,Cash,Suburb,Yes
+T0363,2023-04-28,08:03,Friday,C249,Female,34,Iced Coffee,Drink,Large,2,3.53,7.06,Mobile Pay,Uptown,Yes
+T0364,2023-03-31,12:45,Friday,C157,Female,46,Muffin,Food,-,3,2.72,8.16,Card,Riverside,No
+T0365,2023-03-07,11:09,Tuesday,C195,Male,23,Sandwich,Food,-,1,4.48,4.48,Cash,Suburb,No
+T0366,2023-11-09,14:58,Thursday,C283,Female,43,Muffin,Food,-,2,2.24,4.48,Card,Uptown,No
+T0367,2023-01-30,11:21,Monday,C176,Male,39,Iced Coffee,Drink,Large,3,3.21,9.63,Card,Downtown,Yes
+T0368,2023-03-13,16:37,Monday,C120,Male,59,Mocha,Drink,Medium,1,3.6,3.6,Card,Downtown,No
+T0369,2023-01-25,20:29,Wednesday,C046,Male,57,Croissant,Food,-,2,3.39,6.78,Card,Uptown,No
+T0370,2023-12-29,13:38,Friday,C362,Male,45,Iced Coffee,Drink,Medium,2,4.4,8.8,Cash,Downtown,Yes
+T0371,2023-09-11,20:56,Monday,C322,Female,52,Muffin,Food,-,2,2.12,4.24,Card,Suburb,No
+T0372,2023-09-13,06:45,Wednesday,C245,Female,18,Espresso,Drink,Small,2,3.06,6.12,Card,Midtown,No
+T0373,2023-04-10,17:23,Monday,C358,Female,29,Croissant,Food,-,3,2.96,8.88,Card,Uptown,Yes
+T0374,2023-06-14,16:39,Wednesday,C105,Male,44,Latte,Drink,Medium,3,4.4,13.2,Card,Uptown,Yes
+T0375,2023-09-25,08:30,Monday,C426,Female,45,Iced Coffee,Drink,Large,2,3.05,6.1,Card,Midtown,Yes
+T0376,2023-09-01,08:39,Friday,C147,Female,20,Muffin,Food,-,2,3.0,6.0,Card,Downtown,Yes
+T0377,2023-08-16,10:19,Wednesday,C258,Female,60,Iced Coffee,Drink,Medium,3,3.32,9.96,Mobile Pay,Downtown,No
+T0378,2023-05-18,15:56,Thursday,C087,Male,51,Mocha,Drink,Small,3,4.3,12.9,Card,Downtown,No
+T0379,2023-08-18,19:41,Friday,C086,Male,45,Tea,Drink,Small,1,2.21,2.21,Mobile Pay,Uptown,Yes
+T0380,2023-10-13,19:18,Friday,C352,Male,52,Latte,Drink,Large,3,4.38,13.14,Mobile Pay,Midtown,No
+T0381,2023-10-29,13:19,Sunday,C079,Female,51,Sandwich,Food,-,2,4.04,8.08,Mobile Pay,Midtown,Yes
+T0382,2023-09-15,12:06,Friday,C307,Male,44,Sandwich,Food,-,1,6.21,6.21,Mobile Pay,Midtown,Yes
+T0383,2023-03-21,20:07,Tuesday,C189,Female,28,Espresso,Drink,Large,3,2.05,6.15,Mobile Pay,Uptown,No
+T0384,2023-12-25,13:08,Monday,C222,Male,56,Latte,Drink,Large,2,4.85,9.7,Card,Riverside,Yes
+T0385,2023-04-04,07:31,Tuesday,C077,Female,53,Cappuccino,Drink,Medium,1,3.6,3.6,Mobile Pay,Midtown,No
+T0386,2023-07-16,20:05,Sunday,C147,Male,38,Croissant,Food,-,1,3.07,3.07,Mobile Pay,Riverside,Yes
+T0387,2023-11-30,15:14,Thursday,C247,Male,29,Brownie,Food,-,3,1.85,5.55,Cash,Suburb,No
+T0388,2023-08-27,19:55,Sunday,C406,Male,43,Mocha,Drink,Large,3,4.78,14.34,Card,Suburb,No
+T0389,2023-11-27,16:52,Monday,C486,Male,49,Muffin,Food,-,3,2.81,8.43,Mobile Pay,Riverside,No
+T0390,2023-09-10,18:55,Sunday,C118,Male,25,Latte,Drink,Large,2,4.51,9.02,Cash,Downtown,No
+T0391,2023-01-08,20:49,Sunday,C189,Female,28,Latte,Drink,Small,1,3.55,3.55,Card,Riverside,No
+T0392,2023-10-20,08:39,Friday,C271,Female,29,Espresso,Drink,Medium,1,2.62,2.62,Cash,Uptown,No
+T0393,2023-07-31,07:50,Monday,C448,Male,27,Sandwich,Food,-,2,4.04,8.08,Cash,Uptown,No
+T0394,2023-07-08,17:34,Saturday,C142,Male,20,Croissant,Food,-,3,2.39,7.17,Mobile Pay,Riverside,Yes
+T0395,2023-10-01,10:11,Sunday,C030,Female,25,Espresso,Drink,Medium,2,2.78,5.56,Card,Suburb,Yes
+T0396,2023-04-11,15:08,Tuesday,C006,Female,47,Sandwich,Food,-,3,6.44,19.32,Card,Downtown,Yes
+T0397,2023-06-01,08:32,Thursday,C156,Male,33,Iced Coffee,Drink,Medium,2,3.76,7.52,Cash,Suburb,Yes
+T0398,2023-08-07,15:53,Monday,C224,Male,45,Croissant,Food,-,2,3.32,6.64,Card,Suburb,No
+T0399,2023-01-04,07:30,Wednesday,C129,Male,25,Latte,Drink,Small,2,3.63,7.26,Mobile Pay,Uptown,No
+T0400,2023-08-27,15:55,Sunday,C382,Female,36,Latte,Drink,Medium,1,3.76,3.76,Card,Uptown,No
+T0401,2023-06-05,16:16,Monday,C184,Female,59,Cappuccino,Drink,Small,2,3.47,6.94,Cash,Downtown,No
+T0402,2023-08-09,08:15,Wednesday,C149,Male,44,Brownie,Food,-,1,2.36,2.36,Cash,Midtown,No
+T0403,2023-12-13,13:09,Wednesday,C283,Male,29,Croissant,Food,-,2,2.84,5.68,Card,Uptown,No
+T0404,2023-09-02,14:33,Saturday,C163,Female,54,Mocha,Drink,Medium,1,3.67,3.67,Cash,Downtown,Yes
+T0405,2023-12-28,08:31,Thursday,C328,Male,21,Tea,Drink,Small,1,2.32,2.32,Card,Midtown,Yes
+T0406,2023-07-11,20:44,Tuesday,C445,Male,40,Latte,Drink,Large,1,4.83,4.83,Mobile Pay,Riverside,No
+T0407,2023-07-27,08:47,Thursday,C067,Female,28,Tea,Drink,Large,2,3.41,6.82,Cash,Riverside,Yes
+T0408,2023-05-26,09:11,Friday,C138,Female,39,Croissant,Food,-,1,2.94,2.94,Mobile Pay,Riverside,No
+T0409,2023-05-05,14:25,Friday,C137,Female,58,Muffin,Food,-,1,2.29,2.29,Mobile Pay,Midtown,No
+T0410,2023-11-16,15:42,Thursday,C483,Male,29,Latte,Drink,Medium,1,4.28,4.28,Mobile Pay,Midtown,Yes
+T0411,2023-02-27,06:47,Monday,C465,Female,47,Iced Coffee,Drink,Large,1,3.83,3.83,Card,Midtown,No
+T0412,2023-12-28,10:07,Thursday,C288,Male,39,Espresso,Drink,Large,2,2.45,4.9,Card,Midtown,No
+T0413,2023-05-31,20:28,Wednesday,C026,Male,59,Espresso,Drink,Small,2,2.45,4.9,Card,Riverside,Yes
+T0414,2023-11-28,14:55,Tuesday,C180,Female,21,Brownie,Food,-,2,2.37,4.74,Card,Riverside,Yes
+T0415,2023-08-16,18:18,Wednesday,C001,Female,30,Muffin,Food,-,3,2.51,7.53,Mobile Pay,Riverside,No
+T0416,2023-11-17,08:31,Friday,C098,Female,19,Sandwich,Food,-,2,6.29,12.58,Card,Downtown,Yes
+T0417,2023-12-27,16:18,Wednesday,C036,Female,39,Croissant,Food,-,3,2.47,7.41,Card,Midtown,Yes
+T0418,2023-06-19,19:55,Monday,C435,Female,41,Cappuccino,Drink,Large,2,4.48,8.96,Mobile Pay,Downtown,No
+T0419,2023-05-03,07:20,Wednesday,C455,Male,20,Espresso,Drink,Large,2,2.34,4.68,Card,Downtown,No
+T0420,2023-11-04,06:59,Saturday,C193,Male,38,Iced Coffee,Drink,Small,1,3.09,3.09,Card,Uptown,No
+T0421,2023-04-01,11:51,Saturday,C174,Male,58,Cappuccino,Drink,Medium,2,3.96,7.92,Cash,Downtown,Yes
+T0422,2023-06-13,11:29,Tuesday,C376,Female,33,Brownie,Food,-,3,1.73,5.19,Mobile Pay,Uptown,Yes
+T0423,2023-09-20,11:02,Wednesday,C395,Female,26,Latte,Drink,Medium,3,4.66,13.98,Card,Uptown,Yes
+T0424,2023-04-07,14:20,Friday,C362,Male,36,Muffin,Food,-,3,2.34,7.02,Card,Suburb,Yes
+T0425,2023-03-21,08:25,Tuesday,C418,Male,48,Iced Coffee,Drink,Large,3,3.59,10.77,Mobile Pay,Midtown,No
+T0426,2023-09-22,20:47,Friday,C304,Female,47,Tea,Drink,Medium,3,2.31,6.93,Card,Midtown,Yes
+T0427,2023-04-12,19:37,Wednesday,C246,Female,50,Muffin,Food,-,2,2.04,4.08,Cash,Riverside,Yes
+T0428,2023-03-20,13:18,Monday,C454,Male,23,Tea,Drink,Medium,2,2.78,5.56,Card,Uptown,Yes
+T0429,2023-10-15,12:01,Sunday,C172,Female,50,Iced Coffee,Drink,Medium,1,4.43,4.43,Mobile Pay,Uptown,Yes
+T0430,2023-04-20,19:07,Thursday,C226,Male,24,Iced Coffee,Drink,Large,2,3.24,6.48,Mobile Pay,Riverside,No
+T0431,2023-07-16,18:36,Sunday,C274,Female,29,Tea,Drink,Large,2,3.42,6.84,Cash,Uptown,No
+T0432,2023-05-14,16:44,Sunday,C329,Female,29,Espresso,Drink,Large,3,2.13,6.39,Card,Uptown,Yes
+T0433,2023-04-23,06:37,Sunday,C102,Female,37,Cappuccino,Drink,Small,2,3.43,6.86,Card,Riverside,No
+T0434,2023-02-10,07:35,Friday,C356,Male,51,Brownie,Food,-,3,2.0,6.0,Cash,Downtown,Yes
+T0435,2023-05-22,06:13,Monday,C251,Male,40,Sandwich,Food,-,3,5.95,17.85,Card,Uptown,No
+T0436,2023-10-09,12:38,Monday,C156,Female,52,Muffin,Food,-,2,2.29,4.58,Cash,Downtown,Yes
+T0437,2023-07-10,18:41,Monday,C468,Female,29,Iced Coffee,Drink,Medium,2,4.29,8.58,Cash,Uptown,Yes
+T0438,2023-09-01,13:40,Friday,C387,Female,46,Cappuccino,Drink,Medium,2,3.42,6.84,Card,Midtown,Yes
+T0439,2023-07-16,18:18,Sunday,C359,Female,30,Cappuccino,Drink,Small,3,4.28,12.84,Mobile Pay,Downtown,Yes
+T0440,2023-10-29,12:27,Sunday,C097,Male,33,Brownie,Food,-,1,1.87,1.87,Card,Uptown,No
+T0441,2023-03-29,11:51,Wednesday,C308,Male,50,Croissant,Food,-,3,3.06,9.18,Card,Midtown,Yes
+T0442,2023-09-12,17:25,Tuesday,C283,Male,23,Muffin,Food,-,2,2.14,4.28,Card,Midtown,No
+T0443,2023-09-12,13:21,Tuesday,C217,Male,21,Cappuccino,Drink,Large,1,4.32,4.32,Mobile Pay,Downtown,Yes
+T0444,2023-09-19,13:56,Tuesday,C127,Female,43,Brownie,Food,-,3,1.51,4.53,Cash,Riverside,Yes
+T0445,2023-02-17,16:39,Friday,C468,Female,33,Croissant,Food,-,2,2.23,4.46,Mobile Pay,Downtown,Yes
+T0446,2023-02-06,06:38,Monday,C473,Female,38,Sandwich,Food,-,3,5.64,16.92,Card,Suburb,No
+T0447,2023-04-17,18:11,Monday,C271,Male,54,Cappuccino,Drink,Large,2,3.3,6.6,Mobile Pay,Uptown,No
+T0448,2023-09-15,06:36,Friday,C149,Male,22,Latte,Drink,Medium,3,4.91,14.73,Card,Uptown,No
+T0449,2023-12-20,19:01,Wednesday,C310,Female,23,Latte,Drink,Medium,1,4.61,4.61,Cash,Riverside,No
+T0450,2023-01-06,11:08,Friday,C011,Male,58,Mocha,Drink,Small,2,3.62,7.24,Card,Uptown,Yes
+T0451,2023-10-17,06:48,Tuesday,C424,Male,55,Croissant,Food,-,2,2.74,5.48,Cash,Riverside,No
+T0452,2023-06-29,13:45,Thursday,C161,Male,24,Tea,Drink,Small,2,3.3,6.6,Card,Riverside,Yes
+T0453,2023-02-12,09:25,Sunday,C493,Female,36,Mocha,Drink,Large,1,4.26,4.26,Cash,Midtown,No
+T0454,2023-04-23,07:48,Sunday,C291,Female,43,Cappuccino,Drink,Large,2,3.05,6.1,Card,Downtown,Yes
+T0455,2023-04-09,07:58,Sunday,C275,Female,30,Tea,Drink,Small,2,3.5,7.0,Mobile Pay,Uptown,No
+T0456,2023-08-27,08:54,Sunday,C438,Male,36,Croissant,Food,-,3,3.25,9.75,Cash,Riverside,No
+T0457,2023-08-26,15:09,Saturday,C310,Male,26,Muffin,Food,-,2,2.87,5.74,Mobile Pay,Midtown,Yes
+T0458,2023-03-05,12:00,Sunday,C134,Female,59,Iced Coffee,Drink,Large,2,4.43,8.86,Mobile Pay,Suburb,Yes
+T0459,2023-04-17,08:04,Monday,C373,Male,49,Sandwich,Food,-,1,5.95,5.95,Mobile Pay,Suburb,No
+T0460,2023-08-07,17:14,Monday,C285,Female,56,Sandwich,Food,-,1,4.98,4.98,Cash,Uptown,Yes
+T0461,2023-07-07,15:23,Friday,C374,Male,18,Latte,Drink,Medium,2,4.98,9.96,Mobile Pay,Riverside,No
+T0462,2023-09-25,13:11,Monday,C250,Female,41,Cappuccino,Drink,Medium,1,4.33,4.33,Card,Midtown,Yes
+T0463,2023-09-29,20:33,Friday,C059,Male,47,Croissant,Food,-,1,2.22,2.22,Card,Midtown,Yes
+T0464,2023-09-23,13:24,Saturday,C458,Male,43,Croissant,Food,-,3,3.05,9.15,Mobile Pay,Suburb,Yes
+T0465,2023-11-26,11:03,Sunday,C218,Female,51,Muffin,Food,-,3,2.06,6.18,Cash,Riverside,No
+T0466,2023-03-13,19:55,Monday,C498,Male,21,Iced Coffee,Drink,Medium,2,3.67,7.34,Cash,Uptown,No
+T0467,2023-04-24,15:54,Monday,C131,Male,41,Latte,Drink,Large,2,4.0,8.0,Cash,Downtown,No
+T0468,2023-04-15,16:48,Saturday,C093,Male,35,Brownie,Food,-,2,2.25,4.5,Card,Midtown,No
+T0469,2023-02-07,16:40,Tuesday,C235,Male,28,Mocha,Drink,Medium,3,5.43,16.29,Card,Uptown,No
+T0470,2023-09-11,19:25,Monday,C320,Male,22,Latte,Drink,Medium,1,3.72,3.72,Cash,Suburb,No
+T0471,2023-05-06,12:57,Saturday,C100,Female,30,Mocha,Drink,Small,3,4.71,14.13,Card,Downtown,Yes
+T0472,2023-08-04,11:01,Friday,C496,Male,32,Brownie,Food,-,2,2.04,4.08,Cash,Downtown,No
+T0473,2023-08-29,15:00,Tuesday,C314,Female,60,Espresso,Drink,Small,1,2.9,2.9,Cash,Riverside,No
+T0474,2023-06-07,18:52,Wednesday,C033,Female,23,Espresso,Drink,Small,1,2.24,2.24,Mobile Pay,Suburb,No
+T0475,2023-08-23,12:39,Wednesday,C450,Female,47,Tea,Drink,Medium,1,2.44,2.44,Mobile Pay,Suburb,No
+T0476,2023-04-28,11:12,Friday,C184,Female,59,Latte,Drink,Small,2,4.83,9.66,Mobile Pay,Downtown,No
+T0477,2023-09-19,10:17,Tuesday,C109,Male,38,Muffin,Food,-,1,1.82,1.82,Cash,Midtown,Yes
+T0478,2023-05-16,16:27,Tuesday,C101,Male,21,Muffin,Food,-,3,1.8,5.4,Mobile Pay,Riverside,Yes
+T0479,2023-10-22,12:05,Sunday,C241,Female,38,Brownie,Food,-,3,2.05,6.15,Cash,Midtown,No
+T0480,2023-04-13,10:14,Thursday,C043,Male,44,Mocha,Drink,Small,1,5.17,5.17,Card,Midtown,No
+T0481,2023-06-25,11:53,Sunday,C168,Male,58,Cappuccino,Drink,Large,2,3.87,7.74,Mobile Pay,Suburb,Yes
+T0482,2023-01-27,14:47,Friday,C133,Male,45,Brownie,Food,-,3,1.65,4.95,Card,Downtown,No
+T0483,2023-08-15,10:28,Tuesday,C144,Male,32,Brownie,Food,-,1,1.85,1.85,Card,Suburb,Yes
+T0484,2023-05-22,18:12,Monday,C211,Male,20,Mocha,Drink,Medium,3,5.01,15.03,Card,Uptown,No
+T0485,2023-11-17,08:18,Friday,C188,Male,49,Sandwich,Food,-,3,5.61,16.83,Card,Suburb,Yes
+T0486,2023-11-14,09:07,Tuesday,C466,Female,18,Croissant,Food,-,3,2.66,7.98,Card,Midtown,No
+T0487,2023-02-03,08:08,Friday,C370,Male,57,Latte,Drink,Large,3,3.66,10.98,Mobile Pay,Downtown,Yes
+T0488,2023-07-20,17:02,Thursday,C221,Female,55,Iced Coffee,Drink,Medium,1,3.42,3.42,Card,Midtown,Yes
+T0489,2023-12-16,18:29,Saturday,C324,Male,19,Espresso,Drink,Large,2,3.18,6.36,Cash,Uptown,Yes
+T0490,2023-06-18,15:52,Sunday,C098,Male,47,Cappuccino,Drink,Small,3,4.2,12.6,Mobile Pay,Downtown,No
+T0491,2023-11-21,15:54,Tuesday,C153,Female,54,Sandwich,Food,-,3,5.67,17.01,Card,Midtown,Yes
+T0492,2023-08-20,19:34,Sunday,C066,Female,39,Cappuccino,Drink,Medium,3,3.4,10.2,Mobile Pay,Riverside,Yes
+T0493,2023-01-30,09:16,Monday,C464,Female,44,Latte,Drink,Small,1,4.51,4.51,Card,Downtown,Yes
+T0494,2023-10-02,10:22,Monday,C257,Female,52,Cappuccino,Drink,Small,3,4.2,12.6,Cash,Downtown,Yes
+T0495,2023-05-14,15:11,Sunday,C329,Male,26,Muffin,Food,-,1,2.35,2.35,Card,Midtown,No
+T0496,2023-01-14,08:24,Saturday,C203,Female,59,Latte,Drink,Large,3,4.22,12.66,Card,Downtown,No
+T0497,2023-08-14,09:29,Monday,C256,Female,35,Brownie,Food,-,2,1.76,3.52,Mobile Pay,Suburb,No
+T0498,2023-04-07,12:29,Friday,C085,Female,47,Tea,Drink,Small,1,3.23,3.23,Cash,Suburb,No
+T0499,2023-10-04,16:34,Wednesday,C342,Male,27,Sandwich,Food,-,3,4.31,12.93,Card,Midtown,Yes
+T0500,2023-02-15,15:21,Wednesday,C318,Female,40,Tea,Drink,Medium,1,2.92,2.92,Card,Riverside,No
+T0501,2023-11-05,12:37,Sunday,C433,Male,33,Latte,Drink,Large,3,3.89,11.67,Card,Riverside,Yes
+T0502,2023-03-15,14:14,Wednesday,C204,Male,29,Mocha,Drink,Small,1,4.2,4.2,Cash,Riverside,Yes
+T0503,2023-04-07,18:10,Friday,C273,Female,50,Mocha,Drink,Small,3,4.87,14.61,Cash,Riverside,Yes
+T0504,2023-02-07,16:59,Tuesday,C255,Male,24,Tea,Drink,Large,3,2.27,6.81,Cash,Downtown,Yes
+T0505,2023-07-24,13:56,Monday,C339,Female,48,Croissant,Food,-,3,2.22,6.66,Cash,Downtown,Yes
+T0506,2023-03-31,14:19,Friday,C231,Female,45,Muffin,Food,-,1,2.17,2.17,Cash,Downtown,No
+T0507,2023-03-05,16:47,Sunday,C320,Female,56,Croissant,Food,-,1,2.92,2.92,Card,Uptown,Yes
+T0508,2023-11-29,16:18,Wednesday,C378,Female,41,Espresso,Drink,Small,3,2.63,7.89,Mobile Pay,Downtown,No
+T0509,2023-12-08,11:36,Friday,C006,Female,24,Mocha,Drink,Medium,2,5.3,10.6,Mobile Pay,Midtown,Yes
+T0510,2023-01-22,13:34,Sunday,C062,Male,30,Mocha,Drink,Large,3,4.43,13.29,Card,Suburb,No
+T0511,2023-04-24,12:27,Monday,C334,Female,47,Espresso,Drink,Medium,2,2.31,4.62,Cash,Midtown,No
+T0512,2023-12-05,06:43,Tuesday,C274,Male,31,Cappuccino,Drink,Small,3,3.69,11.07,Mobile Pay,Midtown,Yes
+T0513,2023-06-19,20:54,Monday,C010,Male,29,Tea,Drink,Large,3,2.01,6.03,Mobile Pay,Midtown,Yes
+T0514,2023-07-07,18:04,Friday,C060,Male,40,Croissant,Food,-,1,2.89,2.89,Card,Downtown,Yes
+T0515,2023-12-15,17:05,Friday,C492,Male,52,Muffin,Food,-,3,2.45,7.35,Card,Midtown,No
+T0516,2023-04-10,14:16,Monday,C213,Female,33,Tea,Drink,Small,2,2.06,4.12,Mobile Pay,Uptown,No
+T0517,2023-04-25,11:44,Tuesday,C477,Female,48,Espresso,Drink,Large,1,2.96,2.96,Cash,Suburb,Yes
+T0518,2023-06-11,17:04,Sunday,C420,Male,35,Croissant,Food,-,2,3.33,6.66,Mobile Pay,Suburb,No
+T0519,2023-08-21,19:29,Monday,C325,Male,27,Cappuccino,Drink,Large,1,3.47,3.47,Card,Suburb,Yes
+T0520,2023-08-16,15:52,Wednesday,C061,Male,18,Iced Coffee,Drink,Large,3,3.38,10.14,Mobile Pay,Uptown,Yes
+T0521,2023-08-11,13:52,Friday,C271,Male,32,Sandwich,Food,-,3,5.27,15.81,Mobile Pay,Riverside,No
+T0522,2023-07-31,09:46,Monday,C020,Male,23,Muffin,Food,-,3,2.36,7.08,Cash,Suburb,Yes
+T0523,2023-04-06,16:24,Thursday,C291,Male,33,Croissant,Food,-,3,2.41,7.23,Mobile Pay,Riverside,No
+T0524,2023-08-06,19:19,Sunday,C050,Female,23,Muffin,Food,-,3,1.91,5.73,Card,Uptown,No
+T0525,2023-04-21,06:05,Friday,C138,Female,34,Muffin,Food,-,1,2.26,2.26,Cash,Suburb,Yes
+T0526,2023-05-18,17:52,Thursday,C265,Female,23,Tea,Drink,Medium,3,2.29,6.87,Cash,Midtown,No
+T0527,2023-11-17,19:18,Friday,C488,Female,44,Mocha,Drink,Large,2,4.8,9.6,Cash,Riverside,No
+T0528,2023-12-19,17:24,Tuesday,C359,Female,53,Latte,Drink,Medium,1,4.48,4.48,Cash,Uptown,Yes
+T0529,2023-12-21,16:33,Thursday,C245,Male,51,Mocha,Drink,Medium,2,3.73,7.46,Cash,Midtown,No
+T0530,2023-05-08,19:20,Monday,C440,Male,26,Tea,Drink,Large,1,3.36,3.36,Mobile Pay,Midtown,No
+T0531,2023-10-01,14:05,Sunday,C158,Female,41,Iced Coffee,Drink,Small,3,4.2,12.6,Cash,Downtown,No
+T0532,2023-11-25,09:35,Saturday,C262,Male,49,Tea,Drink,Large,2,2.13,4.26,Card,Midtown,No
+T0533,2023-03-11,17:09,Saturday,C122,Female,35,Latte,Drink,Large,1,4.97,4.97,Mobile Pay,Suburb,No
+T0534,2023-08-10,08:01,Thursday,C417,Male,49,Cappuccino,Drink,Small,1,3.93,3.93,Cash,Riverside,Yes
+T0535,2023-08-07,08:21,Monday,C068,Female,24,Mocha,Drink,Small,3,4.18,12.54,Mobile Pay,Suburb,No
+T0536,2023-12-11,15:58,Monday,C053,Male,40,Cappuccino,Drink,Medium,3,4.12,12.36,Mobile Pay,Riverside,Yes
+T0537,2023-01-07,06:59,Saturday,C265,Female,45,Muffin,Food,-,3,2.59,7.77,Mobile Pay,Downtown,No
+T0538,2023-04-24,18:26,Monday,C193,Female,44,Croissant,Food,-,2,2.06,4.12,Card,Downtown,No
+T0539,2023-04-21,11:10,Friday,C028,Male,54,Mocha,Drink,Medium,1,4.71,4.71,Cash,Suburb,Yes
+T0540,2023-03-05,14:48,Sunday,C343,Male,23,Cappuccino,Drink,Large,3,3.79,11.37,Mobile Pay,Riverside,No
+T0541,2023-08-05,16:06,Saturday,C265,Male,55,Cappuccino,Drink,Small,1,3.23,3.23,Card,Riverside,Yes
+T0542,2023-03-27,06:13,Monday,C427,Male,21,Latte,Drink,Medium,3,4.65,13.95,Cash,Uptown,No
+T0543,2023-12-02,07:28,Saturday,C045,Female,20,Latte,Drink,Small,1,3.72,3.72,Mobile Pay,Uptown,Yes
+T0544,2023-11-04,15:30,Saturday,C460,Male,37,Muffin,Food,-,2,2.36,4.72,Mobile Pay,Riverside,No
+T0545,2023-02-13,20:59,Monday,C052,Male,34,Iced Coffee,Drink,Small,2,3.75,7.5,Cash,Downtown,Yes
+T0546,2023-07-26,07:30,Wednesday,C429,Female,27,Espresso,Drink,Large,1,2.03,2.03,Mobile Pay,Suburb,Yes
+T0547,2023-12-27,12:47,Wednesday,C068,Female,58,Sandwich,Food,-,1,5.46,5.46,Mobile Pay,Uptown,Yes
+T0548,2023-05-31,06:59,Wednesday,C235,Male,24,Croissant,Food,-,1,3.07,3.07,Card,Suburb,No
+T0549,2023-10-02,10:36,Monday,C081,Female,40,Espresso,Drink,Small,3,2.14,6.42,Mobile Pay,Midtown,No
+T0550,2023-02-16,17:04,Thursday,C428,Male,35,Mocha,Drink,Medium,1,4.3,4.3,Card,Uptown,No
+T0551,2023-08-24,14:56,Thursday,C168,Male,40,Cappuccino,Drink,Large,3,3.06,9.18,Cash,Midtown,Yes
+T0552,2023-12-15,07:07,Friday,C171,Male,19,Muffin,Food,-,3,2.18,6.54,Mobile Pay,Midtown,No
+T0553,2023-07-17,16:58,Monday,C457,Female,47,Croissant,Food,-,1,3.27,3.27,Mobile Pay,Midtown,Yes
+T0554,2023-01-08,12:17,Sunday,C087,Male,41,Tea,Drink,Medium,3,2.2,6.6,Mobile Pay,Riverside,Yes
+T0555,2023-08-29,07:13,Tuesday,C106,Male,40,Espresso,Drink,Medium,2,2.54,5.08,Card,Suburb,No
+T0556,2023-06-04,06:11,Sunday,C342,Male,39,Tea,Drink,Large,3,2.66,7.98,Cash,Uptown,No
+T0557,2023-12-08,20:14,Friday,C380,Female,22,Muffin,Food,-,2,2.3,4.6,Card,Uptown,Yes
+T0558,2023-04-09,06:33,Sunday,C322,Female,59,Espresso,Drink,Small,3,2.85,8.55,Mobile Pay,Uptown,No
+T0559,2023-11-18,12:51,Saturday,C339,Male,43,Tea,Drink,Medium,3,2.31,6.93,Cash,Suburb,Yes
+T0560,2023-12-17,08:41,Sunday,C468,Female,41,Espresso,Drink,Medium,2,2.45,4.9,Mobile Pay,Uptown,No
+T0561,2023-04-11,18:22,Tuesday,C117,Male,43,Croissant,Food,-,2,2.16,4.32,Cash,Downtown,Yes
+T0562,2023-03-22,20:23,Wednesday,C473,Male,22,Tea,Drink,Small,1,2.05,2.05,Cash,Midtown,No
+T0563,2023-10-13,07:36,Friday,C038,Female,23,Croissant,Food,-,3,2.46,7.38,Cash,Uptown,No
+T0564,2023-11-29,09:35,Wednesday,C284,Male,40,Brownie,Food,-,1,2.08,2.08,Cash,Suburb,Yes
+T0565,2023-06-04,11:31,Sunday,C377,Female,52,Brownie,Food,-,2,2.45,4.9,Mobile Pay,Riverside,Yes
+T0566,2023-05-03,15:06,Wednesday,C492,Female,30,Latte,Drink,Small,1,3.64,3.64,Cash,Downtown,No
+T0567,2023-03-16,17:53,Thursday,C498,Female,26,Cappuccino,Drink,Large,3,4.45,13.35,Cash,Uptown,No
+T0568,2023-08-27,18:43,Sunday,C252,Female,18,Cappuccino,Drink,Small,1,4.06,4.06,Mobile Pay,Suburb,Yes
+T0569,2023-10-12,20:46,Thursday,C021,Male,52,Croissant,Food,-,3,3.31,9.93,Mobile Pay,Uptown,Yes
+T0570,2023-12-25,06:44,Monday,C298,Female,29,Iced Coffee,Drink,Small,2,4.11,8.22,Card,Midtown,Yes
+T0571,2023-01-31,18:19,Tuesday,C304,Male,53,Muffin,Food,-,3,2.94,8.82,Card,Uptown,No
+T0572,2023-10-26,17:33,Thursday,C030,Female,30,Cappuccino,Drink,Small,2,4.19,8.38,Mobile Pay,Suburb,No
+T0573,2023-07-18,10:59,Tuesday,C327,Female,28,Tea,Drink,Large,1,3.2,3.2,Mobile Pay,Midtown,No
+T0574,2023-12-20,15:18,Wednesday,C489,Male,31,Iced Coffee,Drink,Small,3,4.15,12.45,Cash,Downtown,Yes
+T0575,2023-08-24,07:51,Thursday,C314,Male,38,Muffin,Food,-,1,2.95,2.95,Cash,Suburb,No
+T0576,2023-10-08,07:42,Sunday,C099,Male,28,Espresso,Drink,Medium,2,2.73,5.46,Card,Uptown,No
+T0577,2023-12-27,19:45,Wednesday,C020,Female,38,Brownie,Food,-,2,1.57,3.14,Card,Uptown,No
+T0578,2023-12-01,09:01,Friday,C115,Male,44,Iced Coffee,Drink,Medium,3,3.49,10.47,Card,Suburb,Yes
+T0579,2023-05-18,12:28,Thursday,C180,Male,58,Mocha,Drink,Large,1,4.28,4.28,Card,Suburb,No
+T0580,2023-09-03,13:32,Sunday,C335,Male,44,Espresso,Drink,Medium,1,3.34,3.34,Mobile Pay,Riverside,Yes
+T0581,2023-05-04,16:56,Thursday,C014,Male,21,Sandwich,Food,-,2,4.33,8.66,Mobile Pay,Suburb,No
+T0582,2023-11-30,09:23,Thursday,C275,Male,37,Cappuccino,Drink,Large,3,3.67,11.01,Mobile Pay,Riverside,Yes
+T0583,2023-04-14,07:59,Friday,C177,Female,29,Latte,Drink,Small,3,3.98,11.94,Card,Midtown,No
+T0584,2023-05-18,18:58,Thursday,C179,Male,56,Sandwich,Food,-,2,6.31,12.62,Card,Downtown,No
+T0585,2023-02-23,14:00,Thursday,C045,Male,54,Sandwich,Food,-,3,5.45,16.35,Mobile Pay,Riverside,No
+T0586,2023-05-18,06:01,Thursday,C479,Female,59,Latte,Drink,Medium,2,4.68,9.36,Mobile Pay,Riverside,Yes
+T0587,2023-10-23,07:42,Monday,C150,Female,50,Espresso,Drink,Small,1,2.85,2.85,Cash,Downtown,Yes
+T0588,2023-10-23,12:56,Monday,C408,Female,24,Sandwich,Food,-,2,4.96,9.92,Cash,Riverside,No
+T0589,2023-11-09,09:00,Thursday,C024,Female,42,Tea,Drink,Medium,1,3.23,3.23,Cash,Downtown,Yes
+T0590,2023-09-09,15:02,Saturday,C005,Female,25,Latte,Drink,Medium,3,4.9,14.7,Cash,Downtown,No
+T0591,2023-12-03,10:41,Sunday,C044,Male,30,Sandwich,Food,-,2,4.46,8.92,Mobile Pay,Downtown,No
+T0592,2023-09-25,06:09,Monday,C412,Female,51,Sandwich,Food,-,1,4.86,4.86,Card,Midtown,Yes
+T0593,2023-05-13,07:30,Saturday,C157,Male,31,Sandwich,Food,-,2,5.26,10.52,Mobile Pay,Uptown,No
+T0594,2023-07-15,09:28,Saturday,C178,Male,45,Mocha,Drink,Medium,2,3.54,7.08,Cash,Riverside,No
+T0595,2023-07-04,13:14,Tuesday,C032,Female,33,Muffin,Food,-,2,2.04,4.08,Cash,Riverside,Yes
+T0596,2023-06-04,07:17,Sunday,C331,Female,21,Tea,Drink,Small,3,2.73,8.19,Mobile Pay,Midtown,No
+T0597,2023-10-25,11:29,Wednesday,C079,Male,39,Muffin,Food,-,2,2.2,4.4,Mobile Pay,Riverside,No
+T0598,2023-02-19,08:40,Sunday,C197,Female,40,Iced Coffee,Drink,Large,1,3.32,3.32,Card,Midtown,No
+T0599,2023-09-22,18:53,Friday,C172,Female,27,Cappuccino,Drink,Small,3,4.29,12.87,Card,Uptown,No
+T0600,2023-01-28,12:54,Saturday,C269,Female,54,Latte,Drink,Small,3,4.12,12.36,Cash,Downtown,Yes
+T0601,2023-04-09,13:30,Sunday,C110,Female,38,Brownie,Food,-,2,2.21,4.42,Card,Uptown,Yes
+T0602,2023-09-16,12:25,Saturday,C043,Male,51,Mocha,Drink,Large,1,5.16,5.16,Card,Uptown,No
+T0603,2023-10-14,06:48,Saturday,C152,Male,46,Latte,Drink,Medium,1,4.87,4.87,Card,Uptown,Yes
+T0604,2023-03-01,10:30,Wednesday,C228,Female,53,Mocha,Drink,Medium,3,4.99,14.97,Cash,Riverside,Yes
+T0605,2023-05-01,15:22,Monday,C093,Male,18,Sandwich,Food,-,3,5.8,17.4,Card,Midtown,No
+T0606,2023-05-17,09:53,Wednesday,C352,Male,37,Muffin,Food,-,2,2.38,4.76,Mobile Pay,Suburb,No
+T0607,2023-05-31,10:59,Wednesday,C317,Male,41,Croissant,Food,-,2,2.87,5.74,Card,Riverside,No
+T0608,2023-09-17,07:32,Sunday,C333,Female,25,Muffin,Food,-,2,2.26,4.52,Cash,Uptown,Yes
+T0609,2023-03-21,11:44,Tuesday,C336,Female,57,Iced Coffee,Drink,Large,3,3.03,9.09,Mobile Pay,Downtown,No
+T0610,2023-06-05,12:52,Monday,C025,Female,44,Tea,Drink,Medium,3,3.3,9.9,Cash,Suburb,No
+T0611,2023-07-22,20:36,Saturday,C441,Male,28,Cappuccino,Drink,Medium,3,3.22,9.66,Cash,Suburb,No
+T0612,2023-03-01,14:40,Wednesday,C093,Male,54,Croissant,Food,-,1,2.14,2.14,Cash,Downtown,Yes
+T0613,2023-03-09,09:15,Thursday,C107,Female,38,Latte,Drink,Medium,2,3.65,7.3,Cash,Suburb,Yes
+T0614,2023-06-06,10:55,Tuesday,C229,Female,40,Croissant,Food,-,2,2.1,4.2,Cash,Suburb,No
+T0615,2023-04-15,13:58,Saturday,C183,Female,51,Sandwich,Food,-,2,5.08,10.16,Card,Midtown,No
+T0616,2023-03-08,12:40,Wednesday,C205,Male,52,Brownie,Food,-,3,2.18,6.54,Cash,Uptown,Yes
+T0617,2023-07-27,17:40,Thursday,C246,Female,33,Sandwich,Food,-,2,5.58,11.16,Card,Uptown,Yes
+T0618,2023-11-02,09:25,Thursday,C391,Female,31,Mocha,Drink,Medium,2,5.1,10.2,Cash,Uptown,Yes
+T0619,2023-04-26,20:03,Wednesday,C499,Female,35,Sandwich,Food,-,2,6.29,12.58,Mobile Pay,Downtown,No
+T0620,2023-12-10,13:02,Sunday,C089,Female,24,Mocha,Drink,Medium,2,5.13,10.26,Mobile Pay,Riverside,No
+T0621,2023-03-31,14:58,Friday,C431,Male,34,Tea,Drink,Large,2,2.92,5.84,Card,Uptown,No
+T0622,2023-12-19,09:37,Tuesday,C276,Male,37,Sandwich,Food,-,3,4.15,12.45,Cash,Uptown,Yes
+T0623,2023-06-26,16:08,Monday,C309,Male,51,Iced Coffee,Drink,Small,1,4.47,4.47,Cash,Suburb,Yes
+T0624,2023-11-12,15:20,Sunday,C100,Female,55,Cappuccino,Drink,Small,1,4.29,4.29,Mobile Pay,Riverside,No
+T0625,2023-11-27,08:06,Monday,C499,Female,33,Cappuccino,Drink,Large,3,4.28,12.84,Mobile Pay,Midtown,No
+T0626,2023-08-17,14:43,Thursday,C405,Male,30,Latte,Drink,Large,1,4.25,4.25,Cash,Downtown,Yes
+T0627,2023-04-12,08:35,Wednesday,C210,Male,25,Tea,Drink,Small,2,3.47,6.94,Mobile Pay,Suburb,Yes
+T0628,2023-08-07,08:49,Monday,C118,Female,52,Tea,Drink,Large,3,3.21,9.63,Card,Suburb,Yes
+T0629,2023-09-03,19:38,Sunday,C068,Male,28,Croissant,Food,-,3,2.7,8.1,Mobile Pay,Uptown,Yes
+T0630,2023-04-22,15:47,Saturday,C153,Male,31,Brownie,Food,-,3,1.51,4.53,Mobile Pay,Riverside,No
+T0631,2023-08-18,14:31,Friday,C269,Male,32,Iced Coffee,Drink,Medium,1,4.37,4.37,Mobile Pay,Suburb,No
+T0632,2023-08-19,19:17,Saturday,C110,Female,47,Croissant,Food,-,3,2.8,8.4,Cash,Suburb,No
+T0633,2023-10-15,12:06,Sunday,C205,Male,29,Cappuccino,Drink,Large,2,3.14,6.28,Card,Midtown,No
+T0634,2023-11-01,09:43,Wednesday,C336,Male,28,Brownie,Food,-,1,1.89,1.89,Cash,Midtown,Yes
+T0635,2023-06-29,07:19,Thursday,C351,Male,44,Iced Coffee,Drink,Large,1,3.57,3.57,Mobile Pay,Riverside,No
+T0636,2023-10-25,18:56,Wednesday,C088,Female,54,Cappuccino,Drink,Large,2,3.22,6.44,Cash,Downtown,Yes
+T0637,2023-07-20,12:25,Thursday,C279,Male,19,Iced Coffee,Drink,Large,3,4.22,12.66,Mobile Pay,Midtown,No
+T0638,2023-03-03,15:34,Friday,C227,Female,53,Muffin,Food,-,1,2.87,2.87,Mobile Pay,Midtown,No
+T0639,2023-07-01,16:12,Saturday,C230,Female,33,Muffin,Food,-,2,1.88,3.76,Mobile Pay,Suburb,No
+T0640,2023-08-28,19:39,Monday,C142,Male,38,Brownie,Food,-,1,1.67,1.67,Card,Downtown,No
+T0641,2023-10-16,17:30,Monday,C475,Male,28,Mocha,Drink,Medium,2,4.2,8.4,Card,Riverside,No
+T0642,2023-01-30,17:41,Monday,C033,Female,57,Cappuccino,Drink,Large,3,3.01,9.03,Cash,Midtown,No
+T0643,2023-10-11,06:10,Wednesday,C284,Male,39,Mocha,Drink,Large,2,5.29,10.58,Card,Uptown,Yes
+T0644,2023-08-09,11:21,Wednesday,C223,Male,60,Tea,Drink,Large,2,2.43,4.86,Mobile Pay,Suburb,No
+T0645,2023-04-01,07:54,Saturday,C391,Female,51,Cappuccino,Drink,Medium,3,4.4,13.2,Card,Uptown,No
+T0646,2023-07-29,12:17,Saturday,C366,Male,45,Muffin,Food,-,1,2.56,2.56,Card,Midtown,No
+T0647,2023-06-28,06:12,Wednesday,C163,Male,44,Latte,Drink,Medium,2,4.13,8.26,Card,Suburb,No
+T0648,2023-12-07,15:12,Thursday,C183,Male,32,Muffin,Food,-,3,2.73,8.19,Card,Downtown,Yes
+T0649,2023-09-06,09:49,Wednesday,C362,Male,19,Latte,Drink,Small,3,4.52,13.56,Cash,Suburb,No
+T0650,2023-06-18,11:21,Sunday,C001,Female,31,Sandwich,Food,-,1,6.03,6.03,Mobile Pay,Midtown,Yes
+T0651,2023-11-04,06:12,Saturday,C445,Female,19,Sandwich,Food,-,3,5.92,17.76,Cash,Uptown,Yes
+T0652,2023-08-17,14:24,Thursday,C328,Male,25,Espresso,Drink,Medium,2,2.4,4.8,Cash,Downtown,No
+T0653,2023-11-02,12:03,Thursday,C093,Female,18,Iced Coffee,Drink,Large,2,3.41,6.82,Mobile Pay,Midtown,No
+T0654,2023-04-28,06:03,Friday,C079,Female,48,Brownie,Food,-,2,1.97,3.94,Card,Uptown,Yes
+T0655,2023-10-31,10:08,Tuesday,C281,Male,45,Croissant,Food,-,2,2.45,4.9,Card,Uptown,Yes
+T0656,2023-04-12,18:23,Wednesday,C087,Female,30,Croissant,Food,-,3,3.31,9.93,Mobile Pay,Midtown,Yes
+T0657,2023-02-07,18:16,Tuesday,C490,Male,37,Croissant,Food,-,3,3.15,9.45,Card,Midtown,Yes
+T0658,2023-04-01,15:24,Saturday,C139,Male,60,Muffin,Food,-,2,2.52,5.04,Mobile Pay,Riverside,Yes
+T0659,2023-04-15,07:53,Saturday,C125,Male,21,Sandwich,Food,-,1,5.73,5.73,Cash,Midtown,No
+T0660,2023-06-09,12:39,Friday,C053,Female,57,Sandwich,Food,-,3,4.31,12.93,Cash,Uptown,Yes
+T0661,2023-06-23,10:18,Friday,C297,Male,38,Muffin,Food,-,1,2.54,2.54,Card,Midtown,Yes
+T0662,2023-08-27,12:25,Sunday,C348,Male,47,Espresso,Drink,Medium,2,2.51,5.02,Cash,Downtown,Yes
+T0663,2023-07-15,18:25,Saturday,C264,Male,39,Tea,Drink,Small,3,2.21,6.63,Mobile Pay,Downtown,Yes
+T0664,2023-07-12,16:34,Wednesday,C349,Male,58,Latte,Drink,Medium,1,3.78,3.78,Cash,Downtown,Yes
+T0665,2023-06-20,08:04,Tuesday,C416,Male,34,Mocha,Drink,Medium,2,5.27,10.54,Cash,Downtown,No
+T0666,2023-07-17,08:35,Monday,C051,Male,20,Muffin,Food,-,2,2.65,5.3,Mobile Pay,Uptown,Yes
+T0667,2023-07-18,20:13,Tuesday,C387,Male,22,Mocha,Drink,Large,3,5.09,15.27,Cash,Midtown,Yes
+T0668,2023-09-29,13:24,Friday,C142,Male,31,Muffin,Food,-,2,2.74,5.48,Card,Midtown,Yes
+T0669,2023-12-15,15:03,Friday,C207,Female,49,Muffin,Food,-,3,2.63,7.89,Cash,Uptown,No
+T0670,2023-06-08,15:33,Thursday,C004,Male,56,Iced Coffee,Drink,Medium,3,3.62,10.86,Cash,Suburb,Yes
+T0671,2023-02-18,14:24,Saturday,C131,Male,19,Cappuccino,Drink,Medium,2,3.65,7.3,Card,Uptown,Yes
+T0672,2023-03-29,10:31,Wednesday,C010,Female,45,Croissant,Food,-,2,3.43,6.86,Mobile Pay,Midtown,No
+T0673,2023-04-21,12:59,Friday,C357,Female,48,Muffin,Food,-,1,2.05,2.05,Cash,Downtown,No
+T0674,2023-10-22,19:41,Sunday,C431,Female,32,Tea,Drink,Medium,3,2.06,6.18,Cash,Riverside,No
+T0675,2023-04-25,19:19,Tuesday,C087,Male,37,Iced Coffee,Drink,Medium,2,3.01,6.02,Card,Uptown,No
+T0676,2023-10-11,18:14,Wednesday,C215,Male,34,Muffin,Food,-,2,1.94,3.88,Card,Midtown,No
+T0677,2023-12-03,17:21,Sunday,C149,Male,28,Tea,Drink,Small,1,2.6,2.6,Mobile Pay,Uptown,No
+T0678,2023-10-26,15:27,Thursday,C046,Female,52,Latte,Drink,Medium,2,4.16,8.32,Card,Uptown,Yes
+T0679,2023-07-13,16:44,Thursday,C423,Male,36,Latte,Drink,Small,2,4.22,8.44,Card,Riverside,Yes
+T0680,2023-07-21,12:44,Friday,C215,Male,36,Croissant,Food,-,3,3.36,10.08,Mobile Pay,Downtown,No
+T0681,2023-06-18,17:38,Sunday,C488,Male,48,Sandwich,Food,-,1,5.78,5.78,Cash,Riverside,Yes
+T0682,2023-02-08,13:43,Wednesday,C337,Female,24,Cappuccino,Drink,Large,2,3.93,7.86,Card,Midtown,Yes
+T0683,2023-04-02,07:20,Sunday,C447,Male,29,Brownie,Food,-,3,2.25,6.75,Card,Midtown,Yes
+T0684,2023-09-11,09:15,Monday,C442,Male,32,Latte,Drink,Small,1,3.58,3.58,Card,Midtown,Yes
+T0685,2023-11-12,18:46,Sunday,C449,Male,44,Sandwich,Food,-,3,4.82,14.46,Card,Uptown,Yes
+T0686,2023-04-19,08:02,Wednesday,C188,Male,22,Espresso,Drink,Small,3,2.03,6.09,Cash,Uptown,Yes
+T0687,2023-04-11,13:43,Tuesday,C044,Male,38,Cappuccino,Drink,Large,1,3.86,3.86,Card,Riverside,Yes
+T0688,2023-06-27,06:27,Tuesday,C342,Female,47,Cappuccino,Drink,Large,2,3.59,7.18,Card,Uptown,Yes
+T0689,2023-11-26,17:21,Sunday,C416,Male,18,Espresso,Drink,Small,1,2.73,2.73,Card,Downtown,No
+T0690,2023-10-30,14:06,Monday,C302,Female,47,Latte,Drink,Medium,3,4.94,14.82,Card,Riverside,No
+T0691,2023-08-29,18:17,Tuesday,C115,Female,44,Cappuccino,Drink,Medium,2,4.33,8.66,Card,Uptown,Yes
+T0692,2023-01-07,08:15,Saturday,C078,Female,30,Mocha,Drink,Small,2,4.65,9.3,Cash,Riverside,Yes
+T0693,2023-07-31,07:01,Monday,C100,Male,40,Muffin,Food,-,3,1.9,5.7,Mobile Pay,Downtown,Yes
+T0694,2023-05-24,09:25,Wednesday,C384,Female,23,Espresso,Drink,Small,3,3.47,10.41,Card,Uptown,No
+T0695,2023-01-02,19:40,Monday,C067,Female,28,Sandwich,Food,-,2,4.7,9.4,Card,Downtown,Yes
+T0696,2023-01-21,08:52,Saturday,C008,Female,41,Brownie,Food,-,3,1.86,5.58,Card,Uptown,No
+T0697,2023-10-24,10:06,Tuesday,C225,Male,42,Espresso,Drink,Medium,2,2.59,5.18,Cash,Riverside,Yes
+T0698,2023-01-20,17:15,Friday,C328,Male,21,Sandwich,Food,-,2,6.4,12.8,Card,Riverside,Yes
+T0699,2023-09-22,20:04,Friday,C226,Male,45,Brownie,Food,-,1,1.78,1.78,Mobile Pay,Midtown,Yes
+T0700,2023-02-20,11:37,Monday,C447,Female,49,Espresso,Drink,Medium,1,2.65,2.65,Mobile Pay,Downtown,No
+T0701,2023-04-26,10:27,Wednesday,C151,Male,22,Tea,Drink,Small,1,3.09,3.09,Cash,Midtown,No
+T0702,2023-01-08,16:14,Sunday,C495,Male,22,Espresso,Drink,Large,1,2.44,2.44,Cash,Suburb,Yes
+T0703,2023-07-01,12:23,Saturday,C075,Female,28,Sandwich,Food,-,2,6.31,12.62,Card,Downtown,No
+T0704,2023-06-24,08:37,Saturday,C310,Male,44,Croissant,Food,-,1,2.45,2.45,Cash,Riverside,Yes
+T0705,2023-12-01,08:57,Friday,C053,Female,54,Muffin,Food,-,1,2.93,2.93,Card,Suburb,Yes
+T0706,2023-05-03,13:52,Wednesday,C318,Male,60,Espresso,Drink,Large,3,2.43,7.29,Mobile Pay,Riverside,Yes
+T0707,2023-12-25,12:46,Monday,C403,Male,38,Tea,Drink,Small,3,2.62,7.86,Card,Downtown,Yes
+T0708,2023-05-13,08:39,Saturday,C142,Male,51,Espresso,Drink,Large,1,2.62,2.62,Mobile Pay,Downtown,Yes
+T0709,2023-11-26,13:17,Sunday,C452,Female,56,Mocha,Drink,Medium,2,4.25,8.5,Mobile Pay,Midtown,Yes
+T0710,2023-10-03,19:43,Tuesday,C447,Female,30,Mocha,Drink,Small,1,4.93,4.93,Cash,Midtown,Yes
+T0711,2023-12-27,15:19,Wednesday,C062,Male,22,Muffin,Food,-,2,2.14,4.28,Cash,Riverside,No
+T0712,2023-11-05,18:50,Sunday,C288,Female,36,Croissant,Food,-,3,2.12,6.36,Cash,Riverside,No
+T0713,2023-12-16,16:32,Saturday,C467,Male,40,Cappuccino,Drink,Small,2,3.47,6.94,Card,Midtown,No
+T0714,2023-06-18,07:10,Sunday,C235,Male,53,Espresso,Drink,Medium,1,2.89,2.89,Card,Uptown,Yes
+T0715,2023-10-29,11:01,Sunday,C398,Male,41,Muffin,Food,-,2,2.95,5.9,Card,Suburb,Yes
+T0716,2023-07-11,07:44,Tuesday,C471,Male,32,Mocha,Drink,Large,2,4.71,9.42,Card,Uptown,No
+T0717,2023-10-07,10:18,Saturday,C165,Female,34,Sandwich,Food,-,1,4.57,4.57,Card,Uptown,No
+T0718,2023-03-24,07:53,Friday,C089,Male,38,Tea,Drink,Medium,2,2.38,4.76,Mobile Pay,Suburb,Yes
+T0719,2023-02-21,15:37,Tuesday,C353,Female,40,Iced Coffee,Drink,Large,2,3.99,7.98,Mobile Pay,Riverside,Yes
+T0720,2023-12-21,13:29,Thursday,C253,Female,25,Croissant,Food,-,1,2.71,2.71,Mobile Pay,Uptown,No
+T0721,2023-04-13,08:06,Thursday,C141,Male,30,Croissant,Food,-,3,2.99,8.97,Cash,Riverside,No
+T0722,2023-07-30,18:33,Sunday,C145,Male,30,Latte,Drink,Medium,3,3.85,11.55,Cash,Suburb,No
+T0723,2023-01-14,08:01,Saturday,C278,Female,40,Muffin,Food,-,2,2.9,5.8,Card,Suburb,No
+T0724,2023-04-25,14:17,Tuesday,C150,Male,52,Brownie,Food,-,1,1.69,1.69,Mobile Pay,Suburb,No
+T0725,2023-10-28,08:50,Saturday,C042,Female,47,Croissant,Food,-,1,2.63,2.63,Mobile Pay,Uptown,No
+T0726,2023-02-11,14:17,Saturday,C121,Female,35,Tea,Drink,Medium,1,3.25,3.25,Cash,Uptown,Yes
+T0727,2023-04-15,12:58,Saturday,C066,Male,19,Muffin,Food,-,2,2.84,5.68,Mobile Pay,Midtown,No
+T0728,2023-05-31,15:40,Wednesday,C403,Female,30,Sandwich,Food,-,3,6.37,19.11,Card,Uptown,Yes
+T0729,2023-06-02,14:27,Friday,C398,Female,36,Tea,Drink,Medium,1,3.06,3.06,Card,Uptown,Yes
+T0730,2023-10-30,16:15,Monday,C193,Male,18,Latte,Drink,Small,2,4.17,8.34,Cash,Riverside,Yes
+T0731,2023-10-26,12:49,Thursday,C254,Male,54,Tea,Drink,Medium,3,3.25,9.75,Cash,Downtown,No
+T0732,2023-11-23,17:59,Thursday,C232,Female,37,Brownie,Food,-,2,2.01,4.02,Card,Riverside,Yes
+T0733,2023-02-06,10:33,Monday,C458,Male,49,Espresso,Drink,Medium,2,2.92,5.84,Card,Uptown,No
+T0734,2023-05-21,20:23,Sunday,C159,Female,40,Brownie,Food,-,3,1.78,5.34,Mobile Pay,Midtown,Yes
+T0735,2023-06-14,06:52,Wednesday,C290,Female,38,Muffin,Food,-,1,2.28,2.28,Card,Downtown,No
+T0736,2023-03-25,16:31,Saturday,C017,Male,24,Tea,Drink,Large,1,3.26,3.26,Cash,Midtown,Yes
+T0737,2023-11-03,12:46,Friday,C090,Male,22,Brownie,Food,-,3,2.4,7.2,Card,Uptown,No
+T0738,2023-11-19,15:40,Sunday,C042,Female,42,Muffin,Food,-,3,2.4,7.2,Mobile Pay,Riverside,Yes
+T0739,2023-01-02,17:19,Monday,C169,Male,38,Muffin,Food,-,2,2.25,4.5,Card,Downtown,Yes
+T0740,2023-01-27,07:22,Friday,C319,Male,47,Muffin,Food,-,3,2.68,8.04,Card,Riverside,Yes
+T0741,2023-02-27,10:05,Monday,C013,Male,51,Latte,Drink,Medium,2,4.27,8.54,Cash,Uptown,No
+T0742,2023-06-15,12:50,Thursday,C206,Female,29,Espresso,Drink,Medium,3,3.17,9.51,Cash,Riverside,Yes
+T0743,2023-08-30,08:27,Wednesday,C172,Female,42,Mocha,Drink,Large,2,4.27,8.54,Mobile Pay,Downtown,Yes
+T0744,2023-03-15,18:48,Wednesday,C287,Male,56,Muffin,Food,-,2,2.93,5.86,Cash,Midtown,No
+T0745,2023-02-21,18:21,Tuesday,C364,Female,42,Latte,Drink,Large,2,3.84,7.68,Card,Riverside,No
+T0746,2023-12-25,18:08,Monday,C411,Male,20,Latte,Drink,Medium,3,3.63,10.89,Card,Midtown,Yes
+T0747,2023-09-22,19:36,Friday,C202,Female,49,Sandwich,Food,-,1,5.7,5.7,Card,Riverside,Yes
+T0748,2023-05-23,20:34,Tuesday,C323,Female,20,Brownie,Food,-,3,2.0,6.0,Cash,Midtown,Yes
+T0749,2023-01-29,20:49,Sunday,C500,Male,20,Tea,Drink,Large,2,3.01,6.02,Cash,Riverside,Yes
+T0750,2023-11-18,20:44,Saturday,C144,Male,54,Espresso,Drink,Large,2,3.41,6.82,Mobile Pay,Downtown,No
+T0751,2023-01-11,07:13,Wednesday,C439,Female,33,Sandwich,Food,-,1,4.37,4.37,Mobile Pay,Downtown,Yes
+T0752,2023-06-30,19:20,Friday,C076,Female,58,Latte,Drink,Large,3,4.87,14.61,Cash,Riverside,No
+T0753,2023-12-22,15:31,Friday,C050,Male,59,Brownie,Food,-,1,2.06,2.06,Mobile Pay,Suburb,No
+T0754,2023-03-14,11:33,Tuesday,C204,Female,37,Tea,Drink,Medium,3,3.24,9.72,Card,Riverside,No
+T0755,2023-09-02,19:15,Saturday,C386,Male,47,Cappuccino,Drink,Large,2,4.11,8.22,Card,Riverside,Yes
+T0756,2023-08-07,15:03,Monday,C161,Male,39,Brownie,Food,-,3,2.16,6.48,Mobile Pay,Midtown,Yes
+T0757,2023-02-05,17:31,Sunday,C238,Male,46,Espresso,Drink,Medium,3,2.4,7.2,Card,Suburb,No
+T0758,2023-06-05,07:48,Monday,C032,Female,43,Espresso,Drink,Small,3,3.3,9.9,Cash,Riverside,No
+T0759,2023-01-04,14:02,Wednesday,C224,Male,49,Iced Coffee,Drink,Small,2,3.01,6.02,Cash,Midtown,No
+T0760,2023-09-09,14:52,Saturday,C400,Female,43,Iced Coffee,Drink,Small,3,3.88,11.64,Card,Riverside,Yes
+T0761,2023-06-23,07:02,Friday,C249,Female,24,Tea,Drink,Large,2,2.75,5.5,Mobile Pay,Suburb,Yes
+T0762,2023-11-17,08:26,Friday,C009,Male,43,Tea,Drink,Small,1,2.33,2.33,Card,Downtown,No
+T0763,2023-02-09,18:54,Thursday,C082,Female,44,Iced Coffee,Drink,Small,3,3.09,9.27,Mobile Pay,Downtown,Yes
+T0764,2023-09-29,20:12,Friday,C137,Female,48,Tea,Drink,Large,2,3.09,6.18,Mobile Pay,Downtown,Yes
+T0765,2023-08-29,20:17,Tuesday,C337,Female,41,Latte,Drink,Medium,1,3.9,3.9,Mobile Pay,Downtown,Yes
+T0766,2023-09-25,10:23,Monday,C220,Male,46,Tea,Drink,Medium,3,2.3,6.9,Card,Suburb,No
+T0767,2023-06-17,06:57,Saturday,C206,Female,30,Mocha,Drink,Large,3,4.01,12.03,Card,Midtown,No
+T0768,2023-03-12,19:32,Sunday,C335,Female,36,Croissant,Food,-,2,3.17,6.34,Card,Midtown,No
+T0769,2023-01-12,12:31,Thursday,C268,Male,36,Cappuccino,Drink,Medium,1,3.96,3.96,Mobile Pay,Riverside,Yes
+T0770,2023-04-19,19:02,Wednesday,C451,Female,23,Latte,Drink,Small,1,4.8,4.8,Cash,Uptown,Yes
+T0771,2023-02-15,14:54,Wednesday,C132,Male,25,Tea,Drink,Medium,1,2.35,2.35,Card,Midtown,No
+T0772,2023-01-23,12:21,Monday,C186,Female,54,Muffin,Food,-,3,2.98,8.94,Cash,Suburb,No
+T0773,2023-12-13,18:27,Wednesday,C240,Male,37,Croissant,Food,-,2,2.77,5.54,Cash,Uptown,No
+T0774,2023-05-26,12:15,Friday,C063,Female,57,Sandwich,Food,-,3,5.3,15.9,Mobile Pay,Uptown,No
+T0775,2023-12-12,08:02,Tuesday,C341,Female,44,Sandwich,Food,-,1,5.26,5.26,Mobile Pay,Riverside,Yes
+T0776,2023-03-26,18:24,Sunday,C270,Female,38,Brownie,Food,-,2,2.42,4.84,Card,Suburb,Yes
+T0777,2023-06-27,20:28,Tuesday,C214,Male,33,Tea,Drink,Small,3,2.16,6.48,Mobile Pay,Midtown,No
+T0778,2023-11-03,12:08,Friday,C025,Male,48,Tea,Drink,Medium,2,2.45,4.9,Card,Downtown,Yes
+T0779,2023-10-05,10:40,Thursday,C323,Male,50,Mocha,Drink,Small,2,4.61,9.22,Mobile Pay,Riverside,No
+T0780,2023-03-24,12:30,Friday,C267,Male,46,Espresso,Drink,Medium,2,2.45,4.9,Mobile Pay,Riverside,No
+T0781,2023-12-21,09:20,Thursday,C119,Female,47,Muffin,Food,-,1,1.94,1.94,Mobile Pay,Uptown,No
+T0782,2023-02-24,14:47,Friday,C167,Female,58,Brownie,Food,-,1,1.73,1.73,Cash,Suburb,No
+T0783,2023-04-19,16:02,Wednesday,C083,Female,26,Latte,Drink,Small,2,3.88,7.76,Cash,Uptown,No
+T0784,2023-10-31,20:48,Tuesday,C360,Male,43,Espresso,Drink,Large,2,2.89,5.78,Cash,Suburb,No
+T0785,2023-06-02,16:36,Friday,C242,Female,58,Sandwich,Food,-,2,5.96,11.92,Cash,Suburb,No
+T0786,2023-01-31,06:51,Tuesday,C037,Male,31,Iced Coffee,Drink,Large,3,3.52,10.56,Card,Riverside,No
+T0787,2023-06-03,13:39,Saturday,C266,Female,36,Tea,Drink,Medium,3,3.42,10.26,Mobile Pay,Midtown,No
+T0788,2023-01-14,17:19,Saturday,C430,Female,43,Iced Coffee,Drink,Small,3,3.98,11.94,Cash,Riverside,Yes
+T0789,2023-05-19,15:20,Friday,C445,Female,18,Brownie,Food,-,3,2.09,6.27,Mobile Pay,Uptown,No
+T0790,2023-08-30,20:20,Wednesday,C130,Male,31,Iced Coffee,Drink,Large,3,3.87,11.61,Card,Uptown,No
+T0791,2023-08-01,09:19,Tuesday,C106,Male,44,Brownie,Food,-,2,1.69,3.38,Cash,Midtown,No
+T0792,2023-09-09,16:48,Saturday,C493,Male,46,Sandwich,Food,-,2,4.49,8.98,Cash,Midtown,No
+T0793,2023-04-21,14:12,Friday,C241,Female,46,Tea,Drink,Small,2,2.17,4.34,Card,Downtown,No
+T0794,2023-11-30,12:46,Thursday,C498,Female,39,Cappuccino,Drink,Small,1,4.29,4.29,Card,Riverside,Yes
+T0795,2023-05-25,06:30,Thursday,C221,Male,33,Latte,Drink,Large,1,4.4,4.4,Mobile Pay,Suburb,No
+T0796,2023-08-17,19:03,Thursday,C381,Male,33,Croissant,Food,-,3,2.7,8.1,Mobile Pay,Uptown,Yes
+T0797,2023-11-19,15:39,Sunday,C029,Male,33,Cappuccino,Drink,Large,2,3.44,6.88,Card,Midtown,No
+T0798,2023-03-09,15:40,Thursday,C435,Male,48,Cappuccino,Drink,Large,2,4.35,8.7,Mobile Pay,Downtown,Yes
+T0799,2023-12-31,14:03,Sunday,C429,Male,50,Latte,Drink,Large,2,3.66,7.32,Card,Uptown,Yes
+T0800,2023-05-07,13:41,Sunday,C321,Male,37,Cappuccino,Drink,Small,2,4.34,8.68,Mobile Pay,Uptown,Yes
+T0801,2023-06-18,06:18,Sunday,C316,Male,19,Brownie,Food,-,2,2.46,4.92,Cash,Riverside,Yes
+T0802,2023-10-26,15:22,Thursday,C172,Female,34,Latte,Drink,Small,1,3.76,3.76,Mobile Pay,Midtown,Yes
+T0803,2023-11-01,06:14,Wednesday,C178,Male,46,Mocha,Drink,Medium,2,5.37,10.74,Cash,Midtown,No
+T0804,2023-09-15,15:43,Friday,C094,Male,60,Mocha,Drink,Small,2,5.47,10.94,Mobile Pay,Uptown,Yes
+T0805,2023-10-29,10:40,Sunday,C071,Male,22,Sandwich,Food,-,1,4.57,4.57,Card,Riverside,No
+T0806,2023-04-21,06:40,Friday,C085,Female,49,Iced Coffee,Drink,Medium,2,3.9,7.8,Card,Suburb,No
+T0807,2023-04-06,19:54,Thursday,C025,Female,21,Tea,Drink,Medium,3,3.15,9.45,Card,Riverside,Yes
+T0808,2023-12-31,09:08,Sunday,C357,Male,52,Brownie,Food,-,2,2.33,4.66,Cash,Downtown,No
+T0809,2023-01-19,12:44,Thursday,C186,Female,25,Iced Coffee,Drink,Large,1,3.41,3.41,Cash,Midtown,No
+T0810,2023-03-01,11:44,Wednesday,C481,Female,28,Brownie,Food,-,2,2.35,4.7,Card,Uptown,Yes
+T0811,2023-11-06,17:13,Monday,C462,Female,56,Brownie,Food,-,1,1.85,1.85,Cash,Midtown,Yes
+T0812,2023-10-19,15:07,Thursday,C270,Male,49,Espresso,Drink,Large,2,3.47,6.94,Card,Suburb,No
+T0813,2023-08-01,11:03,Tuesday,C285,Male,41,Sandwich,Food,-,2,4.2,8.4,Mobile Pay,Riverside,Yes
+T0814,2023-12-13,20:57,Wednesday,C118,Male,28,Sandwich,Food,-,2,5.75,11.5,Mobile Pay,Midtown,No
+T0815,2023-06-30,08:13,Friday,C364,Female,39,Sandwich,Food,-,2,5.69,11.38,Mobile Pay,Midtown,No
+T0816,2023-12-30,14:47,Saturday,C256,Female,32,Muffin,Food,-,3,2.08,6.24,Card,Uptown,Yes
+T0817,2023-03-17,11:03,Friday,C401,Female,58,Muffin,Food,-,2,2.55,5.1,Mobile Pay,Suburb,Yes
+T0818,2023-08-05,13:42,Saturday,C202,Female,26,Espresso,Drink,Medium,1,3.01,3.01,Mobile Pay,Uptown,No
+T0819,2023-03-16,18:38,Thursday,C435,Female,31,Latte,Drink,Small,3,3.76,11.28,Card,Uptown,Yes
+T0820,2023-09-07,17:17,Thursday,C146,Male,36,Muffin,Food,-,3,2.13,6.39,Card,Uptown,No
+T0821,2023-08-30,14:03,Wednesday,C060,Male,37,Brownie,Food,-,1,2.13,2.13,Cash,Downtown,Yes
+T0822,2023-09-09,14:19,Saturday,C013,Male,26,Iced Coffee,Drink,Medium,2,4.46,8.92,Mobile Pay,Uptown,Yes
+T0823,2023-01-01,07:09,Sunday,C319,Female,41,Tea,Drink,Large,1,2.96,2.96,Card,Downtown,No
+T0824,2023-02-24,20:08,Friday,C324,Female,25,Sandwich,Food,-,2,4.17,8.34,Cash,Riverside,Yes
+T0825,2023-04-16,12:14,Sunday,C298,Male,23,Latte,Drink,Medium,1,4.95,4.95,Cash,Midtown,Yes
+T0826,2023-01-16,15:51,Monday,C115,Female,42,Muffin,Food,-,3,1.98,5.94,Mobile Pay,Downtown,Yes
+T0827,2023-03-13,17:02,Monday,C111,Male,34,Espresso,Drink,Large,1,2.49,2.49,Cash,Suburb,Yes
+T0828,2023-08-11,11:51,Friday,C427,Male,52,Cappuccino,Drink,Medium,2,3.81,7.62,Cash,Midtown,No
+T0829,2023-03-12,09:45,Sunday,C203,Female,29,Croissant,Food,-,2,3.49,6.98,Card,Midtown,Yes
+T0830,2023-04-16,12:17,Sunday,C394,Female,35,Latte,Drink,Large,1,4.27,4.27,Cash,Riverside,Yes
+T0831,2023-03-15,18:59,Wednesday,C065,Female,56,Mocha,Drink,Large,1,4.71,4.71,Card,Uptown,Yes
+T0832,2023-10-16,07:14,Monday,C064,Female,58,Sandwich,Food,-,3,5.51,16.53,Card,Uptown,No
+T0833,2023-08-01,19:43,Tuesday,C321,Male,43,Latte,Drink,Large,1,4.24,4.24,Card,Downtown,No
+T0834,2023-07-16,06:53,Sunday,C141,Male,51,Muffin,Food,-,2,2.11,4.22,Cash,Riverside,No
+T0835,2023-08-13,11:22,Sunday,C408,Male,56,Espresso,Drink,Large,3,2.03,6.09,Mobile Pay,Suburb,No
+T0836,2023-10-23,20:16,Monday,C345,Female,40,Latte,Drink,Medium,1,4.08,4.08,Mobile Pay,Downtown,Yes
+T0837,2023-10-29,12:16,Sunday,C238,Male,59,Cappuccino,Drink,Small,2,4.22,8.44,Cash,Riverside,Yes
+T0838,2023-12-16,08:06,Saturday,C340,Male,30,Cappuccino,Drink,Small,1,4.08,4.08,Mobile Pay,Suburb,Yes
+T0839,2023-08-25,12:46,Friday,C427,Female,50,Iced Coffee,Drink,Large,3,3.33,9.99,Card,Suburb,No
+T0840,2023-11-24,11:21,Friday,C207,Female,46,Iced Coffee,Drink,Large,2,3.37,6.74,Cash,Uptown,Yes
+T0841,2023-11-03,12:59,Friday,C398,Male,18,Muffin,Food,-,1,2.13,2.13,Card,Riverside,No
+T0842,2023-01-03,15:39,Tuesday,C378,Female,46,Cappuccino,Drink,Small,2,3.25,6.5,Card,Uptown,Yes
+T0843,2023-12-14,17:22,Thursday,C367,Male,46,Tea,Drink,Large,1,3.34,3.34,Cash,Suburb,No
+T0844,2023-07-28,08:13,Friday,C117,Male,27,Cappuccino,Drink,Medium,3,3.87,11.61,Cash,Suburb,Yes
+T0845,2023-07-23,08:16,Sunday,C280,Male,55,Iced Coffee,Drink,Small,3,4.25,12.75,Card,Midtown,Yes
+T0846,2023-06-16,07:45,Friday,C409,Male,56,Tea,Drink,Small,2,2.09,4.18,Card,Uptown,Yes
+T0847,2023-08-08,08:56,Tuesday,C122,Male,26,Muffin,Food,-,2,1.99,3.98,Card,Riverside,Yes
+T0848,2023-08-22,10:28,Tuesday,C055,Male,37,Cappuccino,Drink,Medium,1,3.95,3.95,Card,Suburb,No
+T0849,2023-01-27,18:43,Friday,C226,Female,31,Croissant,Food,-,1,2.83,2.83,Mobile Pay,Riverside,Yes
+T0850,2023-03-30,11:46,Thursday,C113,Male,58,Muffin,Food,-,3,2.2,6.6,Card,Suburb,No
+T0851,2023-02-12,17:51,Sunday,C273,Male,49,Iced Coffee,Drink,Small,1,4.32,4.32,Card,Suburb,No
+T0852,2023-01-29,10:24,Sunday,C385,Male,23,Sandwich,Food,-,2,4.91,9.82,Cash,Midtown,Yes
+T0853,2023-08-28,16:52,Monday,C287,Female,41,Cappuccino,Drink,Large,3,4.26,12.78,Card,Uptown,Yes
+T0854,2023-10-04,09:41,Wednesday,C020,Female,49,Muffin,Food,-,3,2.5,7.5,Cash,Midtown,No
+T0855,2023-04-05,12:33,Wednesday,C157,Male,34,Brownie,Food,-,1,2.21,2.21,Cash,Midtown,Yes
+T0856,2023-04-17,17:21,Monday,C470,Female,23,Iced Coffee,Drink,Large,2,3.56,7.12,Mobile Pay,Downtown,No
+T0857,2023-07-17,17:52,Monday,C405,Male,32,Brownie,Food,-,3,1.94,5.82,Mobile Pay,Downtown,No
+T0858,2023-10-08,12:55,Sunday,C045,Male,55,Cappuccino,Drink,Large,2,4.23,8.46,Card,Uptown,Yes
+T0859,2023-10-07,15:43,Saturday,C400,Male,34,Espresso,Drink,Medium,1,3.3,3.3,Cash,Riverside,Yes
+T0860,2023-12-01,18:25,Friday,C451,Male,57,Iced Coffee,Drink,Medium,3,4.5,13.5,Card,Downtown,Yes
+T0861,2023-05-01,09:43,Monday,C320,Female,47,Iced Coffee,Drink,Large,3,3.64,10.92,Mobile Pay,Riverside,No
+T0862,2023-03-28,14:04,Tuesday,C089,Male,44,Brownie,Food,-,2,1.6,3.2,Mobile Pay,Downtown,No
+T0863,2023-01-31,17:17,Tuesday,C249,Male,49,Cappuccino,Drink,Medium,3,4.36,13.08,Card,Suburb,No
+T0864,2023-10-03,16:49,Tuesday,C496,Male,20,Brownie,Food,-,3,2.45,7.35,Mobile Pay,Riverside,Yes
+T0865,2023-06-24,06:20,Saturday,C197,Female,58,Latte,Drink,Medium,3,4.8,14.4,Cash,Downtown,No
+T0866,2023-08-15,18:02,Tuesday,C259,Male,59,Cappuccino,Drink,Medium,1,4.49,4.49,Cash,Downtown,No
+T0867,2023-12-08,08:58,Friday,C376,Male,37,Espresso,Drink,Large,2,2.15,4.3,Cash,Suburb,No
+T0868,2023-04-05,13:17,Wednesday,C320,Male,35,Sandwich,Food,-,1,4.78,4.78,Card,Uptown,No
+T0869,2023-08-24,07:52,Thursday,C250,Female,49,Espresso,Drink,Large,1,2.62,2.62,Mobile Pay,Midtown,Yes
+T0870,2023-05-03,09:51,Wednesday,C029,Male,50,Espresso,Drink,Large,1,3.09,3.09,Mobile Pay,Uptown,Yes
+T0871,2023-11-27,14:12,Monday,C443,Female,39,Tea,Drink,Large,3,2.29,6.87,Card,Midtown,No
+T0872,2023-06-07,20:10,Wednesday,C125,Male,53,Sandwich,Food,-,2,4.03,8.06,Cash,Midtown,No
+T0873,2023-11-04,13:10,Saturday,C353,Female,23,Brownie,Food,-,3,2.07,6.21,Cash,Uptown,Yes
+T0874,2023-06-10,07:18,Saturday,C268,Female,59,Mocha,Drink,Small,2,3.58,7.16,Cash,Riverside,Yes
+T0875,2023-03-09,12:54,Thursday,C452,Male,25,Tea,Drink,Medium,1,3.04,3.04,Mobile Pay,Midtown,Yes
+T0876,2023-12-10,07:11,Sunday,C081,Male,45,Tea,Drink,Large,3,2.22,6.66,Cash,Uptown,No
+T0877,2023-05-06,17:06,Saturday,C311,Female,50,Sandwich,Food,-,3,4.73,14.19,Mobile Pay,Riverside,No
+T0878,2023-07-01,06:09,Saturday,C304,Male,50,Iced Coffee,Drink,Small,2,4.27,8.54,Cash,Midtown,No
+T0879,2023-12-19,15:12,Tuesday,C190,Male,48,Cappuccino,Drink,Medium,1,4.08,4.08,Mobile Pay,Downtown,No
+T0880,2023-06-17,08:39,Saturday,C107,Male,58,Brownie,Food,-,2,2.36,4.72,Card,Uptown,No
+T0881,2023-12-24,09:08,Sunday,C430,Female,50,Croissant,Food,-,1,2.8,2.8,Card,Riverside,No
+T0882,2023-10-13,18:55,Friday,C386,Female,23,Brownie,Food,-,2,1.88,3.76,Mobile Pay,Uptown,Yes
+T0883,2023-02-07,09:48,Tuesday,C056,Female,34,Latte,Drink,Medium,3,3.57,10.71,Mobile Pay,Riverside,Yes
+T0884,2023-05-11,16:00,Thursday,C256,Male,44,Croissant,Food,-,1,3.22,3.22,Card,Uptown,Yes
+T0885,2023-09-09,09:40,Saturday,C082,Male,31,Mocha,Drink,Large,3,3.86,11.58,Cash,Riverside,Yes
+T0886,2023-07-01,17:23,Saturday,C413,Male,26,Cappuccino,Drink,Large,3,3.76,11.28,Cash,Suburb,Yes
+T0887,2023-05-25,13:48,Thursday,C260,Female,36,Muffin,Food,-,3,2.25,6.75,Card,Suburb,Yes
+T0888,2023-05-22,16:44,Monday,C056,Female,23,Brownie,Food,-,2,2.06,4.12,Cash,Downtown,No
+T0889,2023-12-09,07:37,Saturday,C310,Male,56,Sandwich,Food,-,1,5.74,5.74,Cash,Riverside,No
+T0890,2023-08-18,16:56,Friday,C333,Male,19,Mocha,Drink,Large,3,3.97,11.91,Card,Downtown,No
+T0891,2023-05-05,08:11,Friday,C182,Male,47,Mocha,Drink,Small,2,5.18,10.36,Card,Riverside,No
+T0892,2023-09-23,18:45,Saturday,C128,Female,49,Tea,Drink,Large,1,3.24,3.24,Cash,Downtown,Yes
+T0893,2023-02-06,16:38,Monday,C012,Female,26,Mocha,Drink,Medium,2,5.45,10.9,Mobile Pay,Downtown,Yes
+T0894,2023-12-30,20:38,Saturday,C285,Male,51,Latte,Drink,Small,1,4.95,4.95,Cash,Uptown,Yes
+T0895,2023-04-25,15:54,Tuesday,C460,Male,22,Muffin,Food,-,3,2.1,6.3,Card,Riverside,Yes
+T0896,2023-10-11,15:26,Wednesday,C326,Male,18,Croissant,Food,-,1,2.07,2.07,Mobile Pay,Midtown,No
+T0897,2023-08-07,06:05,Monday,C312,Male,47,Croissant,Food,-,2,2.35,4.7,Cash,Downtown,Yes
+T0898,2023-05-07,12:40,Sunday,C362,Male,45,Tea,Drink,Large,1,2.04,2.04,Mobile Pay,Uptown,Yes
+T0899,2023-03-22,18:44,Wednesday,C039,Male,57,Cappuccino,Drink,Small,3,3.08,9.24,Cash,Uptown,Yes
+T0900,2023-09-10,10:54,Sunday,C106,Male,36,Muffin,Food,-,2,2.19,4.38,Mobile Pay,Downtown,Yes
+T0901,2023-09-08,15:40,Friday,C210,Female,50,Iced Coffee,Drink,Small,3,3.54,10.62,Mobile Pay,Suburb,No
+T0902,2023-08-10,12:21,Thursday,C402,Male,40,Brownie,Food,-,2,2.34,4.68,Mobile Pay,Suburb,Yes
+T0903,2023-03-11,13:53,Saturday,C326,Male,21,Sandwich,Food,-,3,4.41,13.23,Card,Riverside,No
+T0904,2023-09-06,19:04,Wednesday,C199,Male,49,Croissant,Food,-,3,2.32,6.96,Mobile Pay,Suburb,Yes
+T0905,2023-09-01,19:14,Friday,C060,Male,60,Croissant,Food,-,3,2.63,7.89,Card,Midtown,No
+T0906,2023-01-28,11:40,Saturday,C308,Female,34,Muffin,Food,-,3,2.36,7.08,Card,Uptown,Yes
+T0907,2023-09-28,11:45,Thursday,C102,Male,32,Mocha,Drink,Medium,1,4.13,4.13,Cash,Midtown,Yes
+T0908,2023-12-17,13:22,Sunday,C364,Male,50,Latte,Drink,Medium,2,3.78,7.56,Cash,Uptown,No
+T0909,2023-04-11,11:51,Tuesday,C138,Male,47,Espresso,Drink,Small,1,3.11,3.11,Cash,Midtown,No
+T0910,2023-07-15,17:00,Saturday,C230,Female,23,Sandwich,Food,-,2,5.33,10.66,Mobile Pay,Downtown,No
+T0911,2023-12-29,11:45,Friday,C255,Male,23,Tea,Drink,Medium,1,2.1,2.1,Mobile Pay,Midtown,Yes
+T0912,2023-09-27,14:03,Wednesday,C195,Male,44,Sandwich,Food,-,2,5.65,11.3,Cash,Downtown,Yes
+T0913,2023-03-11,17:34,Saturday,C315,Male,36,Tea,Drink,Medium,1,2.88,2.88,Mobile Pay,Suburb,No
+T0914,2023-12-29,10:46,Friday,C358,Male,29,Espresso,Drink,Large,3,2.67,8.01,Cash,Riverside,No
+T0915,2023-03-03,18:53,Friday,C168,Female,27,Tea,Drink,Large,2,2.38,4.76,Card,Midtown,Yes
+T0916,2023-06-29,19:52,Thursday,C090,Female,32,Espresso,Drink,Medium,2,2.52,5.04,Mobile Pay,Midtown,Yes
+T0917,2023-01-17,07:49,Tuesday,C087,Male,45,Brownie,Food,-,2,1.87,3.74,Card,Suburb,Yes
+T0918,2023-04-28,07:20,Friday,C339,Male,36,Tea,Drink,Large,3,2.06,6.18,Mobile Pay,Riverside,No
+T0919,2023-05-06,08:23,Saturday,C050,Male,56,Tea,Drink,Medium,2,2.02,4.04,Cash,Downtown,No
+T0920,2023-11-30,16:54,Thursday,C303,Male,24,Muffin,Food,-,1,2.59,2.59,Card,Downtown,No
+T0921,2023-09-23,14:45,Saturday,C013,Female,43,Mocha,Drink,Large,1,5.32,5.32,Mobile Pay,Downtown,No
+T0922,2023-08-04,10:21,Friday,C173,Female,28,Cappuccino,Drink,Small,2,4.26,8.52,Cash,Suburb,Yes
+T0923,2023-02-19,14:16,Sunday,C264,Male,60,Espresso,Drink,Medium,3,3.23,9.69,Card,Uptown,No
+T0924,2023-09-21,13:06,Thursday,C008,Female,24,Cappuccino,Drink,Small,2,3.27,6.54,Mobile Pay,Midtown,No
+T0925,2023-03-09,12:44,Thursday,C453,Male,44,Brownie,Food,-,3,1.6,4.8,Mobile Pay,Downtown,No
+T0926,2023-08-24,11:08,Thursday,C116,Female,52,Sandwich,Food,-,3,5.28,15.84,Card,Midtown,Yes
+T0927,2023-03-25,09:29,Saturday,C118,Male,28,Croissant,Food,-,1,3.28,3.28,Mobile Pay,Midtown,No
+T0928,2023-08-09,13:35,Wednesday,C134,Female,32,Mocha,Drink,Small,1,3.86,3.86,Cash,Uptown,No
+T0929,2023-04-23,19:36,Sunday,C016,Male,39,Croissant,Food,-,3,2.79,8.37,Cash,Downtown,Yes
+T0930,2023-08-03,10:05,Thursday,C019,Female,39,Mocha,Drink,Medium,3,4.86,14.58,Mobile Pay,Uptown,Yes
+T0931,2023-06-05,13:43,Monday,C112,Male,31,Espresso,Drink,Small,1,2.59,2.59,Card,Downtown,No
+T0932,2023-08-09,12:07,Wednesday,C079,Female,32,Sandwich,Food,-,3,5.7,17.1,Mobile Pay,Uptown,No
+T0933,2023-02-11,12:51,Saturday,C370,Female,38,Croissant,Food,-,2,2.21,4.42,Mobile Pay,Downtown,Yes
+T0934,2023-07-10,07:02,Monday,C365,Female,59,Sandwich,Food,-,3,6.2,18.6,Mobile Pay,Riverside,Yes
+T0935,2023-09-02,15:14,Saturday,C098,Male,51,Croissant,Food,-,1,3.38,3.38,Cash,Riverside,No
+T0936,2023-12-18,19:43,Monday,C245,Male,55,Brownie,Food,-,3,2.41,7.23,Card,Riverside,No
+T0937,2023-04-07,13:06,Friday,C165,Male,59,Tea,Drink,Small,3,2.68,8.04,Cash,Uptown,Yes
+T0938,2023-02-01,14:57,Wednesday,C386,Female,37,Croissant,Food,-,2,3.41,6.82,Card,Uptown,Yes
+T0939,2023-10-22,07:04,Sunday,C322,Female,23,Espresso,Drink,Small,3,2.89,8.67,Card,Midtown,Yes
+T0940,2023-03-16,12:54,Thursday,C159,Female,41,Espresso,Drink,Medium,3,3.45,10.35,Card,Downtown,Yes
+T0941,2023-09-28,13:06,Thursday,C256,Female,28,Mocha,Drink,Large,2,4.06,8.12,Card,Midtown,Yes
+T0942,2023-03-31,18:00,Friday,C190,Male,46,Iced Coffee,Drink,Small,3,3.61,10.83,Card,Riverside,No
+T0943,2023-12-25,08:10,Monday,C470,Female,50,Iced Coffee,Drink,Large,2,3.83,7.66,Mobile Pay,Midtown,Yes
+T0944,2023-02-20,16:15,Monday,C421,Female,31,Muffin,Food,-,2,2.23,4.46,Cash,Riverside,Yes
+T0945,2023-04-12,13:05,Wednesday,C082,Male,19,Croissant,Food,-,2,3.08,6.16,Cash,Midtown,Yes
+T0946,2023-07-31,15:53,Monday,C441,Female,52,Brownie,Food,-,2,1.52,3.04,Card,Suburb,Yes
+T0947,2023-04-02,12:29,Sunday,C329,Female,60,Croissant,Food,-,2,2.24,4.48,Card,Suburb,No
+T0948,2023-02-27,16:00,Monday,C224,Female,28,Croissant,Food,-,1,3.06,3.06,Card,Midtown,No
+T0949,2023-06-28,19:16,Wednesday,C377,Female,31,Espresso,Drink,Medium,2,2.55,5.1,Mobile Pay,Suburb,No
+T0950,2023-12-16,15:48,Saturday,C142,Male,46,Latte,Drink,Large,2,4.62,9.24,Cash,Midtown,No
+T0951,2023-01-15,13:52,Sunday,C055,Male,23,Cappuccino,Drink,Medium,2,3.3,6.6,Mobile Pay,Riverside,Yes
+T0952,2023-02-09,14:08,Thursday,C042,Female,56,Espresso,Drink,Medium,2,2.5,5.0,Mobile Pay,Midtown,Yes
+T0953,2023-09-10,16:40,Sunday,C228,Female,43,Croissant,Food,-,2,2.48,4.96,Card,Midtown,Yes
+T0954,2023-12-22,20:23,Friday,C472,Female,39,Latte,Drink,Large,3,3.54,10.62,Mobile Pay,Riverside,Yes
+T0955,2023-09-27,10:23,Wednesday,C033,Female,42,Espresso,Drink,Large,3,2.83,8.49,Mobile Pay,Suburb,Yes
+T0956,2023-10-03,16:55,Tuesday,C079,Male,29,Latte,Drink,Small,2,3.71,7.42,Mobile Pay,Uptown,Yes
+T0957,2023-05-19,20:37,Friday,C133,Female,33,Tea,Drink,Medium,2,2.27,4.54,Card,Midtown,Yes
+T0958,2023-04-21,13:08,Friday,C424,Male,42,Mocha,Drink,Small,1,4.91,4.91,Card,Midtown,No
+T0959,2023-09-27,16:07,Wednesday,C266,Female,23,Iced Coffee,Drink,Medium,1,4.11,4.11,Cash,Riverside,No
+T0960,2023-02-12,18:46,Sunday,C190,Female,41,Espresso,Drink,Large,2,2.42,4.84,Card,Suburb,Yes
+T0961,2023-01-31,06:05,Tuesday,C296,Female,23,Espresso,Drink,Medium,1,2.41,2.41,Cash,Midtown,No
+T0962,2023-03-14,15:03,Tuesday,C314,Female,43,Mocha,Drink,Medium,2,5.39,10.78,Cash,Uptown,No
+T0963,2023-12-22,11:25,Friday,C227,Female,46,Sandwich,Food,-,3,4.65,13.95,Cash,Suburb,No
+T0964,2023-09-25,13:03,Monday,C125,Male,37,Tea,Drink,Large,2,2.74,5.48,Cash,Suburb,No
+T0965,2023-02-10,15:42,Friday,C330,Female,28,Cappuccino,Drink,Small,2,3.79,7.58,Cash,Suburb,No
+T0966,2023-07-24,19:04,Monday,C308,Female,34,Latte,Drink,Large,3,4.71,14.13,Card,Suburb,No
+T0967,2023-07-02,14:44,Sunday,C453,Male,60,Iced Coffee,Drink,Large,1,3.83,3.83,Cash,Midtown,No
+T0968,2023-11-22,09:26,Wednesday,C283,Female,38,Sandwich,Food,-,3,5.07,15.21,Cash,Riverside,Yes
+T0969,2023-08-11,15:16,Friday,C070,Female,48,Cappuccino,Drink,Large,3,3.87,11.61,Mobile Pay,Uptown,Yes
+T0970,2023-06-03,07:13,Saturday,C301,Male,24,Latte,Drink,Large,1,4.47,4.47,Mobile Pay,Riverside,No
+T0971,2023-10-27,13:06,Friday,C215,Male,42,Tea,Drink,Small,1,2.91,2.91,Cash,Uptown,Yes
+T0972,2023-09-09,08:15,Saturday,C108,Male,19,Iced Coffee,Drink,Small,3,3.36,10.08,Cash,Uptown,No
+T0973,2023-01-12,20:36,Thursday,C186,Male,40,Brownie,Food,-,1,2.32,2.32,Mobile Pay,Suburb,Yes
+T0974,2023-10-10,15:34,Tuesday,C390,Male,59,Muffin,Food,-,3,2.72,8.16,Mobile Pay,Suburb,Yes
+T0975,2023-02-27,10:48,Monday,C202,Female,52,Cappuccino,Drink,Medium,1,3.11,3.11,Card,Suburb,No
+T0976,2023-08-22,09:33,Tuesday,C064,Female,54,Iced Coffee,Drink,Small,1,3.85,3.85,Mobile Pay,Uptown,Yes
+T0977,2023-09-08,18:39,Friday,C251,Female,42,Cappuccino,Drink,Medium,2,3.74,7.48,Card,Uptown,Yes
+T0978,2023-01-19,10:52,Thursday,C406,Male,21,Cappuccino,Drink,Small,1,3.46,3.46,Card,Downtown,No
+T0979,2023-07-26,06:36,Wednesday,C180,Female,22,Espresso,Drink,Small,2,2.89,5.78,Cash,Suburb,Yes
+T0980,2023-03-10,06:52,Friday,C284,Female,36,Espresso,Drink,Small,2,2.72,5.44,Mobile Pay,Midtown,Yes
+T0981,2023-11-02,06:55,Thursday,C379,Female,45,Tea,Drink,Medium,1,2.34,2.34,Cash,Riverside,Yes
+T0982,2023-06-07,19:39,Wednesday,C273,Female,32,Muffin,Food,-,3,2.78,8.34,Cash,Riverside,Yes
+T0983,2023-09-26,17:14,Tuesday,C281,Female,18,Tea,Drink,Medium,1,2.33,2.33,Mobile Pay,Uptown,Yes
+T0984,2023-05-26,08:44,Friday,C166,Male,42,Latte,Drink,Medium,3,4.64,13.92,Mobile Pay,Downtown,No
+T0985,2023-09-04,12:46,Monday,C223,Female,43,Iced Coffee,Drink,Large,3,3.99,11.97,Mobile Pay,Uptown,No
+T0986,2023-08-03,07:43,Thursday,C181,Male,18,Brownie,Food,-,3,1.81,5.43,Card,Uptown,No
+T0987,2023-10-22,12:24,Sunday,C471,Male,53,Cappuccino,Drink,Small,1,4.15,4.15,Cash,Downtown,No
+T0988,2023-04-24,16:36,Monday,C409,Male,45,Sandwich,Food,-,2,5.41,10.82,Card,Midtown,No
+T0989,2023-01-22,16:38,Sunday,C319,Male,47,Latte,Drink,Medium,1,3.99,3.99,Mobile Pay,Downtown,Yes
+T0990,2023-07-14,07:05,Friday,C398,Female,20,Tea,Drink,Large,3,2.44,7.32,Card,Uptown,Yes
+T0991,2023-11-22,12:41,Wednesday,C100,Female,52,Tea,Drink,Large,1,2.91,2.91,Cash,Riverside,Yes
+T0992,2023-01-27,19:06,Friday,C483,Female,25,Croissant,Food,-,2,3.1,6.2,Card,Uptown,No
+T0993,2023-11-25,10:58,Saturday,C272,Male,35,Tea,Drink,Small,1,3.16,3.16,Card,Riverside,Yes
+T0994,2023-04-01,20:08,Saturday,C426,Male,41,Iced Coffee,Drink,Large,1,3.42,3.42,Card,Downtown,No
+T0995,2023-07-20,12:38,Thursday,C148,Female,20,Cappuccino,Drink,Large,2,3.52,7.04,Mobile Pay,Downtown,No
+T0996,2023-03-03,17:49,Friday,C251,Male,36,Espresso,Drink,Large,3,3.42,10.26,Mobile Pay,Downtown,Yes
+T0997,2023-07-18,16:40,Tuesday,C435,Female,30,Mocha,Drink,Large,2,4.52,9.04,Mobile Pay,Midtown,Yes
+T0998,2023-11-26,17:54,Sunday,C018,Male,44,Tea,Drink,Large,1,2.47,2.47,Card,Midtown,No
+T0999,2023-05-01,11:48,Monday,C086,Male,24,Tea,Drink,Large,2,3.49,6.98,Card,Midtown,No
+T1000,2023-07-14,06:38,Friday,C382,Male,22,Mocha,Drink,Large,2,5.44,10.88,Cash,Riverside,No
+T1001,2023-03-04,08:07,Saturday,C421,Male,37,Muffin,Food,-,1,2.98,2.98,Mobile Pay,Suburb,No
+T1002,2023-04-01,16:27,Saturday,C144,Female,58,Latte,Drink,Small,3,3.94,11.82,Cash,Downtown,No
+T1003,2023-01-14,14:12,Saturday,C039,Male,57,Tea,Drink,Small,3,2.77,8.31,Card,Uptown,No
+T1004,2023-05-21,17:53,Sunday,C338,Female,23,Cappuccino,Drink,Medium,2,4.38,8.76,Card,Downtown,Yes
+T1005,2023-06-20,19:10,Tuesday,C331,Male,34,Iced Coffee,Drink,Small,1,3.51,3.51,Cash,Midtown,Yes
+T1006,2023-12-24,07:55,Sunday,C476,Female,49,Croissant,Food,-,3,2.8,8.4,Card,Suburb,No
+T1007,2023-07-19,07:28,Wednesday,C225,Male,28,Mocha,Drink,Small,3,3.51,10.53,Card,Downtown,No
+T1008,2023-08-24,10:56,Thursday,C350,Male,34,Croissant,Food,-,2,2.37,4.74,Cash,Uptown,Yes
+T1009,2023-07-22,06:00,Saturday,C196,Female,49,Muffin,Food,-,2,2.58,5.16,Cash,Midtown,Yes
+T1010,2023-09-02,06:38,Saturday,C162,Male,20,Muffin,Food,-,1,2.35,2.35,Card,Midtown,Yes
+T1011,2023-02-20,16:04,Monday,C050,Male,57,Brownie,Food,-,3,2.09,6.27,Card,Downtown,No
+T1012,2023-12-30,20:54,Saturday,C282,Male,18,Tea,Drink,Small,2,3.12,6.24,Mobile Pay,Uptown,No
+T1013,2023-01-05,16:19,Thursday,C427,Female,30,Cappuccino,Drink,Large,2,4.34,8.68,Card,Riverside,Yes
+T1014,2023-01-30,12:05,Monday,C236,Male,27,Muffin,Food,-,3,2.2,6.6,Card,Downtown,No
+T1015,2023-07-26,08:00,Wednesday,C365,Female,21,Muffin,Food,-,1,2.34,2.34,Card,Suburb,Yes
+T1016,2023-06-29,14:48,Thursday,C377,Female,30,Latte,Drink,Small,1,4.47,4.47,Card,Suburb,Yes
+T1017,2023-04-25,09:13,Tuesday,C245,Male,42,Iced Coffee,Drink,Small,3,3.08,9.24,Cash,Suburb,Yes
+T1018,2023-06-03,20:59,Saturday,C152,Female,29,Latte,Drink,Large,1,4.22,4.22,Cash,Riverside,No
+T1019,2023-02-12,11:54,Sunday,C425,Female,42,Croissant,Food,-,1,2.07,2.07,Mobile Pay,Midtown,Yes
+T1020,2023-10-03,10:50,Tuesday,C463,Female,22,Tea,Drink,Large,3,3.15,9.45,Card,Uptown,No
+T1021,2023-11-12,13:49,Sunday,C486,Male,40,Latte,Drink,Large,2,4.63,9.26,Cash,Suburb,No
+T1022,2023-05-24,08:55,Wednesday,C443,Female,35,Espresso,Drink,Large,1,2.73,2.73,Card,Midtown,Yes
+T1023,2023-04-10,12:56,Monday,C475,Male,30,Cappuccino,Drink,Small,1,3.27,3.27,Mobile Pay,Downtown,Yes
+T1024,2023-10-31,14:26,Tuesday,C253,Male,37,Latte,Drink,Small,1,4.57,4.57,Mobile Pay,Downtown,No
+T1025,2023-07-13,19:44,Thursday,C425,Female,41,Mocha,Drink,Small,1,4.94,4.94,Card,Uptown,No
+T1026,2023-02-18,17:56,Saturday,C378,Male,53,Latte,Drink,Small,1,4.84,4.84,Card,Midtown,No
+T1027,2023-12-30,10:32,Saturday,C195,Female,46,Cappuccino,Drink,Large,1,4.26,4.26,Card,Downtown,No
+T1028,2023-06-16,14:28,Friday,C262,Female,43,Espresso,Drink,Medium,2,2.89,5.78,Cash,Suburb,Yes
+T1029,2023-12-26,06:07,Tuesday,C125,Female,48,Mocha,Drink,Small,1,3.88,3.88,Mobile Pay,Midtown,No
+T1030,2023-04-20,08:24,Thursday,C193,Female,44,Muffin,Food,-,3,2.99,8.97,Cash,Suburb,Yes
+T1031,2023-12-18,11:19,Monday,C003,Female,37,Muffin,Food,-,3,2.65,7.95,Mobile Pay,Downtown,No
+T1032,2023-08-23,15:26,Wednesday,C500,Male,60,Brownie,Food,-,3,2.32,6.96,Mobile Pay,Downtown,Yes
+T1033,2023-09-15,07:02,Friday,C081,Male,53,Iced Coffee,Drink,Large,2,4.05,8.1,Card,Uptown,No
+T1034,2023-02-27,19:38,Monday,C062,Male,19,Iced Coffee,Drink,Small,1,3.15,3.15,Cash,Downtown,No
+T1035,2023-09-01,20:44,Friday,C428,Male,41,Mocha,Drink,Large,2,3.97,7.94,Mobile Pay,Riverside,No
+T1036,2023-03-01,18:19,Wednesday,C068,Male,33,Croissant,Food,-,3,2.68,8.04,Card,Uptown,No
+T1037,2023-03-31,15:17,Friday,C010,Female,32,Croissant,Food,-,1,2.46,2.46,Card,Uptown,No
+T1038,2023-03-14,07:29,Tuesday,C276,Male,26,Tea,Drink,Medium,1,2.61,2.61,Mobile Pay,Downtown,No
+T1039,2023-11-01,13:59,Wednesday,C334,Male,36,Croissant,Food,-,2,3.08,6.16,Cash,Downtown,Yes
+T1040,2023-01-23,07:29,Monday,C150,Female,21,Sandwich,Food,-,1,5.67,5.67,Cash,Uptown,No
+T1041,2023-06-03,10:30,Saturday,C035,Female,36,Croissant,Food,-,3,2.04,6.12,Card,Uptown,No
+T1042,2023-12-02,12:26,Saturday,C462,Male,22,Brownie,Food,-,1,2.35,2.35,Mobile Pay,Midtown,Yes
+T1043,2023-03-14,11:38,Tuesday,C389,Female,56,Cappuccino,Drink,Small,1,3.01,3.01,Card,Riverside,Yes
+T1044,2023-08-26,16:20,Saturday,C369,Male,56,Mocha,Drink,Large,1,5.24,5.24,Cash,Uptown,No
+T1045,2023-09-10,19:26,Sunday,C213,Male,25,Iced Coffee,Drink,Large,2,3.83,7.66,Cash,Suburb,Yes
+T1046,2023-09-15,13:16,Friday,C415,Female,49,Espresso,Drink,Small,1,3.11,3.11,Card,Uptown,No
+T1047,2023-03-09,17:37,Thursday,C171,Female,34,Brownie,Food,-,1,2.2,2.2,Mobile Pay,Downtown,Yes
+T1048,2023-09-06,16:55,Wednesday,C446,Male,40,Sandwich,Food,-,3,5.5,16.5,Cash,Downtown,Yes
+T1049,2023-03-01,12:22,Wednesday,C264,Female,32,Latte,Drink,Medium,2,3.51,7.02,Mobile Pay,Midtown,Yes
+T1050,2023-05-23,06:26,Tuesday,C332,Male,27,Muffin,Food,-,3,2.57,7.71,Card,Uptown,Yes
+T1051,2023-08-31,15:46,Thursday,C445,Female,27,Tea,Drink,Medium,2,3.18,6.36,Mobile Pay,Suburb,No
+T1052,2023-02-11,16:54,Saturday,C043,Female,37,Latte,Drink,Small,1,4.77,4.77,Cash,Downtown,No
+T1053,2023-09-28,20:11,Thursday,C287,Female,23,Muffin,Food,-,1,2.3,2.3,Mobile Pay,Downtown,No
+T1054,2023-11-04,14:49,Saturday,C482,Male,54,Mocha,Drink,Large,1,5.25,5.25,Cash,Suburb,Yes
+T1055,2023-07-21,07:39,Friday,C136,Male,54,Croissant,Food,-,1,2.49,2.49,Mobile Pay,Midtown,Yes
+T1056,2023-07-19,20:19,Wednesday,C347,Male,25,Iced Coffee,Drink,Medium,1,3.47,3.47,Cash,Riverside,Yes
+T1057,2023-11-20,08:06,Monday,C160,Male,28,Sandwich,Food,-,3,4.61,13.83,Cash,Riverside,No
+T1058,2023-01-28,07:55,Saturday,C362,Female,45,Cappuccino,Drink,Small,2,3.77,7.54,Cash,Uptown,Yes
+T1059,2023-03-11,06:19,Saturday,C008,Male,59,Iced Coffee,Drink,Medium,1,3.88,3.88,Card,Uptown,No
+T1060,2023-05-10,06:46,Wednesday,C341,Female,24,Espresso,Drink,Large,3,3.22,9.66,Cash,Midtown,No
+T1061,2023-02-18,06:29,Saturday,C303,Male,22,Brownie,Food,-,1,1.98,1.98,Cash,Midtown,Yes
+T1062,2023-10-24,15:36,Tuesday,C168,Female,28,Muffin,Food,-,2,1.83,3.66,Card,Midtown,No
+T1063,2023-02-06,18:23,Monday,C009,Male,19,Brownie,Food,-,1,1.7,1.7,Mobile Pay,Downtown,No
+T1064,2023-07-10,09:41,Monday,C383,Male,51,Brownie,Food,-,2,1.57,3.14,Cash,Uptown,Yes
+T1065,2023-03-31,12:57,Friday,C428,Female,59,Cappuccino,Drink,Medium,1,3.9,3.9,Card,Uptown,No
+T1066,2023-03-21,12:14,Tuesday,C149,Male,60,Mocha,Drink,Medium,1,3.66,3.66,Mobile Pay,Midtown,No
+T1067,2023-01-07,11:56,Saturday,C399,Male,39,Croissant,Food,-,2,2.34,4.68,Mobile Pay,Midtown,No
+T1068,2023-05-08,20:44,Monday,C193,Female,36,Iced Coffee,Drink,Small,3,4.16,12.48,Cash,Suburb,No
+T1069,2023-12-02,19:20,Saturday,C250,Male,26,Croissant,Food,-,3,3.34,10.02,Cash,Downtown,Yes
+T1070,2023-12-06,17:12,Wednesday,C249,Female,47,Iced Coffee,Drink,Large,1,4.14,4.14,Cash,Riverside,Yes
+T1071,2023-08-15,10:47,Tuesday,C439,Female,56,Iced Coffee,Drink,Medium,3,3.73,11.19,Mobile Pay,Riverside,No
+T1072,2023-02-26,19:13,Sunday,C083,Female,25,Tea,Drink,Large,3,2.38,7.14,Cash,Downtown,Yes
+T1073,2023-06-03,18:26,Saturday,C314,Female,46,Espresso,Drink,Small,2,2.82,5.64,Card,Uptown,No
+T1074,2023-03-16,07:01,Thursday,C495,Male,48,Croissant,Food,-,3,3.49,10.47,Mobile Pay,Riverside,Yes
+T1075,2023-09-20,06:20,Wednesday,C016,Male,21,Cappuccino,Drink,Small,1,3.29,3.29,Mobile Pay,Midtown,Yes
+T1076,2023-01-02,11:56,Monday,C218,Female,55,Croissant,Food,-,3,2.72,8.16,Card,Riverside,Yes
+T1077,2023-11-06,17:10,Monday,C273,Female,36,Croissant,Food,-,1,3.44,3.44,Mobile Pay,Suburb,No
+T1078,2023-09-16,09:59,Saturday,C398,Female,29,Iced Coffee,Drink,Small,1,3.04,3.04,Card,Uptown,Yes
+T1079,2023-09-27,13:32,Wednesday,C099,Female,49,Espresso,Drink,Small,3,2.66,7.98,Cash,Midtown,Yes
+T1080,2023-09-26,19:01,Tuesday,C419,Male,60,Tea,Drink,Medium,3,2.65,7.95,Card,Suburb,No
+T1081,2023-08-23,15:05,Wednesday,C449,Male,26,Cappuccino,Drink,Small,1,4.02,4.02,Card,Downtown,Yes
+T1082,2023-11-11,18:48,Saturday,C294,Female,40,Tea,Drink,Large,3,2.22,6.66,Card,Midtown,No
+T1083,2023-10-03,09:19,Tuesday,C286,Female,52,Cappuccino,Drink,Medium,1,4.32,4.32,Card,Downtown,No
+T1084,2023-11-02,20:56,Thursday,C336,Female,21,Muffin,Food,-,1,2.41,2.41,Cash,Suburb,Yes
+T1085,2023-12-21,12:20,Thursday,C277,Female,48,Croissant,Food,-,1,2.33,2.33,Cash,Uptown,Yes
+T1086,2023-10-03,16:23,Tuesday,C188,Female,26,Mocha,Drink,Small,1,3.76,3.76,Card,Midtown,Yes
+T1087,2023-07-12,12:09,Wednesday,C078,Female,56,Cappuccino,Drink,Large,1,3.05,3.05,Cash,Downtown,No
+T1088,2023-11-09,16:12,Thursday,C201,Male,18,Latte,Drink,Large,2,4.12,8.24,Cash,Riverside,No
+T1089,2023-07-28,08:26,Friday,C217,Male,46,Mocha,Drink,Medium,1,3.81,3.81,Mobile Pay,Midtown,No
+T1090,2023-04-10,14:53,Monday,C387,Female,37,Latte,Drink,Medium,2,4.83,9.66,Mobile Pay,Suburb,Yes
+T1091,2023-11-28,10:05,Tuesday,C324,Female,37,Croissant,Food,-,3,3.1,9.3,Mobile Pay,Midtown,No
+T1092,2023-08-14,07:40,Monday,C390,Male,33,Tea,Drink,Large,3,2.81,8.43,Cash,Suburb,No
+T1093,2023-11-19,12:42,Sunday,C032,Female,51,Espresso,Drink,Small,3,2.22,6.66,Cash,Midtown,No
+T1094,2023-04-08,17:48,Saturday,C245,Female,49,Iced Coffee,Drink,Small,2,3.5,7.0,Cash,Midtown,No
+T1095,2023-08-30,12:21,Wednesday,C392,Female,36,Latte,Drink,Medium,1,4.37,4.37,Mobile Pay,Uptown,Yes
+T1096,2023-05-27,16:08,Saturday,C196,Male,57,Latte,Drink,Small,1,4.13,4.13,Cash,Riverside,Yes
+T1097,2023-11-28,12:34,Tuesday,C476,Female,43,Croissant,Food,-,2,2.24,4.48,Mobile Pay,Uptown,No
+T1098,2023-01-13,16:41,Friday,C120,Male,44,Mocha,Drink,Large,2,4.21,8.42,Mobile Pay,Suburb,Yes
+T1099,2023-12-25,06:27,Monday,C359,Male,55,Espresso,Drink,Small,2,3.2,6.4,Mobile Pay,Downtown,No
+T1100,2023-06-09,11:01,Friday,C114,Male,23,Mocha,Drink,Large,3,4.67,14.01,Card,Uptown,No
+T1101,2023-09-27,06:53,Wednesday,C106,Male,55,Iced Coffee,Drink,Large,2,4.26,8.52,Card,Downtown,Yes
+T1102,2023-10-03,18:39,Tuesday,C018,Male,19,Muffin,Food,-,2,2.38,4.76,Cash,Riverside,Yes
+T1103,2023-08-20,08:05,Sunday,C155,Male,33,Mocha,Drink,Small,2,4.45,8.9,Cash,Midtown,Yes
+T1104,2023-03-11,10:08,Saturday,C171,Female,21,Mocha,Drink,Small,1,5.46,5.46,Mobile Pay,Midtown,No
+T1105,2023-01-01,16:52,Sunday,C026,Male,29,Brownie,Food,-,1,2.17,2.17,Cash,Uptown,Yes
+T1106,2023-07-07,12:08,Friday,C213,Female,46,Muffin,Food,-,3,2.9,8.7,Cash,Riverside,Yes
+T1107,2023-05-18,06:38,Thursday,C130,Male,19,Latte,Drink,Medium,1,3.72,3.72,Cash,Midtown,Yes
+T1108,2023-06-23,14:42,Friday,C313,Male,46,Latte,Drink,Medium,3,4.82,14.46,Cash,Midtown,No
+T1109,2023-10-23,07:08,Monday,C262,Male,53,Cappuccino,Drink,Small,2,3.9,7.8,Mobile Pay,Riverside,Yes
+T1110,2023-12-01,12:37,Friday,C003,Male,23,Espresso,Drink,Medium,1,2.12,2.12,Card,Suburb,Yes
+T1111,2023-03-12,16:39,Sunday,C281,Female,18,Espresso,Drink,Large,3,3.41,10.23,Cash,Uptown,Yes
+T1112,2023-10-30,19:22,Monday,C151,Female,60,Brownie,Food,-,3,1.65,4.95,Cash,Uptown,No
+T1113,2023-11-13,07:42,Monday,C136,Female,26,Espresso,Drink,Small,3,3.0,9.0,Card,Suburb,No
+T1114,2023-08-29,09:05,Tuesday,C259,Male,21,Sandwich,Food,-,2,4.08,8.16,Mobile Pay,Midtown,Yes
+T1115,2023-05-13,07:18,Saturday,C475,Female,31,Croissant,Food,-,1,3.21,3.21,Card,Midtown,No
+T1116,2023-04-05,07:44,Wednesday,C203,Male,56,Cappuccino,Drink,Large,3,3.51,10.53,Mobile Pay,Uptown,No
+T1117,2023-08-26,11:10,Saturday,C017,Male,49,Espresso,Drink,Small,2,2.98,5.96,Mobile Pay,Riverside,Yes
+T1118,2023-06-25,11:48,Sunday,C028,Female,22,Sandwich,Food,-,1,5.29,5.29,Card,Midtown,Yes
+T1119,2023-11-10,19:42,Friday,C361,Female,52,Sandwich,Food,-,1,6.17,6.17,Mobile Pay,Downtown,No
+T1120,2023-09-16,13:17,Saturday,C166,Male,18,Mocha,Drink,Medium,3,5.26,15.78,Cash,Riverside,Yes
+T1121,2023-10-03,07:04,Tuesday,C233,Male,33,Mocha,Drink,Large,3,4.81,14.43,Mobile Pay,Uptown,Yes
+T1122,2023-09-20,15:21,Wednesday,C116,Female,37,Croissant,Food,-,2,3.13,6.26,Mobile Pay,Suburb,No
+T1123,2023-11-08,19:39,Wednesday,C158,Female,44,Tea,Drink,Large,1,2.18,2.18,Card,Uptown,No
+T1124,2023-05-11,17:38,Thursday,C213,Male,30,Muffin,Food,-,1,1.85,1.85,Card,Midtown,Yes
+T1125,2023-09-25,06:25,Monday,C118,Female,23,Latte,Drink,Large,2,4.36,8.72,Card,Downtown,Yes
+T1126,2023-04-14,09:26,Friday,C175,Female,46,Iced Coffee,Drink,Small,2,4.13,8.26,Card,Uptown,Yes
+T1127,2023-07-04,11:08,Tuesday,C262,Female,18,Mocha,Drink,Medium,3,4.46,13.38,Cash,Uptown,Yes
+T1128,2023-04-18,07:52,Tuesday,C070,Male,52,Sandwich,Food,-,1,5.52,5.52,Mobile Pay,Suburb,Yes
+T1129,2023-05-22,12:05,Monday,C210,Female,43,Sandwich,Food,-,3,4.6,13.8,Cash,Riverside,Yes
+T1130,2023-12-16,18:29,Saturday,C013,Female,44,Espresso,Drink,Small,2,2.11,4.22,Card,Uptown,Yes
+T1131,2023-12-09,13:50,Saturday,C334,Male,28,Iced Coffee,Drink,Small,1,3.09,3.09,Cash,Midtown,No
+T1132,2023-05-12,18:22,Friday,C286,Female,56,Croissant,Food,-,1,2.09,2.09,Cash,Riverside,Yes
+T1133,2023-10-17,12:45,Tuesday,C168,Female,21,Croissant,Food,-,3,3.22,9.66,Card,Riverside,Yes
+T1134,2023-12-29,20:22,Friday,C141,Male,31,Espresso,Drink,Medium,1,3.42,3.42,Card,Uptown,No
+T1135,2023-08-13,07:32,Sunday,C146,Female,50,Sandwich,Food,-,3,4.88,14.64,Card,Riverside,Yes
+T1136,2023-07-05,11:44,Wednesday,C427,Male,44,Brownie,Food,-,1,2.44,2.44,Card,Uptown,No
+T1137,2023-04-01,09:44,Saturday,C192,Female,52,Muffin,Food,-,2,2.41,4.82,Card,Downtown,No
+T1138,2023-01-13,14:45,Friday,C222,Male,38,Sandwich,Food,-,1,6.35,6.35,Mobile Pay,Riverside,No
+T1139,2023-11-22,17:21,Wednesday,C481,Male,51,Muffin,Food,-,1,1.82,1.82,Card,Downtown,No
+T1140,2023-09-11,19:47,Monday,C169,Male,41,Cappuccino,Drink,Medium,2,3.29,6.58,Cash,Midtown,Yes
+T1141,2023-03-22,12:43,Wednesday,C057,Male,40,Muffin,Food,-,3,2.14,6.42,Mobile Pay,Suburb,Yes
+T1142,2023-04-12,08:23,Wednesday,C276,Male,54,Espresso,Drink,Medium,3,2.35,7.05,Cash,Downtown,No
+T1143,2023-01-21,09:54,Saturday,C484,Male,43,Brownie,Food,-,3,1.93,5.79,Cash,Uptown,No
+T1144,2023-07-23,10:06,Sunday,C185,Male,43,Tea,Drink,Large,2,2.94,5.88,Mobile Pay,Midtown,No
+T1145,2023-02-01,13:14,Wednesday,C091,Female,18,Espresso,Drink,Medium,1,2.83,2.83,Cash,Suburb,No
+T1146,2023-03-16,15:01,Thursday,C387,Female,44,Espresso,Drink,Medium,1,2.66,2.66,Cash,Downtown,Yes
+T1147,2023-07-25,11:53,Tuesday,C294,Male,53,Croissant,Food,-,3,3.36,10.08,Mobile Pay,Riverside,No
+T1148,2023-11-15,07:02,Wednesday,C410,Male,49,Muffin,Food,-,2,1.83,3.66,Mobile Pay,Suburb,No
+T1149,2023-10-01,06:09,Sunday,C098,Male,20,Mocha,Drink,Large,3,4.86,14.58,Cash,Midtown,Yes
+T1150,2023-09-24,13:25,Sunday,C068,Female,33,Tea,Drink,Small,3,2.81,8.43,Cash,Downtown,Yes
+T1151,2023-09-06,07:20,Wednesday,C287,Female,34,Latte,Drink,Small,2,3.58,7.16,Mobile Pay,Suburb,Yes
+T1152,2023-12-31,08:32,Sunday,C208,Male,28,Croissant,Food,-,3,3.15,9.45,Mobile Pay,Uptown,Yes
+T1153,2023-10-25,15:59,Wednesday,C288,Female,50,Latte,Drink,Medium,2,4.32,8.64,Card,Suburb,Yes
+T1154,2023-09-23,11:25,Saturday,C393,Male,46,Cappuccino,Drink,Small,2,4.36,8.72,Card,Downtown,No
+T1155,2023-12-11,16:25,Monday,C176,Female,32,Brownie,Food,-,3,2.1,6.3,Mobile Pay,Downtown,No
+T1156,2023-07-18,14:22,Tuesday,C465,Female,26,Mocha,Drink,Medium,1,4.76,4.76,Cash,Midtown,No
+T1157,2023-05-28,08:50,Sunday,C126,Male,38,Espresso,Drink,Medium,3,2.82,8.46,Cash,Uptown,Yes
+T1158,2023-11-29,12:38,Wednesday,C195,Female,41,Latte,Drink,Small,1,4.17,4.17,Card,Midtown,Yes
+T1159,2023-10-26,19:38,Thursday,C105,Male,47,Espresso,Drink,Large,1,2.74,2.74,Cash,Downtown,Yes
+T1160,2023-01-14,12:33,Saturday,C318,Female,51,Tea,Drink,Small,1,2.86,2.86,Card,Suburb,No
+T1161,2023-01-08,15:14,Sunday,C122,Male,24,Tea,Drink,Small,2,3.04,6.08,Card,Midtown,No
+T1162,2023-03-06,20:06,Monday,C051,Female,37,Sandwich,Food,-,3,5.08,15.24,Cash,Downtown,No
+T1163,2023-10-23,19:01,Monday,C019,Male,24,Mocha,Drink,Small,3,4.11,12.33,Mobile Pay,Downtown,No
+T1164,2023-01-18,06:45,Wednesday,C403,Male,56,Iced Coffee,Drink,Large,1,3.03,3.03,Mobile Pay,Midtown,No
+T1165,2023-08-06,19:14,Sunday,C428,Female,35,Tea,Drink,Large,2,2.25,4.5,Card,Riverside,No
+T1166,2023-10-19,18:24,Thursday,C191,Male,60,Muffin,Food,-,1,2.28,2.28,Cash,Suburb,Yes
+T1167,2023-08-11,13:03,Friday,C251,Female,23,Brownie,Food,-,2,2.27,4.54,Cash,Uptown,Yes
+T1168,2023-07-14,07:21,Friday,C046,Female,23,Brownie,Food,-,3,2.19,6.57,Card,Downtown,Yes
+T1169,2023-12-21,19:25,Thursday,C032,Male,21,Iced Coffee,Drink,Small,1,3.99,3.99,Cash,Downtown,No
+T1170,2023-05-14,16:17,Sunday,C010,Male,27,Iced Coffee,Drink,Medium,1,3.81,3.81,Card,Uptown,Yes
+T1171,2023-01-14,19:00,Saturday,C311,Male,24,Muffin,Food,-,3,1.83,5.49,Mobile Pay,Riverside,Yes
+T1172,2023-05-14,20:08,Sunday,C038,Female,40,Muffin,Food,-,2,1.92,3.84,Cash,Riverside,Yes
+T1173,2023-06-26,17:40,Monday,C023,Female,19,Iced Coffee,Drink,Medium,1,3.29,3.29,Cash,Downtown,Yes
+T1174,2023-12-21,11:31,Thursday,C228,Male,18,Muffin,Food,-,3,1.97,5.91,Mobile Pay,Downtown,No
+T1175,2023-07-21,06:30,Friday,C068,Female,30,Espresso,Drink,Large,3,2.82,8.46,Cash,Suburb,No
+T1176,2023-07-24,13:03,Monday,C244,Female,42,Cappuccino,Drink,Medium,1,4.29,4.29,Cash,Downtown,No
+T1177,2023-11-03,11:27,Friday,C301,Male,35,Iced Coffee,Drink,Medium,2,4.26,8.52,Cash,Suburb,Yes
+T1178,2023-09-22,12:44,Friday,C104,Female,59,Latte,Drink,Large,1,4.21,4.21,Cash,Suburb,Yes
+T1179,2023-02-13,06:08,Monday,C466,Male,60,Iced Coffee,Drink,Medium,1,3.54,3.54,Card,Midtown,No
+T1180,2023-04-15,08:53,Saturday,C418,Female,45,Cappuccino,Drink,Medium,1,3.58,3.58,Cash,Downtown,Yes
+T1181,2023-08-24,06:28,Thursday,C489,Male,52,Sandwich,Food,-,2,4.38,8.76,Mobile Pay,Suburb,No
+T1182,2023-03-08,10:52,Wednesday,C405,Female,18,Cappuccino,Drink,Small,2,3.46,6.92,Cash,Suburb,Yes
+T1183,2023-01-04,11:49,Wednesday,C446,Male,56,Espresso,Drink,Medium,2,2.82,5.64,Mobile Pay,Suburb,No
+T1184,2023-10-29,18:15,Sunday,C096,Male,28,Iced Coffee,Drink,Small,3,3.48,10.44,Card,Downtown,Yes
+T1185,2023-06-04,06:31,Sunday,C203,Male,33,Cappuccino,Drink,Large,1,3.94,3.94,Cash,Riverside,Yes
+T1186,2023-06-30,16:55,Friday,C437,Male,33,Cappuccino,Drink,Large,2,3.6,7.2,Card,Riverside,No
+T1187,2023-10-02,08:25,Monday,C145,Female,26,Croissant,Food,-,2,3.47,6.94,Card,Midtown,Yes
+T1188,2023-09-26,10:43,Tuesday,C292,Female,29,Brownie,Food,-,3,2.07,6.21,Mobile Pay,Suburb,No
+T1189,2023-02-01,19:00,Wednesday,C280,Male,19,Cappuccino,Drink,Medium,1,3.43,3.43,Cash,Riverside,Yes
+T1190,2023-04-22,10:07,Saturday,C132,Female,52,Brownie,Food,-,1,2.28,2.28,Mobile Pay,Midtown,No
+T1191,2023-10-25,07:32,Wednesday,C146,Female,31,Mocha,Drink,Small,3,5.3,15.9,Card,Riverside,Yes
+T1192,2023-03-04,06:50,Saturday,C351,Female,51,Tea,Drink,Small,2,2.33,4.66,Cash,Riverside,No
+T1193,2023-07-04,06:46,Tuesday,C189,Male,56,Iced Coffee,Drink,Small,1,4.43,4.43,Card,Suburb,No
+T1194,2023-11-06,14:19,Monday,C229,Male,52,Muffin,Food,-,3,2.72,8.16,Card,Downtown,Yes
+T1195,2023-01-18,09:46,Wednesday,C421,Female,45,Cappuccino,Drink,Small,1,4.21,4.21,Cash,Downtown,No
+T1196,2023-11-16,19:37,Thursday,C303,Male,42,Cappuccino,Drink,Small,3,3.54,10.62,Card,Riverside,Yes
+T1197,2023-06-20,09:22,Tuesday,C124,Male,25,Espresso,Drink,Medium,2,3.35,6.7,Mobile Pay,Suburb,No
+T1198,2023-06-13,12:57,Tuesday,C176,Female,23,Espresso,Drink,Large,3,2.89,8.67,Mobile Pay,Downtown,Yes
+T1199,2023-11-27,13:27,Monday,C464,Male,54,Muffin,Food,-,1,2.05,2.05,Card,Uptown,Yes
+T1200,2023-04-08,20:45,Saturday,C411,Female,20,Croissant,Food,-,3,2.75,8.25,Mobile Pay,Uptown,Yes
+T1201,2023-06-08,06:50,Thursday,C081,Female,24,Mocha,Drink,Small,2,4.09,8.18,Cash,Riverside,Yes
+T1202,2023-03-15,14:01,Wednesday,C210,Male,42,Latte,Drink,Medium,1,3.8,3.8,Cash,Midtown,No
+T1203,2023-06-29,06:57,Thursday,C284,Male,18,Iced Coffee,Drink,Large,2,4.41,8.82,Mobile Pay,Downtown,No
+T1204,2023-12-01,15:38,Friday,C040,Male,58,Mocha,Drink,Medium,1,4.04,4.04,Card,Suburb,No
+T1205,2023-09-02,20:12,Saturday,C314,Female,38,Tea,Drink,Small,1,2.77,2.77,Cash,Riverside,No
+T1206,2023-02-04,13:18,Saturday,C271,Male,41,Brownie,Food,-,3,2.35,7.05,Card,Downtown,No
+T1207,2023-09-06,19:35,Wednesday,C301,Male,18,Espresso,Drink,Small,3,2.66,7.98,Cash,Uptown,Yes
+T1208,2023-03-23,13:38,Thursday,C169,Male,59,Latte,Drink,Large,3,3.67,11.01,Card,Midtown,Yes
+T1209,2023-02-16,15:41,Thursday,C270,Female,42,Espresso,Drink,Large,2,2.64,5.28,Cash,Downtown,Yes
+T1210,2023-03-19,16:11,Sunday,C002,Female,44,Croissant,Food,-,1,2.9,2.9,Mobile Pay,Midtown,No
+T1211,2023-08-04,13:02,Friday,C200,Female,28,Cappuccino,Drink,Small,1,3.52,3.52,Mobile Pay,Riverside,No
+T1212,2023-08-06,06:58,Sunday,C136,Female,18,Muffin,Food,-,3,2.72,8.16,Cash,Uptown,Yes
+T1213,2023-01-08,06:57,Sunday,C242,Male,27,Mocha,Drink,Medium,3,4.52,13.56,Mobile Pay,Suburb,No
+T1214,2023-03-17,19:56,Friday,C164,Female,50,Mocha,Drink,Medium,3,4.49,13.47,Mobile Pay,Suburb,Yes
+T1215,2023-05-22,09:02,Monday,C128,Male,18,Muffin,Food,-,3,2.31,6.93,Card,Midtown,No
+T1216,2023-08-21,12:15,Monday,C473,Female,19,Brownie,Food,-,2,1.96,3.92,Mobile Pay,Midtown,No
+T1217,2023-06-15,15:00,Thursday,C265,Male,33,Muffin,Food,-,1,1.97,1.97,Mobile Pay,Riverside,No
+T1218,2023-09-16,20:49,Saturday,C175,Male,44,Espresso,Drink,Small,2,2.73,5.46,Card,Riverside,Yes
+T1219,2023-03-05,13:14,Sunday,C147,Female,49,Tea,Drink,Large,2,3.24,6.48,Cash,Riverside,Yes
+T1220,2023-04-30,19:18,Sunday,C425,Male,43,Iced Coffee,Drink,Medium,3,3.22,9.66,Card,Uptown,No
+T1221,2023-12-23,07:20,Saturday,C350,Female,44,Tea,Drink,Medium,1,2.87,2.87,Cash,Midtown,No
+T1222,2023-07-05,10:26,Wednesday,C066,Female,52,Cappuccino,Drink,Small,2,3.8,7.6,Card,Suburb,No
+T1223,2023-01-14,14:48,Saturday,C437,Female,45,Tea,Drink,Small,3,3.13,9.39,Cash,Uptown,No
+T1224,2023-11-03,10:24,Friday,C049,Male,45,Iced Coffee,Drink,Large,3,3.14,9.42,Mobile Pay,Downtown,No
+T1225,2023-05-09,07:12,Tuesday,C071,Male,55,Muffin,Food,-,3,2.2,6.6,Cash,Midtown,No
+T1226,2023-12-25,06:41,Monday,C489,Female,51,Brownie,Food,-,3,1.99,5.97,Card,Suburb,No
+T1227,2023-03-11,08:35,Saturday,C117,Female,27,Iced Coffee,Drink,Medium,1,3.24,3.24,Card,Midtown,Yes
+T1228,2023-03-13,07:32,Monday,C482,Male,39,Brownie,Food,-,2,2.39,4.78,Mobile Pay,Suburb,Yes
+T1229,2023-02-11,11:27,Saturday,C058,Female,40,Cappuccino,Drink,Large,1,3.28,3.28,Card,Downtown,No
+T1230,2023-01-12,15:28,Thursday,C491,Female,49,Espresso,Drink,Large,1,3.3,3.3,Cash,Midtown,Yes
+T1231,2023-03-16,11:23,Thursday,C004,Female,39,Iced Coffee,Drink,Medium,3,3.48,10.44,Mobile Pay,Riverside,No
+T1232,2023-07-12,08:14,Wednesday,C176,Male,53,Iced Coffee,Drink,Large,3,4.43,13.29,Mobile Pay,Downtown,Yes
+T1233,2023-01-13,07:35,Friday,C408,Male,31,Muffin,Food,-,1,1.99,1.99,Mobile Pay,Riverside,No
+T1234,2023-12-12,20:06,Tuesday,C467,Male,60,Iced Coffee,Drink,Large,3,3.37,10.11,Cash,Midtown,No
+T1235,2023-03-29,14:07,Wednesday,C088,Male,37,Iced Coffee,Drink,Small,2,3.55,7.1,Mobile Pay,Suburb,No
+T1236,2023-01-21,14:23,Saturday,C496,Male,23,Muffin,Food,-,1,2.52,2.52,Card,Midtown,No
+T1237,2023-03-15,06:40,Wednesday,C021,Male,18,Croissant,Food,-,3,2.15,6.45,Mobile Pay,Suburb,Yes
+T1238,2023-01-14,14:36,Saturday,C321,Male,39,Iced Coffee,Drink,Small,1,3.11,3.11,Card,Uptown,No
+T1239,2023-01-24,10:53,Tuesday,C451,Male,37,Mocha,Drink,Small,2,4.9,9.8,Mobile Pay,Riverside,No
+T1240,2023-08-18,20:27,Friday,C425,Male,42,Muffin,Food,-,3,2.86,8.58,Cash,Downtown,No
+T1241,2023-10-08,18:21,Sunday,C153,Male,51,Mocha,Drink,Small,3,3.91,11.73,Card,Midtown,Yes
+T1242,2023-10-03,06:13,Tuesday,C045,Female,25,Mocha,Drink,Medium,1,4.6,4.6,Cash,Suburb,No
+T1243,2023-12-18,16:07,Monday,C255,Female,51,Muffin,Food,-,3,2.58,7.74,Mobile Pay,Suburb,Yes
+T1244,2023-10-24,17:33,Tuesday,C124,Female,37,Mocha,Drink,Medium,1,4.46,4.46,Cash,Downtown,Yes
+T1245,2023-04-18,15:07,Tuesday,C114,Female,25,Latte,Drink,Large,3,4.42,13.26,Mobile Pay,Uptown,No
+T1246,2023-01-29,12:46,Sunday,C214,Male,50,Sandwich,Food,-,2,6.26,12.52,Cash,Suburb,No
+T1247,2023-03-03,19:32,Friday,C181,Female,39,Latte,Drink,Large,1,4.39,4.39,Card,Riverside,No
+T1248,2023-12-23,08:20,Saturday,C218,Male,59,Muffin,Food,-,1,2.45,2.45,Mobile Pay,Uptown,Yes
+T1249,2023-03-04,18:37,Saturday,C453,Male,59,Muffin,Food,-,1,2.83,2.83,Mobile Pay,Downtown,No
+T1250,2023-11-16,06:49,Thursday,C275,Male,27,Tea,Drink,Medium,1,2.79,2.79,Cash,Midtown,Yes
+T1251,2023-05-24,20:01,Wednesday,C292,Female,24,Cappuccino,Drink,Large,1,3.71,3.71,Card,Uptown,Yes
+T1252,2023-05-13,16:21,Saturday,C357,Male,38,Muffin,Food,-,3,1.99,5.97,Cash,Downtown,No
+T1253,2023-09-08,18:56,Friday,C075,Male,57,Tea,Drink,Small,2,3.43,6.86,Card,Suburb,No
+T1254,2023-02-13,07:58,Monday,C189,Male,48,Muffin,Food,-,3,2.97,8.91,Card,Midtown,No
+T1255,2023-09-17,16:24,Sunday,C041,Female,46,Cappuccino,Drink,Medium,1,3.57,3.57,Card,Riverside,Yes
+T1256,2023-11-21,19:48,Tuesday,C157,Female,26,Mocha,Drink,Small,3,5.25,15.75,Cash,Midtown,No
+T1257,2023-09-05,14:27,Tuesday,C093,Male,28,Mocha,Drink,Large,3,4.99,14.97,Mobile Pay,Downtown,Yes
+T1258,2023-07-24,12:12,Monday,C218,Female,20,Tea,Drink,Medium,3,2.47,7.41,Card,Uptown,No
+T1259,2023-02-18,10:47,Saturday,C164,Male,36,Tea,Drink,Large,2,2.46,4.92,Card,Midtown,Yes
+T1260,2023-02-12,11:12,Sunday,C476,Male,21,Tea,Drink,Small,3,3.07,9.21,Cash,Downtown,No
+T1261,2023-07-05,08:42,Wednesday,C342,Female,54,Croissant,Food,-,3,2.06,6.18,Card,Downtown,No
+T1262,2023-11-26,13:17,Sunday,C068,Male,25,Cappuccino,Drink,Medium,2,3.88,7.76,Cash,Midtown,Yes
+T1263,2023-06-13,07:15,Tuesday,C456,Male,57,Latte,Drink,Small,1,3.6,3.6,Card,Riverside,No
+T1264,2023-02-08,10:58,Wednesday,C311,Male,21,Sandwich,Food,-,3,4.55,13.65,Card,Suburb,Yes
+T1265,2023-06-21,11:22,Wednesday,C188,Female,53,Iced Coffee,Drink,Small,2,3.68,7.36,Card,Uptown,No
+T1266,2023-10-21,17:46,Saturday,C193,Male,29,Croissant,Food,-,3,2.62,7.86,Card,Riverside,No
+T1267,2023-02-26,10:16,Sunday,C114,Male,28,Tea,Drink,Large,2,3.26,6.52,Mobile Pay,Riverside,Yes
+T1268,2023-01-19,17:50,Thursday,C182,Female,54,Sandwich,Food,-,1,5.7,5.7,Cash,Riverside,Yes
+T1269,2023-12-20,15:18,Wednesday,C011,Female,49,Sandwich,Food,-,1,5.98,5.98,Cash,Riverside,Yes
+T1270,2023-09-04,17:51,Monday,C250,Female,21,Iced Coffee,Drink,Small,2,3.76,7.52,Mobile Pay,Downtown,No
+T1271,2023-01-13,11:28,Friday,C226,Female,49,Muffin,Food,-,1,1.83,1.83,Mobile Pay,Downtown,No
+T1272,2023-05-01,19:58,Monday,C445,Male,19,Cappuccino,Drink,Medium,1,4.46,4.46,Card,Downtown,Yes
+T1273,2023-10-29,10:01,Sunday,C034,Male,42,Sandwich,Food,-,1,5.54,5.54,Mobile Pay,Suburb,No
+T1274,2023-11-28,18:15,Tuesday,C347,Female,48,Muffin,Food,-,2,2.91,5.82,Card,Downtown,Yes
+T1275,2023-01-14,06:07,Saturday,C189,Male,54,Mocha,Drink,Medium,3,4.64,13.92,Card,Riverside,No
+T1276,2023-03-08,20:37,Wednesday,C072,Female,59,Mocha,Drink,Small,2,3.81,7.62,Mobile Pay,Riverside,Yes
+T1277,2023-05-22,12:19,Monday,C194,Male,56,Mocha,Drink,Large,2,5.26,10.52,Cash,Suburb,No
+T1278,2023-04-09,10:08,Sunday,C365,Male,32,Mocha,Drink,Small,1,5.48,5.48,Card,Uptown,No
+T1279,2023-07-17,18:59,Monday,C407,Male,27,Espresso,Drink,Medium,1,2.0,2.0,Card,Riverside,No
+T1280,2023-05-04,13:22,Thursday,C214,Male,41,Tea,Drink,Large,1,2.76,2.76,Card,Riverside,Yes
+T1281,2023-09-06,20:16,Wednesday,C068,Male,42,Sandwich,Food,-,1,6.34,6.34,Card,Uptown,Yes
+T1282,2023-02-05,13:08,Sunday,C423,Male,37,Tea,Drink,Medium,2,2.1,4.2,Cash,Suburb,No
+T1283,2023-11-11,09:54,Saturday,C437,Female,19,Cappuccino,Drink,Small,3,4.25,12.75,Cash,Riverside,No
+T1284,2023-05-10,19:00,Wednesday,C047,Male,38,Mocha,Drink,Medium,3,3.98,11.94,Card,Downtown,Yes
+T1285,2023-01-03,13:08,Tuesday,C141,Female,30,Brownie,Food,-,2,1.94,3.88,Cash,Riverside,No
+T1286,2023-05-23,07:15,Tuesday,C363,Male,21,Tea,Drink,Medium,2,2.4,4.8,Mobile Pay,Midtown,No
+T1287,2023-03-03,17:08,Friday,C406,Male,28,Espresso,Drink,Medium,3,2.85,8.55,Mobile Pay,Midtown,No
+T1288,2023-10-19,14:36,Thursday,C130,Female,57,Iced Coffee,Drink,Large,3,4.29,12.87,Mobile Pay,Uptown,No
+T1289,2023-09-26,11:29,Tuesday,C045,Female,21,Brownie,Food,-,2,1.51,3.02,Card,Suburb,No
+T1290,2023-09-06,15:56,Wednesday,C019,Female,23,Croissant,Food,-,2,3.13,6.26,Card,Midtown,Yes
+T1291,2023-03-03,10:53,Friday,C445,Female,20,Iced Coffee,Drink,Small,3,4.04,12.12,Card,Uptown,Yes
+T1292,2023-08-11,16:52,Friday,C219,Female,18,Latte,Drink,Small,2,3.68,7.36,Card,Suburb,Yes
+T1293,2023-05-14,19:52,Sunday,C227,Female,26,Muffin,Food,-,1,1.87,1.87,Mobile Pay,Downtown,Yes
+T1294,2023-02-28,17:27,Tuesday,C128,Female,54,Mocha,Drink,Large,2,5.04,10.08,Cash,Downtown,No
+T1295,2023-04-30,15:21,Sunday,C454,Female,23,Sandwich,Food,-,3,5.12,15.36,Cash,Midtown,Yes
+T1296,2023-09-17,13:10,Sunday,C389,Female,26,Latte,Drink,Large,2,4.13,8.26,Mobile Pay,Uptown,Yes
+T1297,2023-08-09,08:44,Wednesday,C296,Male,42,Brownie,Food,-,2,1.77,3.54,Mobile Pay,Riverside,Yes
+T1298,2023-05-06,11:58,Saturday,C168,Female,31,Cappuccino,Drink,Medium,1,4.32,4.32,Mobile Pay,Suburb,Yes
+T1299,2023-07-14,06:23,Friday,C246,Female,21,Latte,Drink,Small,3,3.51,10.53,Mobile Pay,Midtown,Yes
+T1300,2023-11-23,09:37,Thursday,C349,Male,26,Mocha,Drink,Medium,1,3.95,3.95,Card,Suburb,Yes
+T1301,2023-08-21,11:05,Monday,C281,Female,52,Latte,Drink,Small,2,3.74,7.48,Card,Midtown,Yes
+T1302,2023-08-14,17:59,Monday,C431,Female,46,Croissant,Food,-,3,3.48,10.44,Card,Uptown,Yes
+T1303,2023-01-22,20:28,Sunday,C314,Male,53,Croissant,Food,-,1,2.78,2.78,Mobile Pay,Midtown,Yes
+T1304,2023-02-01,09:44,Wednesday,C396,Male,26,Sandwich,Food,-,3,5.67,17.01,Card,Suburb,No
+T1305,2023-08-18,11:36,Friday,C112,Female,26,Mocha,Drink,Small,3,4.8,14.4,Mobile Pay,Riverside,No
+T1306,2023-08-24,13:01,Thursday,C328,Male,52,Mocha,Drink,Small,1,4.42,4.42,Mobile Pay,Uptown,Yes
+T1307,2023-07-22,14:35,Saturday,C205,Male,25,Croissant,Food,-,3,3.44,10.32,Mobile Pay,Riverside,Yes
+T1308,2023-10-30,09:23,Monday,C041,Female,58,Cappuccino,Drink,Large,3,4.47,13.41,Card,Uptown,Yes
+T1309,2023-10-22,12:21,Sunday,C283,Male,21,Espresso,Drink,Medium,2,2.69,5.38,Mobile Pay,Uptown,Yes
+T1310,2023-08-11,12:24,Friday,C147,Female,59,Cappuccino,Drink,Small,1,3.81,3.81,Mobile Pay,Suburb,No
+T1311,2023-02-16,08:05,Thursday,C270,Male,54,Brownie,Food,-,3,1.74,5.22,Card,Suburb,No
+T1312,2023-10-29,17:50,Sunday,C162,Female,38,Croissant,Food,-,3,3.16,9.48,Card,Suburb,Yes
+T1313,2023-09-04,12:53,Monday,C126,Male,49,Tea,Drink,Small,2,3.17,6.34,Cash,Suburb,Yes
+T1314,2023-02-07,18:09,Tuesday,C488,Male,59,Cappuccino,Drink,Large,3,3.83,11.49,Card,Riverside,No
+T1315,2023-04-28,19:22,Friday,C406,Female,35,Brownie,Food,-,2,2.46,4.92,Card,Riverside,Yes
+T1316,2023-10-31,08:41,Tuesday,C399,Male,48,Tea,Drink,Large,2,2.68,5.36,Cash,Downtown,No
+T1317,2023-06-02,11:26,Friday,C361,Male,30,Tea,Drink,Small,3,3.22,9.66,Cash,Downtown,No
+T1318,2023-10-24,13:02,Tuesday,C216,Female,25,Croissant,Food,-,1,2.72,2.72,Cash,Uptown,No
+T1319,2023-08-15,16:34,Tuesday,C357,Male,43,Croissant,Food,-,1,2.07,2.07,Card,Riverside,No
+T1320,2023-10-29,14:03,Sunday,C200,Female,48,Brownie,Food,-,3,2.45,7.35,Card,Suburb,No
+T1321,2023-07-22,18:08,Saturday,C394,Male,18,Muffin,Food,-,3,2.02,6.06,Cash,Uptown,No
+T1322,2023-12-09,10:35,Saturday,C030,Male,44,Cappuccino,Drink,Medium,3,3.89,11.67,Cash,Downtown,No
+T1323,2023-05-29,19:14,Monday,C279,Female,55,Tea,Drink,Medium,2,2.39,4.78,Mobile Pay,Riverside,Yes
+T1324,2023-03-18,09:01,Saturday,C096,Female,51,Espresso,Drink,Large,3,2.76,8.28,Cash,Midtown,No
+T1325,2023-06-29,19:03,Thursday,C020,Male,38,Croissant,Food,-,3,3.25,9.75,Card,Midtown,Yes
+T1326,2023-11-03,16:14,Friday,C079,Female,22,Cappuccino,Drink,Medium,1,4.3,4.3,Mobile Pay,Suburb,No
+T1327,2023-09-10,10:42,Sunday,C009,Female,42,Brownie,Food,-,1,2.32,2.32,Mobile Pay,Riverside,Yes
+T1328,2023-08-24,06:00,Thursday,C154,Female,26,Croissant,Food,-,2,2.61,5.22,Card,Riverside,No
+T1329,2023-11-11,06:07,Saturday,C045,Male,34,Brownie,Food,-,1,1.85,1.85,Cash,Riverside,No
+T1330,2023-10-03,15:44,Tuesday,C112,Male,24,Sandwich,Food,-,2,4.78,9.56,Cash,Downtown,Yes
+T1331,2023-11-09,09:42,Thursday,C092,Male,57,Brownie,Food,-,1,2.1,2.1,Cash,Riverside,No
+T1332,2023-04-23,18:00,Sunday,C108,Female,33,Tea,Drink,Medium,1,2.4,2.4,Mobile Pay,Riverside,Yes
+T1333,2023-10-25,18:02,Wednesday,C045,Female,55,Iced Coffee,Drink,Medium,3,3.52,10.56,Mobile Pay,Uptown,Yes
+T1334,2023-10-26,11:48,Thursday,C485,Female,27,Cappuccino,Drink,Large,3,4.05,12.15,Cash,Uptown,Yes
+T1335,2023-07-08,17:37,Saturday,C486,Male,59,Iced Coffee,Drink,Large,1,3.84,3.84,Card,Downtown,No
+T1336,2023-09-11,19:08,Monday,C334,Male,19,Sandwich,Food,-,1,4.85,4.85,Card,Suburb,No
+T1337,2023-02-13,06:23,Monday,C050,Female,59,Muffin,Food,-,2,2.97,5.94,Mobile Pay,Downtown,Yes
+T1338,2023-01-29,10:54,Sunday,C361,Female,60,Sandwich,Food,-,2,4.41,8.82,Mobile Pay,Downtown,Yes
+T1339,2023-03-04,20:21,Saturday,C347,Female,46,Croissant,Food,-,2,2.93,5.86,Cash,Downtown,Yes
+T1340,2023-05-27,11:08,Saturday,C028,Female,20,Mocha,Drink,Small,2,4.47,8.94,Mobile Pay,Suburb,No
+T1341,2023-04-07,09:27,Friday,C065,Male,41,Latte,Drink,Large,3,4.44,13.32,Mobile Pay,Midtown,No
+T1342,2023-10-21,12:12,Saturday,C125,Female,60,Latte,Drink,Medium,2,4.54,9.08,Cash,Suburb,No
+T1343,2023-12-25,17:15,Monday,C233,Male,40,Mocha,Drink,Large,2,4.06,8.12,Mobile Pay,Uptown,No
+T1344,2023-10-16,08:29,Monday,C055,Male,36,Espresso,Drink,Medium,2,2.5,5.0,Mobile Pay,Downtown,Yes
+T1345,2023-07-28,08:06,Friday,C452,Female,36,Cappuccino,Drink,Small,2,4.14,8.28,Card,Uptown,Yes
+T1346,2023-07-30,10:29,Sunday,C210,Male,34,Mocha,Drink,Medium,2,5.08,10.16,Card,Riverside,No
+T1347,2023-03-20,08:45,Monday,C246,Female,40,Iced Coffee,Drink,Large,1,3.54,3.54,Mobile Pay,Downtown,No
+T1348,2023-12-10,13:53,Sunday,C290,Female,49,Tea,Drink,Small,3,3.06,9.18,Mobile Pay,Midtown,Yes
+T1349,2023-07-13,15:21,Thursday,C056,Male,28,Latte,Drink,Large,2,3.69,7.38,Mobile Pay,Suburb,Yes
+T1350,2023-06-22,17:55,Thursday,C411,Female,43,Latte,Drink,Small,2,3.92,7.84,Cash,Midtown,No
+T1351,2023-01-25,11:38,Wednesday,C265,Female,57,Iced Coffee,Drink,Large,2,3.65,7.3,Cash,Midtown,No
+T1352,2023-12-14,15:53,Thursday,C206,Male,24,Muffin,Food,-,2,2.14,4.28,Card,Uptown,No
+T1353,2023-08-08,20:37,Tuesday,C270,Male,56,Sandwich,Food,-,3,4.77,14.31,Mobile Pay,Uptown,No
+T1354,2023-03-03,18:07,Friday,C369,Female,49,Muffin,Food,-,3,2.16,6.48,Mobile Pay,Downtown,Yes
+T1355,2023-11-30,09:59,Thursday,C219,Female,55,Cappuccino,Drink,Small,3,3.57,10.71,Cash,Suburb,Yes
+T1356,2023-12-19,06:00,Tuesday,C305,Female,59,Tea,Drink,Medium,1,2.56,2.56,Card,Uptown,No
+T1357,2023-06-09,11:19,Friday,C262,Female,30,Espresso,Drink,Medium,2,2.24,4.48,Card,Riverside,Yes
+T1358,2023-08-10,09:49,Thursday,C146,Male,29,Croissant,Food,-,3,2.73,8.19,Cash,Riverside,No
+T1359,2023-09-25,17:05,Monday,C101,Female,18,Cappuccino,Drink,Small,1,3.51,3.51,Card,Downtown,No
+T1360,2023-08-21,20:00,Monday,C064,Male,40,Tea,Drink,Medium,3,3.06,9.18,Cash,Suburb,Yes
+T1361,2023-08-28,18:32,Monday,C458,Male,40,Croissant,Food,-,1,3.22,3.22,Cash,Suburb,No
+T1362,2023-07-24,11:24,Monday,C404,Male,50,Brownie,Food,-,1,1.96,1.96,Card,Suburb,Yes
+T1363,2023-02-20,11:02,Monday,C051,Male,60,Sandwich,Food,-,3,5.28,15.84,Card,Riverside,Yes
+T1364,2023-03-08,06:28,Wednesday,C068,Female,53,Tea,Drink,Large,2,2.82,5.64,Mobile Pay,Midtown,No
+T1365,2023-02-19,19:06,Sunday,C130,Male,26,Espresso,Drink,Medium,3,2.08,6.24,Cash,Riverside,No
+T1366,2023-06-09,15:02,Friday,C020,Female,51,Croissant,Food,-,3,2.12,6.36,Cash,Downtown,No
+T1367,2023-12-14,19:18,Thursday,C358,Female,40,Espresso,Drink,Small,3,2.76,8.28,Mobile Pay,Riverside,Yes
+T1368,2023-02-21,08:43,Tuesday,C419,Female,36,Sandwich,Food,-,2,6.4,12.8,Cash,Midtown,Yes
+T1369,2023-09-19,08:29,Tuesday,C077,Male,33,Mocha,Drink,Small,3,4.01,12.03,Mobile Pay,Suburb,No
+T1370,2023-05-26,06:45,Friday,C473,Female,33,Brownie,Food,-,1,2.4,2.4,Card,Downtown,No
+T1371,2023-05-20,11:31,Saturday,C039,Female,42,Sandwich,Food,-,2,5.5,11.0,Mobile Pay,Suburb,Yes
+T1372,2023-01-04,10:36,Wednesday,C410,Male,22,Croissant,Food,-,3,2.59,7.77,Card,Riverside,Yes
+T1373,2023-07-06,18:19,Thursday,C309,Male,18,Muffin,Food,-,3,1.95,5.85,Mobile Pay,Midtown,Yes
+T1374,2023-11-12,11:46,Sunday,C138,Male,44,Latte,Drink,Large,3,4.75,14.25,Cash,Suburb,Yes
+T1375,2023-10-29,11:21,Sunday,C055,Female,35,Brownie,Food,-,1,2.36,2.36,Card,Uptown,No
+T1376,2023-09-05,09:17,Tuesday,C500,Female,30,Croissant,Food,-,1,2.07,2.07,Card,Suburb,Yes
+T1377,2023-03-13,07:25,Monday,C305,Female,20,Brownie,Food,-,3,1.99,5.97,Card,Suburb,Yes
+T1378,2023-11-09,11:48,Thursday,C420,Male,41,Croissant,Food,-,1,2.38,2.38,Cash,Midtown,Yes
+T1379,2023-08-08,12:36,Tuesday,C158,Male,19,Brownie,Food,-,3,2.16,6.48,Mobile Pay,Suburb,Yes
+T1380,2023-05-29,12:37,Monday,C165,Female,22,Muffin,Food,-,2,2.29,4.58,Card,Suburb,No
+T1381,2023-07-12,19:49,Wednesday,C144,Female,34,Iced Coffee,Drink,Large,3,3.89,11.67,Card,Uptown,Yes
+T1382,2023-04-10,18:27,Monday,C354,Male,47,Muffin,Food,-,1,2.5,2.5,Card,Midtown,Yes
+T1383,2023-11-27,07:40,Monday,C043,Female,36,Tea,Drink,Medium,2,2.85,5.7,Cash,Riverside,No
+T1384,2023-06-06,16:53,Tuesday,C331,Female,21,Cappuccino,Drink,Medium,1,4.08,4.08,Card,Suburb,No
+T1385,2023-03-05,12:23,Sunday,C336,Male,37,Sandwich,Food,-,2,5.09,10.18,Card,Midtown,No
+T1386,2023-04-27,15:25,Thursday,C259,Male,22,Mocha,Drink,Large,2,3.53,7.06,Card,Downtown,Yes
+T1387,2023-02-24,18:48,Friday,C423,Male,33,Croissant,Food,-,2,2.65,5.3,Mobile Pay,Downtown,Yes
+T1388,2023-11-04,20:23,Saturday,C094,Female,52,Latte,Drink,Small,1,3.58,3.58,Mobile Pay,Downtown,No
+T1389,2023-09-30,07:15,Saturday,C445,Female,30,Sandwich,Food,-,2,6.2,12.4,Card,Uptown,Yes
+T1390,2023-10-28,15:17,Saturday,C311,Male,33,Latte,Drink,Medium,1,4.81,4.81,Mobile Pay,Riverside,No
+T1391,2023-06-02,08:48,Friday,C489,Female,24,Brownie,Food,-,3,1.55,4.65,Card,Riverside,Yes
+T1392,2023-11-08,06:58,Wednesday,C202,Female,30,Tea,Drink,Medium,2,2.46,4.92,Card,Riverside,No
+T1393,2023-07-17,14:46,Monday,C040,Female,31,Croissant,Food,-,2,2.01,4.02,Card,Midtown,No
+T1394,2023-07-01,16:04,Saturday,C034,Male,41,Mocha,Drink,Large,2,4.6,9.2,Card,Midtown,No
+T1395,2023-08-17,11:02,Thursday,C303,Male,20,Croissant,Food,-,3,2.12,6.36,Cash,Midtown,Yes
+T1396,2023-03-12,09:22,Sunday,C162,Male,42,Espresso,Drink,Small,1,3.38,3.38,Mobile Pay,Riverside,Yes
+T1397,2023-05-20,18:17,Saturday,C053,Male,37,Iced Coffee,Drink,Small,3,3.83,11.49,Card,Suburb,No
+T1398,2023-11-24,08:52,Friday,C436,Male,36,Brownie,Food,-,2,2.39,4.78,Cash,Suburb,Yes
+T1399,2023-03-12,13:42,Sunday,C304,Female,50,Brownie,Food,-,3,1.75,5.25,Cash,Midtown,No
+T1400,2023-10-20,07:20,Friday,C269,Female,60,Latte,Drink,Large,3,4.72,14.16,Card,Midtown,Yes
+T1401,2023-05-29,20:30,Monday,C206,Male,43,Muffin,Food,-,2,2.13,4.26,Cash,Uptown,No
+T1402,2023-02-23,11:21,Thursday,C119,Male,36,Muffin,Food,-,3,2.43,7.29,Card,Uptown,Yes
+T1403,2023-04-28,15:05,Friday,C113,Female,36,Mocha,Drink,Medium,3,4.32,12.96,Mobile Pay,Downtown,No
+T1404,2023-05-06,07:37,Saturday,C405,Male,53,Tea,Drink,Large,1,2.34,2.34,Cash,Riverside,No
+T1405,2023-05-14,17:12,Sunday,C149,Male,26,Croissant,Food,-,2,2.88,5.76,Cash,Downtown,No
+T1406,2023-09-01,18:30,Friday,C291,Female,18,Espresso,Drink,Small,2,2.46,4.92,Mobile Pay,Suburb,Yes
+T1407,2023-11-13,13:08,Monday,C244,Female,42,Muffin,Food,-,1,2.48,2.48,Mobile Pay,Downtown,Yes
+T1408,2023-01-22,15:58,Sunday,C291,Female,46,Muffin,Food,-,1,2.82,2.82,Card,Downtown,Yes
+T1409,2023-01-09,19:18,Monday,C007,Male,37,Muffin,Food,-,2,2.47,4.94,Cash,Riverside,No
+T1410,2023-07-19,15:44,Wednesday,C377,Male,25,Mocha,Drink,Small,3,3.68,11.04,Cash,Uptown,No
+T1411,2023-04-21,15:21,Friday,C127,Male,39,Mocha,Drink,Small,2,4.17,8.34,Card,Downtown,Yes
+T1412,2023-03-02,14:15,Thursday,C280,Female,32,Muffin,Food,-,1,1.82,1.82,Mobile Pay,Uptown,Yes
+T1413,2023-06-25,10:20,Sunday,C235,Male,18,Tea,Drink,Medium,1,2.24,2.24,Cash,Suburb,No
+T1414,2023-03-15,12:34,Wednesday,C302,Male,38,Muffin,Food,-,3,2.33,6.99,Mobile Pay,Riverside,Yes
+T1415,2023-09-22,10:48,Friday,C337,Female,22,Brownie,Food,-,2,1.78,3.56,Card,Suburb,Yes
+T1416,2023-07-06,19:33,Thursday,C284,Male,54,Cappuccino,Drink,Small,2,4.3,8.6,Card,Downtown,No
+T1417,2023-01-03,13:48,Tuesday,C337,Male,55,Espresso,Drink,Medium,1,2.31,2.31,Mobile Pay,Suburb,Yes
+T1418,2023-03-06,13:31,Monday,C075,Female,25,Latte,Drink,Medium,2,3.56,7.12,Mobile Pay,Downtown,Yes
+T1419,2023-01-05,12:14,Thursday,C251,Female,25,Tea,Drink,Medium,1,3.08,3.08,Cash,Downtown,No
+T1420,2023-01-05,07:14,Thursday,C304,Female,47,Espresso,Drink,Small,3,2.76,8.28,Card,Midtown,No
+T1421,2023-03-12,09:41,Sunday,C464,Male,36,Tea,Drink,Medium,3,3.2,9.6,Mobile Pay,Suburb,No
+T1422,2023-12-13,12:02,Wednesday,C303,Female,22,Mocha,Drink,Medium,2,3.79,7.58,Mobile Pay,Downtown,No
+T1423,2023-02-15,14:13,Wednesday,C120,Female,56,Tea,Drink,Medium,1,2.09,2.09,Cash,Midtown,Yes
+T1424,2023-04-17,08:38,Monday,C401,Male,40,Latte,Drink,Small,1,4.93,4.93,Cash,Downtown,No
+T1425,2023-04-17,15:57,Monday,C022,Female,44,Tea,Drink,Medium,2,3.38,6.76,Card,Midtown,No
+T1426,2023-08-23,09:58,Wednesday,C175,Female,42,Muffin,Food,-,1,1.86,1.86,Card,Midtown,Yes
+T1427,2023-10-03,14:28,Tuesday,C221,Male,48,Iced Coffee,Drink,Large,2,4.31,8.62,Mobile Pay,Downtown,Yes
+T1428,2023-04-05,13:33,Wednesday,C325,Female,38,Iced Coffee,Drink,Medium,3,4.01,12.03,Cash,Suburb,Yes
+T1429,2023-04-23,10:09,Sunday,C330,Female,25,Sandwich,Food,-,1,5.95,5.95,Mobile Pay,Suburb,Yes
+T1430,2023-05-11,17:53,Thursday,C235,Male,56,Latte,Drink,Small,2,4.05,8.1,Card,Uptown,No
+T1431,2023-08-24,12:16,Thursday,C203,Male,36,Iced Coffee,Drink,Small,2,3.93,7.86,Cash,Downtown,Yes
+T1432,2023-05-06,19:32,Saturday,C376,Female,26,Muffin,Food,-,2,2.65,5.3,Mobile Pay,Riverside,Yes
+T1433,2023-11-02,12:55,Thursday,C457,Male,25,Muffin,Food,-,1,2.59,2.59,Mobile Pay,Uptown,No
+T1434,2023-01-10,14:15,Tuesday,C471,Male,19,Sandwich,Food,-,3,4.36,13.08,Mobile Pay,Downtown,No
+T1435,2023-09-02,16:32,Saturday,C365,Male,22,Espresso,Drink,Medium,1,2.94,2.94,Card,Uptown,No
+T1436,2023-03-13,10:36,Monday,C280,Female,59,Tea,Drink,Small,2,2.36,4.72,Cash,Uptown,Yes
+T1437,2023-10-20,19:30,Friday,C477,Male,48,Mocha,Drink,Small,2,5.23,10.46,Card,Suburb,Yes
+T1438,2023-12-23,12:21,Saturday,C388,Male,40,Cappuccino,Drink,Small,2,4.09,8.18,Mobile Pay,Riverside,No
+T1439,2023-09-02,14:57,Saturday,C143,Male,36,Iced Coffee,Drink,Large,3,3.89,11.67,Mobile Pay,Uptown,No
+T1440,2023-06-14,11:13,Wednesday,C426,Male,60,Iced Coffee,Drink,Large,3,4.14,12.42,Card,Midtown,Yes
+T1441,2023-06-05,09:37,Monday,C240,Female,56,Croissant,Food,-,1,3.37,3.37,Mobile Pay,Midtown,Yes
+T1442,2023-05-21,15:52,Sunday,C396,Female,19,Latte,Drink,Medium,2,4.79,9.58,Cash,Riverside,Yes
+T1443,2023-01-03,09:05,Tuesday,C293,Female,57,Cappuccino,Drink,Small,1,3.66,3.66,Mobile Pay,Midtown,No
+T1444,2023-06-10,16:38,Saturday,C153,Female,60,Mocha,Drink,Medium,2,4.95,9.9,Card,Suburb,Yes
+T1445,2023-04-14,15:41,Friday,C010,Male,43,Muffin,Food,-,3,2.81,8.43,Card,Downtown,No
+T1446,2023-07-11,10:39,Tuesday,C011,Female,23,Croissant,Food,-,1,2.5,2.5,Mobile Pay,Uptown,No
+T1447,2023-11-21,08:26,Tuesday,C038,Female,53,Croissant,Food,-,3,2.52,7.56,Mobile Pay,Downtown,No
+T1448,2023-05-27,07:37,Saturday,C154,Female,20,Sandwich,Food,-,1,4.26,4.26,Card,Downtown,Yes
+T1449,2023-01-01,13:39,Sunday,C190,Female,24,Cappuccino,Drink,Large,1,4.38,4.38,Card,Suburb,Yes
+T1450,2023-08-02,08:50,Wednesday,C233,Female,41,Espresso,Drink,Medium,3,3.29,9.87,Cash,Uptown,No
+T1451,2023-12-05,15:06,Tuesday,C160,Female,21,Espresso,Drink,Large,2,2.6,5.2,Card,Midtown,Yes
+T1452,2023-08-05,11:41,Saturday,C287,Male,55,Latte,Drink,Small,2,3.59,7.18,Card,Uptown,Yes
+T1453,2023-08-05,19:29,Saturday,C049,Male,40,Mocha,Drink,Large,1,5.31,5.31,Mobile Pay,Uptown,No
+T1454,2023-01-31,10:23,Tuesday,C339,Female,35,Croissant,Food,-,3,2.77,8.31,Mobile Pay,Downtown,No
+T1455,2023-12-24,13:17,Sunday,C409,Female,34,Croissant,Food,-,3,3.35,10.05,Mobile Pay,Uptown,No
+T1456,2023-09-20,09:39,Wednesday,C471,Male,29,Muffin,Food,-,3,2.22,6.66,Card,Midtown,Yes
+T1457,2023-08-21,17:34,Monday,C214,Female,42,Espresso,Drink,Small,1,3.09,3.09,Card,Riverside,No
+T1458,2023-11-02,09:53,Thursday,C046,Male,54,Brownie,Food,-,3,1.93,5.79,Cash,Downtown,No
+T1459,2023-05-31,09:06,Wednesday,C218,Male,44,Latte,Drink,Large,2,4.96,9.92,Mobile Pay,Downtown,No
+T1460,2023-06-16,11:09,Friday,C061,Male,51,Croissant,Food,-,2,3.47,6.94,Cash,Downtown,No
+T1461,2023-04-22,13:18,Saturday,C092,Female,32,Latte,Drink,Large,1,4.54,4.54,Cash,Riverside,No
+T1462,2023-05-15,19:22,Monday,C372,Female,34,Cappuccino,Drink,Medium,3,4.11,12.33,Card,Riverside,No
+T1463,2023-10-02,18:37,Monday,C127,Male,55,Croissant,Food,-,3,2.16,6.48,Mobile Pay,Riverside,No
+T1464,2023-05-18,16:59,Thursday,C071,Male,22,Brownie,Food,-,1,1.88,1.88,Mobile Pay,Downtown,Yes
+T1465,2023-11-07,19:56,Tuesday,C254,Male,18,Sandwich,Food,-,2,4.23,8.46,Mobile Pay,Suburb,No
+T1466,2023-06-20,18:44,Tuesday,C250,Male,32,Espresso,Drink,Small,1,2.8,2.8,Cash,Midtown,Yes
+T1467,2023-09-19,16:52,Tuesday,C028,Male,28,Tea,Drink,Large,1,2.33,2.33,Card,Uptown,No
+T1468,2023-03-15,12:14,Wednesday,C012,Female,23,Sandwich,Food,-,3,5.28,15.84,Mobile Pay,Uptown,No
+T1469,2023-02-02,17:07,Thursday,C205,Female,59,Espresso,Drink,Small,2,2.43,4.86,Cash,Riverside,Yes
+T1470,2023-12-15,17:15,Friday,C153,Male,55,Mocha,Drink,Large,3,4.96,14.88,Card,Uptown,Yes
+T1471,2023-05-07,20:54,Sunday,C310,Female,44,Latte,Drink,Medium,3,3.75,11.25,Mobile Pay,Uptown,No
+T1472,2023-08-24,08:00,Thursday,C416,Female,35,Brownie,Food,-,1,1.56,1.56,Cash,Uptown,No
+T1473,2023-06-01,16:20,Thursday,C181,Female,59,Cappuccino,Drink,Medium,3,3.64,10.92,Cash,Riverside,No
+T1474,2023-06-03,10:33,Saturday,C111,Female,28,Croissant,Food,-,3,2.78,8.34,Card,Riverside,No
+T1475,2023-08-23,20:56,Wednesday,C496,Female,41,Mocha,Drink,Medium,3,3.94,11.82,Mobile Pay,Suburb,Yes
+T1476,2023-01-05,12:05,Thursday,C186,Female,37,Iced Coffee,Drink,Medium,1,4.43,4.43,Cash,Uptown,No
+T1477,2023-11-08,20:09,Wednesday,C495,Male,21,Latte,Drink,Small,2,4.33,8.66,Cash,Riverside,No
+T1478,2023-05-21,06:50,Sunday,C322,Female,42,Latte,Drink,Medium,3,4.76,14.28,Mobile Pay,Uptown,Yes
+T1479,2023-04-08,12:12,Saturday,C218,Female,26,Mocha,Drink,Small,3,4.63,13.89,Cash,Suburb,No
+T1480,2023-12-20,16:20,Wednesday,C226,Female,58,Latte,Drink,Medium,1,4.41,4.41,Mobile Pay,Suburb,No
+T1481,2023-08-17,16:30,Thursday,C126,Male,18,Brownie,Food,-,3,1.69,5.07,Card,Suburb,No
+T1482,2023-04-29,09:16,Saturday,C403,Male,41,Espresso,Drink,Large,2,2.87,5.74,Card,Riverside,Yes
+T1483,2023-03-11,11:47,Saturday,C445,Female,53,Tea,Drink,Medium,1,3.48,3.48,Cash,Suburb,Yes
+T1484,2023-09-15,09:07,Friday,C406,Female,30,Espresso,Drink,Large,1,3.35,3.35,Mobile Pay,Midtown,Yes
+T1485,2023-05-10,20:57,Wednesday,C320,Female,28,Muffin,Food,-,1,2.04,2.04,Card,Uptown,No
+T1486,2023-04-11,17:45,Tuesday,C079,Female,34,Iced Coffee,Drink,Medium,2,3.15,6.3,Mobile Pay,Downtown,Yes
+T1487,2023-09-29,15:39,Friday,C298,Female,20,Sandwich,Food,-,1,5.7,5.7,Cash,Suburb,Yes
+T1488,2023-02-01,14:23,Wednesday,C300,Female,31,Iced Coffee,Drink,Medium,1,4.36,4.36,Mobile Pay,Downtown,Yes
+T1489,2023-12-26,10:14,Tuesday,C065,Female,30,Mocha,Drink,Medium,3,4.62,13.86,Mobile Pay,Uptown,Yes
+T1490,2023-10-16,19:18,Monday,C101,Male,44,Mocha,Drink,Large,3,4.23,12.69,Mobile Pay,Suburb,Yes
+T1491,2023-04-26,16:52,Wednesday,C033,Female,38,Brownie,Food,-,1,1.7,1.7,Mobile Pay,Riverside,Yes
+T1492,2023-09-26,12:26,Tuesday,C115,Male,26,Latte,Drink,Medium,1,4.83,4.83,Cash,Downtown,Yes
+T1493,2023-02-09,18:17,Thursday,C153,Female,22,Iced Coffee,Drink,Large,3,4.22,12.66,Mobile Pay,Midtown,No
+T1494,2023-01-16,15:51,Monday,C119,Female,56,Tea,Drink,Medium,1,3.33,3.33,Cash,Uptown,Yes
+T1495,2023-09-30,17:44,Saturday,C406,Male,22,Croissant,Food,-,2,2.93,5.86,Cash,Riverside,Yes
+T1496,2023-10-21,12:12,Saturday,C247,Male,57,Espresso,Drink,Medium,3,3.26,9.78,Mobile Pay,Uptown,No
+T1497,2023-06-23,20:28,Friday,C320,Male,40,Sandwich,Food,-,2,4.56,9.12,Card,Downtown,Yes
+T1498,2023-09-14,17:43,Thursday,C182,Male,37,Mocha,Drink,Medium,1,5.1,5.1,Cash,Suburb,Yes
+T1499,2023-08-03,18:30,Thursday,C372,Female,35,Mocha,Drink,Small,2,3.92,7.84,Cash,Downtown,No
+T1500,2023-01-30,06:30,Monday,C045,Male,36,Mocha,Drink,Small,1,4.08,4.08,Card,Suburb,No
+T1501,2023-11-22,06:43,Wednesday,C463,Male,26,Muffin,Food,-,1,2.39,2.39,Card,Riverside,Yes
+T1502,2023-03-10,11:06,Friday,C337,Male,33,Iced Coffee,Drink,Large,1,3.54,3.54,Cash,Uptown,Yes
+T1503,2023-07-16,08:13,Sunday,C426,Female,33,Sandwich,Food,-,3,4.27,12.81,Mobile Pay,Midtown,Yes
+T1504,2023-04-24,07:46,Monday,C048,Female,42,Muffin,Food,-,3,2.02,6.06,Cash,Midtown,Yes
+T1505,2023-04-19,12:08,Wednesday,C253,Male,38,Latte,Drink,Large,1,3.8,3.8,Card,Riverside,Yes
+T1506,2023-12-03,13:39,Sunday,C311,Male,31,Espresso,Drink,Small,3,2.32,6.96,Card,Downtown,No
+T1507,2023-08-12,16:00,Saturday,C111,Male,25,Sandwich,Food,-,2,4.5,9.0,Mobile Pay,Downtown,Yes
+T1508,2023-09-20,10:37,Wednesday,C182,Male,33,Cappuccino,Drink,Small,1,3.4,3.4,Card,Uptown,No
+T1509,2023-05-23,16:58,Tuesday,C461,Male,19,Sandwich,Food,-,1,5.07,5.07,Cash,Riverside,No
+T1510,2023-08-25,09:21,Friday,C432,Male,24,Sandwich,Food,-,1,5.19,5.19,Card,Uptown,No
+T1511,2023-09-01,09:54,Friday,C217,Female,47,Croissant,Food,-,3,3.29,9.87,Mobile Pay,Downtown,Yes
+T1512,2023-05-15,08:51,Monday,C220,Male,32,Brownie,Food,-,2,2.28,4.56,Cash,Uptown,Yes
+T1513,2023-10-19,13:29,Thursday,C044,Male,53,Sandwich,Food,-,3,5.1,15.3,Mobile Pay,Downtown,No
+T1514,2023-04-14,20:26,Friday,C478,Male,36,Brownie,Food,-,1,2.14,2.14,Card,Riverside,Yes
+T1515,2023-08-26,10:12,Saturday,C280,Male,20,Mocha,Drink,Small,2,3.79,7.58,Mobile Pay,Uptown,Yes
+T1516,2023-05-15,16:13,Monday,C263,Male,38,Espresso,Drink,Medium,2,2.73,5.46,Cash,Riverside,Yes
+T1517,2023-07-12,19:18,Wednesday,C012,Male,34,Croissant,Food,-,3,2.94,8.82,Cash,Midtown,Yes
+T1518,2023-08-04,17:25,Friday,C130,Male,51,Sandwich,Food,-,3,5.38,16.14,Mobile Pay,Downtown,Yes
+T1519,2023-07-07,15:03,Friday,C090,Female,55,Iced Coffee,Drink,Small,2,3.67,7.34,Mobile Pay,Riverside,No
+T1520,2023-06-20,14:41,Tuesday,C021,Female,53,Sandwich,Food,-,2,4.64,9.28,Card,Uptown,No
+T1521,2023-12-20,19:22,Wednesday,C032,Male,28,Mocha,Drink,Large,2,3.66,7.32,Mobile Pay,Uptown,No
+T1522,2023-12-24,12:25,Sunday,C427,Male,48,Croissant,Food,-,3,3.31,9.93,Mobile Pay,Uptown,Yes
+T1523,2023-01-06,12:39,Friday,C336,Male,59,Muffin,Food,-,1,1.9,1.9,Cash,Downtown,Yes
+T1524,2023-03-22,16:13,Wednesday,C461,Female,18,Iced Coffee,Drink,Medium,2,4.48,8.96,Cash,Midtown,No
+T1525,2023-08-30,19:19,Wednesday,C197,Male,31,Espresso,Drink,Large,1,2.06,2.06,Cash,Uptown,No
+T1526,2023-12-10,16:46,Sunday,C103,Male,27,Cappuccino,Drink,Medium,3,4.47,13.41,Mobile Pay,Suburb,Yes
+T1527,2023-08-10,15:20,Thursday,C094,Male,44,Tea,Drink,Small,1,2.64,2.64,Mobile Pay,Riverside,No
+T1528,2023-05-21,19:27,Sunday,C492,Female,23,Mocha,Drink,Small,2,3.86,7.72,Card,Uptown,Yes
+T1529,2023-08-30,15:24,Wednesday,C152,Female,55,Brownie,Food,-,3,2.34,7.02,Cash,Midtown,No
+T1530,2023-03-06,10:34,Monday,C200,Female,44,Mocha,Drink,Large,2,3.88,7.76,Mobile Pay,Midtown,Yes
+T1531,2023-11-04,11:26,Saturday,C173,Male,51,Muffin,Food,-,2,2.96,5.92,Mobile Pay,Midtown,Yes
+T1532,2023-08-07,10:45,Monday,C157,Female,18,Mocha,Drink,Small,3,4.93,14.79,Card,Downtown,Yes
+T1533,2023-05-25,09:37,Thursday,C142,Male,29,Mocha,Drink,Small,3,3.52,10.56,Card,Midtown,No
+T1534,2023-01-19,08:10,Thursday,C039,Male,47,Mocha,Drink,Small,2,4.59,9.18,Cash,Uptown,Yes
+T1535,2023-07-05,09:49,Wednesday,C268,Male,47,Sandwich,Food,-,1,4.19,4.19,Card,Downtown,No
+T1536,2023-09-15,13:42,Friday,C239,Male,30,Espresso,Drink,Medium,3,2.97,8.91,Card,Suburb,No
+T1537,2023-09-15,14:21,Friday,C403,Male,44,Espresso,Drink,Large,3,2.75,8.25,Card,Riverside,No
+T1538,2023-08-07,13:15,Monday,C142,Female,42,Espresso,Drink,Small,3,2.01,6.03,Mobile Pay,Riverside,No
+T1539,2023-03-03,17:04,Friday,C323,Female,22,Croissant,Food,-,3,2.46,7.38,Mobile Pay,Midtown,Yes
+T1540,2023-11-12,12:58,Sunday,C073,Male,35,Latte,Drink,Large,3,4.98,14.94,Card,Midtown,Yes
+T1541,2023-12-09,20:44,Saturday,C034,Female,58,Brownie,Food,-,3,2.47,7.41,Cash,Uptown,No
+T1542,2023-12-28,20:45,Thursday,C438,Male,38,Iced Coffee,Drink,Medium,1,3.69,3.69,Cash,Midtown,Yes
+T1543,2023-02-17,13:23,Friday,C104,Female,29,Brownie,Food,-,2,2.08,4.16,Card,Riverside,Yes
+T1544,2023-11-29,16:00,Wednesday,C032,Male,25,Espresso,Drink,Small,2,2.26,4.52,Cash,Uptown,Yes
+T1545,2023-12-25,12:12,Monday,C343,Male,31,Espresso,Drink,Large,2,2.29,4.58,Card,Riverside,No
+T1546,2023-01-21,09:58,Saturday,C360,Female,45,Mocha,Drink,Large,1,5.16,5.16,Cash,Riverside,Yes
+T1547,2023-08-31,08:19,Thursday,C318,Female,56,Espresso,Drink,Small,1,2.55,2.55,Cash,Downtown,No
+T1548,2023-09-22,18:04,Friday,C345,Male,60,Latte,Drink,Medium,1,3.93,3.93,Cash,Midtown,Yes
+T1549,2023-07-01,13:05,Saturday,C198,Male,20,Espresso,Drink,Small,3,3.23,9.69,Card,Riverside,Yes
+T1550,2023-04-20,20:11,Thursday,C413,Female,45,Espresso,Drink,Small,1,2.72,2.72,Mobile Pay,Riverside,Yes
+T1551,2023-10-16,12:17,Monday,C079,Male,23,Brownie,Food,-,3,1.64,4.92,Cash,Suburb,Yes
+T1552,2023-03-18,18:38,Saturday,C409,Male,41,Muffin,Food,-,2,2.31,4.62,Mobile Pay,Uptown,Yes
+T1553,2023-04-03,20:52,Monday,C092,Male,21,Muffin,Food,-,1,2.7,2.7,Mobile Pay,Riverside,No
+T1554,2023-07-16,10:12,Sunday,C304,Female,32,Brownie,Food,-,1,1.58,1.58,Cash,Uptown,Yes
+T1555,2023-08-27,19:08,Sunday,C012,Male,55,Cappuccino,Drink,Medium,2,3.25,6.5,Mobile Pay,Suburb,No
+T1556,2023-03-06,07:52,Monday,C043,Male,57,Latte,Drink,Large,3,4.63,13.89,Mobile Pay,Riverside,No
+T1557,2023-06-24,17:50,Saturday,C191,Male,27,Muffin,Food,-,2,2.27,4.54,Cash,Midtown,No
+T1558,2023-03-07,07:29,Tuesday,C033,Male,31,Iced Coffee,Drink,Large,2,4.23,8.46,Mobile Pay,Suburb,Yes
+T1559,2023-04-15,11:07,Saturday,C189,Male,23,Iced Coffee,Drink,Medium,3,3.15,9.45,Card,Riverside,Yes
+T1560,2023-04-12,15:59,Wednesday,C031,Female,38,Iced Coffee,Drink,Small,3,3.18,9.54,Cash,Uptown,Yes
+T1561,2023-11-05,10:11,Sunday,C149,Female,33,Iced Coffee,Drink,Small,3,4.01,12.03,Card,Uptown,Yes
+T1562,2023-12-10,09:04,Sunday,C249,Female,20,Mocha,Drink,Small,2,4.12,8.24,Card,Riverside,No
+T1563,2023-06-05,19:00,Monday,C462,Male,47,Latte,Drink,Medium,2,4.0,8.0,Mobile Pay,Midtown,No
+T1564,2023-04-22,17:12,Saturday,C480,Female,47,Muffin,Food,-,1,2.89,2.89,Mobile Pay,Downtown,Yes
+T1565,2023-04-04,08:36,Tuesday,C125,Male,32,Espresso,Drink,Large,3,3.47,10.41,Cash,Suburb,No
+T1566,2023-09-24,16:29,Sunday,C103,Male,33,Espresso,Drink,Small,2,2.5,5.0,Card,Midtown,No
+T1567,2023-01-27,09:39,Friday,C001,Female,42,Cappuccino,Drink,Small,2,3.76,7.52,Cash,Riverside,Yes
+T1568,2023-02-15,12:51,Wednesday,C384,Male,27,Croissant,Food,-,3,3.13,9.39,Cash,Riverside,Yes
+T1569,2023-07-28,15:42,Friday,C377,Male,33,Croissant,Food,-,3,2.46,7.38,Mobile Pay,Uptown,Yes
+T1570,2023-06-13,14:17,Tuesday,C282,Female,29,Mocha,Drink,Large,2,4.1,8.2,Cash,Midtown,Yes
+T1571,2023-03-04,11:25,Saturday,C439,Female,39,Brownie,Food,-,2,1.71,3.42,Card,Riverside,Yes
+T1572,2023-05-20,15:24,Saturday,C210,Male,45,Mocha,Drink,Large,1,4.56,4.56,Card,Suburb,Yes
+T1573,2023-01-15,10:50,Sunday,C376,Female,50,Latte,Drink,Large,3,4.36,13.08,Cash,Uptown,No
+T1574,2023-08-03,13:00,Thursday,C104,Male,18,Muffin,Food,-,2,1.81,3.62,Cash,Midtown,Yes
+T1575,2023-05-28,20:34,Sunday,C485,Male,18,Iced Coffee,Drink,Medium,1,3.89,3.89,Card,Uptown,Yes
+T1576,2023-08-09,18:13,Wednesday,C188,Male,42,Espresso,Drink,Large,3,2.96,8.88,Cash,Downtown,Yes
+T1577,2023-03-04,15:48,Saturday,C408,Female,44,Espresso,Drink,Large,2,2.75,5.5,Card,Downtown,No
+T1578,2023-05-23,14:10,Tuesday,C204,Male,20,Sandwich,Food,-,1,5.35,5.35,Mobile Pay,Midtown,No
+T1579,2023-01-06,12:01,Friday,C447,Male,57,Espresso,Drink,Small,2,3.05,6.1,Mobile Pay,Downtown,No
+T1580,2023-04-04,10:39,Tuesday,C032,Male,49,Latte,Drink,Large,2,4.22,8.44,Cash,Uptown,Yes
+T1581,2023-03-13,08:31,Monday,C208,Male,50,Brownie,Food,-,3,1.59,4.77,Mobile Pay,Downtown,Yes
+T1582,2023-09-11,17:06,Monday,C086,Female,42,Sandwich,Food,-,3,4.19,12.57,Cash,Uptown,Yes
+T1583,2023-12-11,07:51,Monday,C452,Female,49,Sandwich,Food,-,1,5.6,5.6,Card,Riverside,Yes
+T1584,2023-09-26,11:00,Tuesday,C053,Male,53,Iced Coffee,Drink,Small,1,3.29,3.29,Cash,Uptown,Yes
+T1585,2023-07-02,18:02,Sunday,C079,Female,25,Mocha,Drink,Large,2,3.79,7.58,Card,Suburb,Yes
+T1586,2023-04-10,16:32,Monday,C366,Female,42,Muffin,Food,-,2,1.9,3.8,Card,Midtown,No
+T1587,2023-12-19,17:17,Tuesday,C186,Female,24,Muffin,Food,-,1,1.91,1.91,Mobile Pay,Suburb,No
+T1588,2023-07-18,17:59,Tuesday,C004,Female,30,Croissant,Food,-,2,3.19,6.38,Mobile Pay,Downtown,No
+T1589,2023-09-09,17:45,Saturday,C024,Male,60,Cappuccino,Drink,Small,2,4.18,8.36,Cash,Downtown,No
+T1590,2023-09-04,08:48,Monday,C194,Male,45,Latte,Drink,Small,2,4.91,9.82,Mobile Pay,Uptown,Yes
+T1591,2023-07-03,18:50,Monday,C009,Male,51,Espresso,Drink,Large,2,3.4,6.8,Cash,Downtown,No
+T1592,2023-11-28,08:02,Tuesday,C214,Female,55,Iced Coffee,Drink,Small,1,3.59,3.59,Card,Midtown,No
+T1593,2023-11-20,11:17,Monday,C411,Male,53,Croissant,Food,-,1,2.31,2.31,Card,Suburb,Yes
+T1594,2023-12-13,06:14,Wednesday,C265,Male,43,Cappuccino,Drink,Large,3,3.34,10.02,Mobile Pay,Suburb,No
+T1595,2023-03-24,07:15,Friday,C122,Female,47,Mocha,Drink,Medium,3,5.34,16.02,Card,Uptown,Yes
+T1596,2023-02-16,12:38,Thursday,C227,Male,30,Croissant,Food,-,2,2.92,5.84,Card,Riverside,Yes
+T1597,2023-01-18,08:42,Wednesday,C342,Male,43,Mocha,Drink,Medium,3,4.15,12.45,Cash,Riverside,No
+T1598,2023-08-17,06:00,Thursday,C253,Female,39,Iced Coffee,Drink,Medium,2,3.38,6.76,Cash,Suburb,No
+T1599,2023-03-13,20:50,Monday,C393,Female,27,Iced Coffee,Drink,Medium,3,3.93,11.79,Mobile Pay,Downtown,Yes
+T1600,2023-11-01,07:12,Wednesday,C348,Male,39,Sandwich,Food,-,1,5.02,5.02,Cash,Midtown,No
+T1601,2023-12-10,08:50,Sunday,C498,Female,54,Cappuccino,Drink,Small,1,4.49,4.49,Cash,Suburb,No
+T1602,2023-09-27,08:47,Wednesday,C410,Female,18,Espresso,Drink,Large,2,2.89,5.78,Mobile Pay,Midtown,No
+T1603,2023-12-31,07:57,Sunday,C042,Female,38,Tea,Drink,Large,2,3.46,6.92,Cash,Uptown,No
+T1604,2023-03-30,17:53,Thursday,C394,Female,49,Cappuccino,Drink,Small,3,3.25,9.75,Card,Midtown,No
+T1605,2023-04-27,16:41,Thursday,C182,Male,22,Mocha,Drink,Large,3,5.14,15.42,Mobile Pay,Uptown,Yes
+T1606,2023-06-12,19:42,Monday,C442,Male,44,Cappuccino,Drink,Small,2,3.0,6.0,Mobile Pay,Midtown,Yes
+T1607,2023-11-02,17:19,Thursday,C240,Male,24,Sandwich,Food,-,2,5.27,10.54,Card,Riverside,Yes
+T1608,2023-07-09,16:12,Sunday,C237,Female,60,Espresso,Drink,Medium,2,2.23,4.46,Mobile Pay,Uptown,No
+T1609,2023-06-04,19:18,Sunday,C441,Female,59,Tea,Drink,Small,2,2.26,4.52,Mobile Pay,Suburb,No
+T1610,2023-03-04,09:50,Saturday,C260,Female,24,Brownie,Food,-,1,1.98,1.98,Cash,Midtown,No
+T1611,2023-01-30,13:04,Monday,C168,Female,29,Muffin,Food,-,1,2.52,2.52,Card,Midtown,Yes
+T1612,2023-12-05,14:21,Tuesday,C407,Male,27,Espresso,Drink,Large,3,2.46,7.38,Cash,Suburb,Yes
+T1613,2023-02-24,17:28,Friday,C216,Female,45,Muffin,Food,-,2,2.48,4.96,Mobile Pay,Downtown,No
+T1614,2023-06-26,07:35,Monday,C257,Male,22,Croissant,Food,-,1,2.45,2.45,Mobile Pay,Uptown,Yes
+T1615,2023-10-24,08:40,Tuesday,C150,Female,34,Cappuccino,Drink,Medium,2,4.33,8.66,Card,Midtown,No
+T1616,2023-03-21,15:03,Tuesday,C163,Female,36,Muffin,Food,-,1,1.81,1.81,Cash,Uptown,Yes
+T1617,2023-08-28,07:26,Monday,C271,Female,35,Muffin,Food,-,3,2.04,6.12,Cash,Riverside,No
+T1618,2023-05-08,18:11,Monday,C086,Male,34,Mocha,Drink,Small,3,4.64,13.92,Card,Midtown,No
+T1619,2023-04-18,12:05,Tuesday,C042,Male,30,Espresso,Drink,Medium,1,2.62,2.62,Mobile Pay,Downtown,No
+T1620,2023-12-29,19:58,Friday,C259,Female,41,Sandwich,Food,-,1,5.5,5.5,Card,Riverside,Yes
+T1621,2023-07-03,08:27,Monday,C341,Male,53,Mocha,Drink,Small,1,4.55,4.55,Mobile Pay,Downtown,No
+T1622,2023-05-02,16:30,Tuesday,C338,Female,47,Muffin,Food,-,2,2.71,5.42,Cash,Uptown,No
+T1623,2023-06-24,18:51,Saturday,C411,Male,27,Espresso,Drink,Small,2,3.23,6.46,Card,Midtown,No
+T1624,2023-09-23,19:34,Saturday,C067,Male,52,Espresso,Drink,Large,3,2.46,7.38,Cash,Downtown,Yes
+T1625,2023-06-26,18:08,Monday,C147,Female,48,Mocha,Drink,Medium,3,5.3,15.9,Mobile Pay,Riverside,No
+T1626,2023-12-10,13:46,Sunday,C380,Male,23,Latte,Drink,Small,3,4.21,12.63,Cash,Riverside,Yes
+T1627,2023-01-01,16:20,Sunday,C500,Male,49,Cappuccino,Drink,Small,3,4.17,12.51,Mobile Pay,Uptown,No
+T1628,2023-04-25,15:36,Tuesday,C223,Female,44,Croissant,Food,-,2,3.12,6.24,Mobile Pay,Midtown,No
+T1629,2023-04-12,20:33,Wednesday,C130,Female,48,Mocha,Drink,Medium,3,4.89,14.67,Mobile Pay,Suburb,No
+T1630,2023-05-25,06:48,Thursday,C284,Female,55,Mocha,Drink,Small,1,5.46,5.46,Mobile Pay,Suburb,Yes
+T1631,2023-10-16,13:54,Monday,C180,Male,47,Cappuccino,Drink,Medium,2,4.14,8.28,Cash,Riverside,No
+T1632,2023-03-29,18:15,Wednesday,C069,Male,21,Espresso,Drink,Large,3,3.02,9.06,Cash,Suburb,No
+T1633,2023-10-19,13:26,Thursday,C425,Female,22,Brownie,Food,-,2,1.72,3.44,Card,Uptown,No
+T1634,2023-01-21,20:16,Saturday,C144,Male,41,Latte,Drink,Large,3,5.0,15.0,Mobile Pay,Suburb,No
+T1635,2023-09-15,12:38,Friday,C216,Female,60,Sandwich,Food,-,1,5.48,5.48,Cash,Uptown,Yes
+T1636,2023-11-28,15:20,Tuesday,C239,Male,18,Brownie,Food,-,3,2.06,6.18,Mobile Pay,Riverside,No
+T1637,2023-05-02,09:08,Tuesday,C423,Female,54,Brownie,Food,-,3,2.03,6.09,Cash,Riverside,Yes
+T1638,2023-07-08,15:09,Saturday,C369,Female,54,Tea,Drink,Large,1,3.27,3.27,Mobile Pay,Downtown,No
+T1639,2023-01-24,11:43,Tuesday,C163,Male,25,Iced Coffee,Drink,Large,1,3.46,3.46,Mobile Pay,Uptown,No
+T1640,2023-08-20,20:50,Sunday,C273,Male,22,Tea,Drink,Small,1,3.3,3.3,Cash,Suburb,Yes
+T1641,2023-03-01,07:04,Wednesday,C014,Male,59,Muffin,Food,-,3,2.4,7.2,Mobile Pay,Riverside,No
+T1642,2023-03-01,17:27,Wednesday,C494,Male,36,Muffin,Food,-,2,2.58,5.16,Cash,Downtown,Yes
+T1643,2023-05-12,16:51,Friday,C027,Female,21,Tea,Drink,Medium,3,2.22,6.66,Cash,Riverside,Yes
+T1644,2023-06-18,06:31,Sunday,C318,Male,51,Cappuccino,Drink,Medium,2,3.46,6.92,Card,Suburb,Yes
+T1645,2023-02-20,15:46,Monday,C323,Male,35,Mocha,Drink,Small,1,4.28,4.28,Cash,Uptown,Yes
+T1646,2023-11-23,07:43,Thursday,C290,Female,48,Espresso,Drink,Small,1,2.15,2.15,Mobile Pay,Midtown,Yes
+T1647,2023-08-16,06:41,Wednesday,C165,Male,38,Sandwich,Food,-,1,4.18,4.18,Cash,Suburb,Yes
+T1648,2023-06-18,19:55,Sunday,C153,Male,47,Cappuccino,Drink,Small,2,4.19,8.38,Cash,Suburb,No
+T1649,2023-01-29,11:30,Sunday,C206,Male,32,Croissant,Food,-,1,2.84,2.84,Cash,Uptown,Yes
+T1650,2023-06-25,09:05,Sunday,C484,Female,19,Croissant,Food,-,1,3.47,3.47,Cash,Riverside,Yes
+T1651,2023-04-09,06:43,Sunday,C394,Male,26,Cappuccino,Drink,Small,3,3.99,11.97,Cash,Suburb,No
+T1652,2023-02-21,16:31,Tuesday,C312,Male,22,Croissant,Food,-,3,2.11,6.33,Cash,Suburb,Yes
+T1653,2023-03-10,15:32,Friday,C302,Male,31,Sandwich,Food,-,3,6.47,19.41,Cash,Riverside,No
+T1654,2023-10-01,11:34,Sunday,C101,Female,19,Mocha,Drink,Medium,1,5.02,5.02,Mobile Pay,Uptown,No
+T1655,2023-12-16,10:08,Saturday,C153,Female,59,Croissant,Food,-,1,2.27,2.27,Mobile Pay,Uptown,No
+T1656,2023-05-18,20:22,Thursday,C245,Male,21,Mocha,Drink,Large,1,5.27,5.27,Cash,Downtown,No
+T1657,2023-02-04,19:42,Saturday,C300,Male,55,Muffin,Food,-,1,2.25,2.25,Mobile Pay,Riverside,No
+T1658,2023-08-25,15:35,Friday,C340,Female,39,Cappuccino,Drink,Medium,2,4.34,8.68,Card,Suburb,Yes
+T1659,2023-03-28,19:19,Tuesday,C470,Male,46,Muffin,Food,-,2,2.41,4.82,Mobile Pay,Midtown,No
+T1660,2023-09-29,19:45,Friday,C051,Female,58,Latte,Drink,Medium,2,4.8,9.6,Cash,Uptown,No
+T1661,2023-12-24,11:08,Sunday,C160,Female,53,Tea,Drink,Small,1,2.53,2.53,Cash,Midtown,Yes
+T1662,2023-06-08,08:22,Thursday,C088,Male,50,Muffin,Food,-,3,2.83,8.49,Card,Riverside,Yes
+T1663,2023-12-29,16:46,Friday,C027,Female,29,Espresso,Drink,Large,3,3.21,9.63,Cash,Suburb,No
+T1664,2023-04-02,13:33,Sunday,C374,Male,41,Muffin,Food,-,3,2.42,7.26,Cash,Midtown,Yes
+T1665,2023-02-23,07:30,Thursday,C374,Female,60,Cappuccino,Drink,Large,3,3.75,11.25,Mobile Pay,Riverside,Yes
+T1666,2023-04-23,08:24,Sunday,C259,Female,55,Latte,Drink,Large,3,4.38,13.14,Cash,Uptown,Yes
+T1667,2023-06-22,15:28,Thursday,C274,Female,37,Tea,Drink,Small,1,3.14,3.14,Cash,Midtown,Yes
+T1668,2023-08-31,11:45,Thursday,C156,Male,57,Cappuccino,Drink,Medium,1,3.72,3.72,Cash,Suburb,No
+T1669,2023-12-17,06:17,Sunday,C108,Male,28,Tea,Drink,Small,2,2.81,5.62,Cash,Riverside,Yes
+T1670,2023-11-11,08:19,Saturday,C366,Male,20,Brownie,Food,-,2,1.58,3.16,Cash,Suburb,No
+T1671,2023-03-11,18:05,Saturday,C443,Male,52,Croissant,Food,-,3,2.42,7.26,Card,Suburb,Yes
+T1672,2023-04-29,09:54,Saturday,C006,Female,54,Tea,Drink,Small,1,2.82,2.82,Card,Riverside,No
+T1673,2023-08-03,10:56,Thursday,C466,Female,42,Sandwich,Food,-,2,4.13,8.26,Card,Riverside,No
+T1674,2023-10-17,10:53,Tuesday,C425,Female,24,Croissant,Food,-,2,2.17,4.34,Card,Suburb,Yes
+T1675,2023-06-23,17:01,Friday,C172,Female,18,Espresso,Drink,Medium,2,2.83,5.66,Card,Suburb,Yes
+T1676,2023-12-15,06:00,Friday,C005,Female,28,Iced Coffee,Drink,Small,3,3.26,9.78,Mobile Pay,Suburb,No
+T1677,2023-05-30,09:24,Tuesday,C196,Male,45,Cappuccino,Drink,Large,1,3.83,3.83,Mobile Pay,Midtown,No
+T1678,2023-12-22,20:20,Friday,C418,Female,48,Sandwich,Food,-,2,6.27,12.54,Cash,Midtown,Yes
+T1679,2023-02-26,14:16,Sunday,C471,Female,23,Cappuccino,Drink,Medium,2,3.52,7.04,Cash,Downtown,No
+T1680,2023-08-04,15:54,Friday,C280,Male,48,Croissant,Food,-,3,3.25,9.75,Card,Suburb,Yes
+T1681,2023-03-29,07:42,Wednesday,C037,Female,23,Tea,Drink,Large,2,2.98,5.96,Mobile Pay,Midtown,Yes
+T1682,2023-08-05,11:55,Saturday,C438,Male,21,Latte,Drink,Large,1,4.51,4.51,Mobile Pay,Uptown,Yes
+T1683,2023-12-07,10:23,Thursday,C452,Female,26,Mocha,Drink,Medium,3,3.87,11.61,Mobile Pay,Suburb,No
+T1684,2023-11-14,16:54,Tuesday,C393,Male,34,Espresso,Drink,Medium,2,2.24,4.48,Cash,Suburb,Yes
+T1685,2023-10-03,10:17,Tuesday,C084,Male,19,Sandwich,Food,-,3,4.5,13.5,Mobile Pay,Suburb,Yes
+T1686,2023-10-13,06:31,Friday,C402,Female,41,Muffin,Food,-,3,2.43,7.29,Card,Downtown,Yes
+T1687,2023-02-18,19:48,Saturday,C137,Male,44,Latte,Drink,Small,3,3.6,10.8,Card,Midtown,No
+T1688,2023-07-21,06:14,Friday,C493,Female,23,Sandwich,Food,-,3,4.24,12.72,Cash,Uptown,No
+T1689,2023-02-19,08:41,Sunday,C370,Male,36,Latte,Drink,Small,3,3.92,11.76,Mobile Pay,Uptown,No
+T1690,2023-04-27,09:02,Thursday,C427,Male,31,Croissant,Food,-,2,2.09,4.18,Cash,Riverside,No
+T1691,2023-07-25,08:32,Tuesday,C077,Female,46,Croissant,Food,-,1,2.56,2.56,Card,Riverside,No
+T1692,2023-03-06,14:50,Monday,C070,Male,24,Mocha,Drink,Medium,3,4.23,12.69,Mobile Pay,Uptown,No
+T1693,2023-11-03,09:18,Friday,C156,Male,32,Latte,Drink,Small,3,4.09,12.27,Card,Riverside,No
+T1694,2023-08-05,19:39,Saturday,C392,Male,24,Latte,Drink,Medium,2,4.45,8.9,Cash,Riverside,Yes
+T1695,2023-11-07,13:58,Tuesday,C463,Male,60,Cappuccino,Drink,Large,3,3.82,11.46,Cash,Uptown,Yes
+T1696,2023-04-24,15:16,Monday,C419,Female,52,Mocha,Drink,Large,2,4.35,8.7,Card,Downtown,Yes
+T1697,2023-11-13,08:55,Monday,C021,Female,43,Espresso,Drink,Large,2,2.06,4.12,Card,Suburb,No
+T1698,2023-02-10,16:15,Friday,C330,Female,30,Iced Coffee,Drink,Medium,2,3.75,7.5,Mobile Pay,Midtown,Yes
+T1699,2023-06-06,12:59,Tuesday,C094,Female,47,Brownie,Food,-,2,2.25,4.5,Card,Riverside,No
+T1700,2023-05-21,08:22,Sunday,C130,Female,35,Mocha,Drink,Medium,1,4.54,4.54,Mobile Pay,Riverside,Yes
+T1701,2023-04-27,15:24,Thursday,C372,Male,59,Iced Coffee,Drink,Small,1,3.22,3.22,Cash,Uptown,Yes
+T1702,2023-04-26,08:39,Wednesday,C153,Male,22,Brownie,Food,-,1,2.06,2.06,Cash,Suburb,Yes
+T1703,2023-12-03,15:35,Sunday,C350,Female,26,Croissant,Food,-,1,3.16,3.16,Cash,Riverside,No
+T1704,2023-11-20,06:00,Monday,C322,Male,46,Muffin,Food,-,3,2.01,6.03,Card,Uptown,No
+T1705,2023-01-05,08:58,Thursday,C433,Male,29,Latte,Drink,Medium,1,4.01,4.01,Card,Riverside,No
+T1706,2023-12-22,12:48,Friday,C328,Female,35,Espresso,Drink,Medium,1,3.2,3.2,Card,Midtown,Yes
+T1707,2023-06-05,15:16,Monday,C229,Female,47,Muffin,Food,-,2,1.87,3.74,Mobile Pay,Suburb,Yes
+T1708,2023-08-12,14:06,Saturday,C252,Male,41,Latte,Drink,Small,3,4.7,14.1,Cash,Uptown,Yes
+T1709,2023-11-02,10:23,Thursday,C325,Male,39,Brownie,Food,-,1,2.08,2.08,Mobile Pay,Midtown,Yes
+T1710,2023-05-21,13:55,Sunday,C163,Female,38,Croissant,Food,-,3,2.39,7.17,Card,Uptown,No
+T1711,2023-10-04,06:59,Wednesday,C427,Male,44,Muffin,Food,-,1,1.98,1.98,Cash,Midtown,Yes
+T1712,2023-09-03,20:38,Sunday,C224,Male,57,Muffin,Food,-,3,2.0,6.0,Card,Uptown,Yes
+T1713,2023-11-02,13:28,Thursday,C286,Male,47,Brownie,Food,-,3,2.12,6.36,Cash,Downtown,No
+T1714,2023-09-28,12:39,Thursday,C300,Female,51,Latte,Drink,Small,1,4.75,4.75,Cash,Downtown,Yes
+T1715,2023-11-16,16:03,Thursday,C184,Female,34,Muffin,Food,-,1,2.09,2.09,Cash,Suburb,Yes
+T1716,2023-04-19,10:46,Wednesday,C050,Male,45,Latte,Drink,Medium,3,4.7,14.1,Mobile Pay,Uptown,Yes
+T1717,2023-05-03,15:25,Wednesday,C481,Female,60,Iced Coffee,Drink,Large,1,4.17,4.17,Cash,Suburb,No
+T1718,2023-10-17,06:59,Tuesday,C069,Male,41,Muffin,Food,-,1,2.07,2.07,Mobile Pay,Riverside,No
+T1719,2023-12-11,13:58,Monday,C434,Female,28,Brownie,Food,-,1,2.04,2.04,Card,Uptown,No
+T1720,2023-01-21,06:06,Saturday,C407,Male,31,Muffin,Food,-,2,2.9,5.8,Card,Uptown,No
+T1721,2023-05-30,15:17,Tuesday,C074,Male,23,Mocha,Drink,Medium,3,5.18,15.54,Card,Suburb,No
+T1722,2023-02-04,15:01,Saturday,C382,Male,52,Mocha,Drink,Medium,1,3.74,3.74,Cash,Downtown,No
+T1723,2023-08-04,09:05,Friday,C332,Female,20,Cappuccino,Drink,Medium,2,3.92,7.84,Cash,Uptown,No
+T1724,2023-04-10,10:59,Monday,C285,Male,52,Brownie,Food,-,3,2.43,7.29,Cash,Suburb,Yes
+T1725,2023-07-27,16:31,Thursday,C264,Female,39,Latte,Drink,Large,1,4.73,4.73,Mobile Pay,Downtown,No
+T1726,2023-08-27,07:30,Sunday,C440,Male,31,Croissant,Food,-,3,3.48,10.44,Mobile Pay,Midtown,No
+T1727,2023-06-09,14:13,Friday,C440,Female,22,Tea,Drink,Large,3,2.94,8.82,Cash,Midtown,No
+T1728,2023-08-14,20:55,Monday,C011,Female,45,Cappuccino,Drink,Large,1,3.12,3.12,Card,Downtown,Yes
+T1729,2023-03-31,18:47,Friday,C416,Male,44,Espresso,Drink,Medium,2,2.03,4.06,Cash,Suburb,Yes
+T1730,2023-08-20,15:12,Sunday,C161,Female,26,Cappuccino,Drink,Medium,1,4.06,4.06,Mobile Pay,Suburb,No
+T1731,2023-05-23,15:54,Tuesday,C283,Female,60,Mocha,Drink,Small,3,3.6,10.8,Cash,Riverside,Yes
+T1732,2023-07-06,09:00,Thursday,C264,Female,51,Brownie,Food,-,2,2.09,4.18,Card,Uptown,Yes
+T1733,2023-09-22,11:41,Friday,C385,Female,34,Latte,Drink,Large,3,4.53,13.59,Mobile Pay,Downtown,No
+T1734,2023-08-07,09:54,Monday,C072,Female,49,Espresso,Drink,Small,3,3.46,10.38,Cash,Downtown,No
+T1735,2023-02-03,14:51,Friday,C473,Male,36,Cappuccino,Drink,Medium,1,4.29,4.29,Card,Downtown,No
+T1736,2023-01-10,13:01,Tuesday,C060,Male,48,Espresso,Drink,Medium,2,2.6,5.2,Mobile Pay,Suburb,No
+T1737,2023-05-27,17:29,Saturday,C060,Female,58,Espresso,Drink,Medium,1,2.03,2.03,Cash,Midtown,Yes
+T1738,2023-09-12,20:36,Tuesday,C455,Male,36,Latte,Drink,Medium,2,4.14,8.28,Mobile Pay,Downtown,No
+T1739,2023-09-19,07:31,Tuesday,C021,Male,56,Mocha,Drink,Medium,3,5.13,15.39,Card,Suburb,Yes
+T1740,2023-09-08,20:56,Friday,C082,Male,42,Mocha,Drink,Large,1,3.99,3.99,Card,Midtown,No
+T1741,2023-09-08,20:38,Friday,C167,Male,52,Brownie,Food,-,2,2.16,4.32,Card,Uptown,Yes
+T1742,2023-10-07,09:49,Saturday,C254,Male,47,Iced Coffee,Drink,Small,2,3.68,7.36,Mobile Pay,Downtown,No
+T1743,2023-09-11,20:58,Monday,C322,Female,27,Tea,Drink,Large,3,3.16,9.48,Cash,Midtown,Yes
+T1744,2023-01-16,10:16,Monday,C284,Female,40,Croissant,Food,-,2,2.25,4.5,Mobile Pay,Downtown,Yes
+T1745,2023-04-30,08:12,Sunday,C399,Male,22,Espresso,Drink,Medium,2,3.22,6.44,Card,Midtown,No
+T1746,2023-03-10,19:36,Friday,C107,Male,35,Espresso,Drink,Large,2,2.17,4.34,Mobile Pay,Downtown,No
+T1747,2023-05-17,20:15,Wednesday,C388,Male,37,Cappuccino,Drink,Small,2,3.09,6.18,Card,Suburb,No
+T1748,2023-08-29,09:01,Tuesday,C121,Female,24,Latte,Drink,Medium,1,4.38,4.38,Mobile Pay,Uptown,No
+T1749,2023-12-08,20:58,Friday,C492,Female,31,Latte,Drink,Small,2,4.13,8.26,Cash,Downtown,Yes
+T1750,2023-09-23,19:32,Saturday,C318,Female,24,Muffin,Food,-,2,2.47,4.94,Card,Suburb,No
+T1751,2023-02-21,18:27,Tuesday,C078,Female,32,Tea,Drink,Medium,1,3.09,3.09,Card,Riverside,Yes
+T1752,2023-04-21,13:54,Friday,C360,Male,19,Mocha,Drink,Medium,2,4.71,9.42,Mobile Pay,Midtown,No
+T1753,2023-09-24,19:47,Sunday,C358,Male,38,Mocha,Drink,Medium,3,3.66,10.98,Mobile Pay,Riverside,No
+T1754,2023-08-26,20:39,Saturday,C045,Female,48,Iced Coffee,Drink,Medium,3,4.03,12.09,Mobile Pay,Suburb,Yes
+T1755,2023-10-07,19:09,Saturday,C485,Male,54,Latte,Drink,Large,2,3.64,7.28,Cash,Midtown,Yes
+T1756,2023-09-21,08:36,Thursday,C074,Female,48,Brownie,Food,-,3,1.95,5.85,Cash,Riverside,Yes
+T1757,2023-01-09,11:37,Monday,C406,Male,25,Sandwich,Food,-,1,4.08,4.08,Cash,Suburb,No
+T1758,2023-03-04,13:27,Saturday,C245,Female,50,Latte,Drink,Small,3,3.72,11.16,Cash,Midtown,No
+T1759,2023-11-14,10:01,Tuesday,C283,Female,25,Tea,Drink,Small,3,2.05,6.15,Card,Suburb,Yes
+T1760,2023-12-21,16:47,Thursday,C264,Male,39,Muffin,Food,-,3,2.23,6.69,Card,Uptown,Yes
+T1761,2023-01-18,07:00,Wednesday,C270,Male,55,Espresso,Drink,Small,3,2.42,7.26,Mobile Pay,Suburb,Yes
+T1762,2023-08-11,12:28,Friday,C117,Female,20,Croissant,Food,-,3,2.72,8.16,Mobile Pay,Suburb,No
+T1763,2023-05-04,10:14,Thursday,C234,Female,25,Iced Coffee,Drink,Small,2,3.98,7.96,Card,Suburb,Yes
+T1764,2023-10-20,19:18,Friday,C321,Male,50,Iced Coffee,Drink,Medium,1,3.26,3.26,Cash,Uptown,No
+T1765,2023-05-22,09:36,Monday,C416,Female,58,Latte,Drink,Large,2,4.84,9.68,Card,Riverside,Yes
+T1766,2023-02-10,19:10,Friday,C377,Female,57,Brownie,Food,-,2,1.95,3.9,Cash,Suburb,Yes
+T1767,2023-12-16,20:47,Saturday,C453,Female,60,Latte,Drink,Medium,1,3.94,3.94,Cash,Suburb,No
+T1768,2023-08-24,15:17,Thursday,C223,Male,48,Muffin,Food,-,3,2.03,6.09,Mobile Pay,Riverside,Yes
+T1769,2023-02-10,10:36,Friday,C254,Female,37,Sandwich,Food,-,2,5.8,11.6,Card,Downtown,Yes
+T1770,2023-02-25,17:59,Saturday,C005,Female,51,Iced Coffee,Drink,Medium,1,4.32,4.32,Card,Downtown,No
+T1771,2023-11-18,07:32,Saturday,C447,Male,22,Espresso,Drink,Large,1,3.24,3.24,Mobile Pay,Riverside,Yes
+T1772,2023-03-31,11:11,Friday,C482,Female,27,Sandwich,Food,-,2,4.37,8.74,Card,Suburb,Yes
+T1773,2023-04-17,10:40,Monday,C243,Female,39,Sandwich,Food,-,2,4.26,8.52,Cash,Suburb,No
+T1774,2023-08-07,17:54,Monday,C490,Male,32,Cappuccino,Drink,Large,2,4.16,8.32,Card,Uptown,Yes
+T1775,2023-12-11,17:48,Monday,C326,Male,41,Brownie,Food,-,1,1.92,1.92,Mobile Pay,Suburb,No
+T1776,2023-05-29,14:54,Monday,C466,Male,45,Espresso,Drink,Medium,1,2.09,2.09,Cash,Suburb,Yes
+T1777,2023-12-18,14:32,Monday,C441,Female,50,Cappuccino,Drink,Large,1,3.43,3.43,Card,Suburb,No
+T1778,2023-02-10,15:16,Friday,C347,Male,54,Muffin,Food,-,3,2.9,8.7,Cash,Downtown,Yes
+T1779,2023-10-07,07:07,Saturday,C201,Male,58,Muffin,Food,-,2,2.25,4.5,Mobile Pay,Midtown,Yes
+T1780,2023-08-31,15:31,Thursday,C459,Male,51,Brownie,Food,-,3,1.8,5.4,Cash,Riverside,No
+T1781,2023-08-09,12:28,Wednesday,C060,Female,41,Mocha,Drink,Small,3,4.47,13.41,Card,Midtown,Yes
+T1782,2023-04-07,17:31,Friday,C474,Male,20,Muffin,Food,-,3,2.76,8.28,Mobile Pay,Uptown,No
+T1783,2023-05-02,19:38,Tuesday,C188,Female,50,Muffin,Food,-,3,2.26,6.78,Cash,Downtown,Yes
+T1784,2023-12-28,11:28,Thursday,C492,Female,27,Croissant,Food,-,2,3.13,6.26,Mobile Pay,Downtown,Yes
+T1785,2023-02-06,07:32,Monday,C311,Male,27,Muffin,Food,-,3,2.55,7.65,Card,Suburb,Yes
+T1786,2023-12-13,08:00,Wednesday,C087,Male,59,Brownie,Food,-,3,2.28,6.84,Card,Suburb,No
+T1787,2023-08-27,10:49,Sunday,C079,Male,41,Mocha,Drink,Medium,3,4.05,12.15,Cash,Midtown,No
+T1788,2023-04-05,14:23,Wednesday,C475,Female,47,Cappuccino,Drink,Medium,2,3.97,7.94,Mobile Pay,Uptown,Yes
+T1789,2023-03-25,11:42,Saturday,C002,Male,55,Latte,Drink,Small,2,4.55,9.1,Cash,Suburb,No
+T1790,2023-08-27,15:14,Sunday,C112,Male,58,Croissant,Food,-,1,3.21,3.21,Cash,Uptown,No
+T1791,2023-10-19,11:23,Thursday,C042,Male,54,Brownie,Food,-,1,1.98,1.98,Cash,Riverside,No
+T1792,2023-07-16,08:11,Sunday,C094,Male,39,Sandwich,Food,-,3,4.15,12.45,Card,Midtown,Yes
+T1793,2023-03-06,20:11,Monday,C236,Male,45,Mocha,Drink,Medium,3,4.96,14.88,Card,Downtown,No
+T1794,2023-12-15,17:10,Friday,C130,Male,58,Latte,Drink,Large,3,3.67,11.01,Cash,Riverside,No
+T1795,2023-03-23,18:48,Thursday,C285,Male,19,Iced Coffee,Drink,Large,3,4.32,12.96,Card,Suburb,No
+T1796,2023-04-26,20:44,Wednesday,C448,Female,36,Brownie,Food,-,2,2.36,4.72,Mobile Pay,Suburb,Yes
+T1797,2023-07-22,13:26,Saturday,C430,Female,22,Latte,Drink,Large,3,4.63,13.89,Mobile Pay,Suburb,No
+T1798,2023-08-17,16:56,Thursday,C405,Female,48,Cappuccino,Drink,Medium,3,3.15,9.45,Card,Downtown,No
+T1799,2023-11-30,10:34,Thursday,C138,Female,46,Brownie,Food,-,3,1.89,5.67,Card,Midtown,No
+T1800,2023-06-09,13:02,Friday,C313,Female,25,Iced Coffee,Drink,Large,1,3.35,3.35,Cash,Downtown,Yes
+T1801,2023-11-22,11:35,Wednesday,C322,Female,30,Tea,Drink,Small,1,2.26,2.26,Card,Downtown,Yes
+T1802,2023-11-06,16:34,Monday,C302,Female,52,Tea,Drink,Medium,3,2.51,7.53,Cash,Suburb,No
+T1803,2023-11-13,15:41,Monday,C233,Female,36,Cappuccino,Drink,Medium,2,4.16,8.32,Mobile Pay,Suburb,No
+T1804,2023-04-17,11:55,Monday,C500,Male,19,Muffin,Food,-,3,2.75,8.25,Cash,Suburb,Yes
+T1805,2023-04-10,16:18,Monday,C126,Male,41,Cappuccino,Drink,Large,3,3.65,10.95,Cash,Riverside,Yes
+T1806,2023-09-10,11:15,Sunday,C172,Female,51,Sandwich,Food,-,2,5.53,11.06,Cash,Midtown,No
+T1807,2023-02-25,08:36,Saturday,C037,Male,33,Iced Coffee,Drink,Large,1,4.12,4.12,Mobile Pay,Midtown,Yes
+T1808,2023-01-31,07:03,Tuesday,C485,Female,44,Brownie,Food,-,1,1.71,1.71,Mobile Pay,Suburb,Yes
+T1809,2023-08-07,20:23,Monday,C019,Male,55,Iced Coffee,Drink,Small,3,3.43,10.29,Mobile Pay,Uptown,Yes
+T1810,2023-03-22,20:02,Wednesday,C485,Female,40,Croissant,Food,-,3,3.2,9.6,Cash,Riverside,No
+T1811,2023-01-08,16:39,Sunday,C247,Female,32,Tea,Drink,Small,3,3.36,10.08,Mobile Pay,Downtown,Yes
+T1812,2023-07-05,10:40,Wednesday,C149,Female,46,Cappuccino,Drink,Small,2,3.04,6.08,Cash,Downtown,Yes
+T1813,2023-12-05,10:18,Tuesday,C449,Male,21,Muffin,Food,-,1,2.65,2.65,Cash,Uptown,Yes
+T1814,2023-02-16,11:47,Thursday,C113,Male,18,Espresso,Drink,Medium,2,2.03,4.06,Cash,Downtown,Yes
+T1815,2023-02-07,07:18,Tuesday,C426,Male,39,Iced Coffee,Drink,Small,3,3.13,9.39,Mobile Pay,Riverside,No
+T1816,2023-04-02,17:27,Sunday,C224,Male,41,Sandwich,Food,-,3,4.58,13.74,Card,Midtown,No
+T1817,2023-04-17,10:32,Monday,C495,Male,40,Croissant,Food,-,2,2.26,4.52,Card,Uptown,No
+T1818,2023-01-02,20:04,Monday,C392,Male,44,Cappuccino,Drink,Medium,1,3.98,3.98,Mobile Pay,Suburb,Yes
+T1819,2023-08-30,16:24,Wednesday,C192,Female,47,Latte,Drink,Small,1,4.93,4.93,Card,Uptown,No
+T1820,2023-10-19,20:58,Thursday,C193,Male,35,Espresso,Drink,Small,3,2.21,6.63,Cash,Midtown,No
+T1821,2023-08-07,13:22,Monday,C463,Male,34,Tea,Drink,Small,2,2.06,4.12,Card,Suburb,Yes
+T1822,2023-02-06,06:29,Monday,C285,Female,50,Sandwich,Food,-,1,4.26,4.26,Mobile Pay,Midtown,Yes
+T1823,2023-09-19,16:29,Tuesday,C332,Female,39,Espresso,Drink,Large,3,3.19,9.57,Mobile Pay,Riverside,No
+T1824,2023-08-19,17:35,Saturday,C298,Female,45,Mocha,Drink,Large,3,4.29,12.87,Mobile Pay,Riverside,No
+T1825,2023-06-26,11:07,Monday,C353,Male,26,Cappuccino,Drink,Medium,1,3.26,3.26,Cash,Uptown,Yes
+T1826,2023-05-07,16:32,Sunday,C092,Female,57,Tea,Drink,Large,1,2.05,2.05,Cash,Midtown,Yes
+T1827,2023-09-15,07:04,Friday,C330,Male,58,Brownie,Food,-,2,2.5,5.0,Card,Downtown,Yes
+T1828,2023-06-30,14:48,Friday,C097,Male,46,Latte,Drink,Medium,1,4.5,4.5,Mobile Pay,Riverside,Yes
+T1829,2023-02-06,08:43,Monday,C181,Female,18,Cappuccino,Drink,Small,2,3.97,7.94,Card,Suburb,Yes
+T1830,2023-02-10,10:24,Friday,C440,Male,19,Sandwich,Food,-,1,4.66,4.66,Mobile Pay,Downtown,No
+T1831,2023-01-27,09:29,Friday,C115,Female,31,Croissant,Food,-,1,3.47,3.47,Mobile Pay,Midtown,Yes
+T1832,2023-09-19,17:32,Tuesday,C284,Male,44,Espresso,Drink,Large,2,2.65,5.3,Card,Suburb,Yes
+T1833,2023-04-30,11:43,Sunday,C078,Male,32,Mocha,Drink,Small,1,3.93,3.93,Cash,Downtown,Yes
+T1834,2023-01-04,13:45,Wednesday,C373,Male,30,Sandwich,Food,-,3,4.03,12.09,Cash,Suburb,No
+T1835,2023-11-16,18:30,Thursday,C424,Female,51,Espresso,Drink,Large,3,2.02,6.06,Cash,Riverside,No
+T1836,2023-05-24,19:36,Wednesday,C440,Male,56,Sandwich,Food,-,2,6.22,12.44,Card,Uptown,No
+T1837,2023-05-08,14:51,Monday,C004,Male,50,Muffin,Food,-,2,2.86,5.72,Mobile Pay,Downtown,Yes
+T1838,2023-07-27,19:11,Thursday,C467,Female,50,Latte,Drink,Small,1,4.07,4.07,Cash,Uptown,Yes
+T1839,2023-12-12,16:23,Tuesday,C448,Female,53,Sandwich,Food,-,1,4.64,4.64,Mobile Pay,Riverside,Yes
+T1840,2023-09-19,17:04,Tuesday,C473,Female,19,Croissant,Food,-,3,3.23,9.69,Cash,Riverside,Yes
+T1841,2023-01-04,15:37,Wednesday,C412,Female,24,Cappuccino,Drink,Large,2,4.1,8.2,Card,Uptown,No
+T1842,2023-08-31,19:15,Thursday,C173,Female,60,Sandwich,Food,-,3,6.01,18.03,Mobile Pay,Downtown,Yes
+T1843,2023-10-01,20:19,Sunday,C114,Female,58,Croissant,Food,-,3,2.93,8.79,Cash,Suburb,Yes
+T1844,2023-05-28,12:08,Sunday,C276,Male,20,Tea,Drink,Small,3,3.15,9.45,Cash,Midtown,No
+T1845,2023-10-08,15:14,Sunday,C418,Female,39,Brownie,Food,-,3,1.98,5.94,Mobile Pay,Uptown,No
+T1846,2023-08-03,18:02,Thursday,C468,Male,29,Brownie,Food,-,1,2.08,2.08,Mobile Pay,Uptown,Yes
+T1847,2023-05-16,16:20,Tuesday,C091,Female,52,Cappuccino,Drink,Large,2,3.2,6.4,Cash,Downtown,Yes
+T1848,2023-08-21,12:57,Monday,C111,Female,24,Latte,Drink,Small,2,4.65,9.3,Card,Suburb,No
+T1849,2023-12-25,09:12,Monday,C159,Female,24,Brownie,Food,-,3,2.04,6.12,Mobile Pay,Uptown,No
+T1850,2023-03-05,19:55,Sunday,C112,Male,60,Brownie,Food,-,3,2.17,6.51,Mobile Pay,Suburb,Yes
+T1851,2023-05-17,12:43,Wednesday,C342,Male,29,Cappuccino,Drink,Large,3,3.14,9.42,Card,Downtown,No
+T1852,2023-07-08,18:59,Saturday,C012,Male,42,Espresso,Drink,Medium,1,2.5,2.5,Card,Uptown,No
+T1853,2023-06-18,08:24,Sunday,C091,Male,46,Mocha,Drink,Medium,1,4.14,4.14,Mobile Pay,Midtown,No
+T1854,2023-12-11,13:36,Monday,C051,Male,57,Iced Coffee,Drink,Small,1,4.15,4.15,Cash,Downtown,Yes
+T1855,2023-09-22,16:50,Friday,C169,Female,59,Tea,Drink,Large,1,3.1,3.1,Cash,Midtown,Yes
+T1856,2023-01-05,14:55,Thursday,C077,Female,18,Cappuccino,Drink,Small,2,3.88,7.76,Cash,Uptown,No
+T1857,2023-12-03,20:49,Sunday,C133,Male,56,Tea,Drink,Small,2,2.36,4.72,Card,Midtown,Yes
+T1858,2023-06-04,12:40,Sunday,C469,Female,30,Sandwich,Food,-,2,4.41,8.82,Mobile Pay,Downtown,Yes
+T1859,2023-01-12,15:57,Thursday,C369,Female,58,Sandwich,Food,-,2,6.25,12.5,Card,Riverside,Yes
+T1860,2023-10-12,13:35,Thursday,C190,Female,20,Tea,Drink,Large,1,2.86,2.86,Cash,Suburb,No
+T1861,2023-11-29,10:38,Wednesday,C338,Male,57,Sandwich,Food,-,1,6.12,6.12,Card,Uptown,No
+T1862,2023-06-21,20:59,Wednesday,C475,Female,42,Mocha,Drink,Medium,3,5.3,15.9,Mobile Pay,Riverside,No
+T1863,2023-08-05,06:39,Saturday,C118,Male,25,Mocha,Drink,Large,1,3.63,3.63,Cash,Downtown,Yes
+T1864,2023-05-19,19:55,Friday,C037,Female,57,Brownie,Food,-,2,1.7,3.4,Cash,Uptown,Yes
+T1865,2023-03-05,18:04,Sunday,C061,Male,21,Tea,Drink,Small,2,2.18,4.36,Mobile Pay,Midtown,No
+T1866,2023-10-23,19:56,Monday,C121,Male,26,Cappuccino,Drink,Medium,3,3.51,10.53,Cash,Uptown,Yes
+T1867,2023-12-26,12:53,Tuesday,C037,Female,52,Sandwich,Food,-,2,4.09,8.18,Card,Downtown,No
+T1868,2023-11-07,17:43,Tuesday,C418,Male,49,Iced Coffee,Drink,Small,3,4.35,13.05,Mobile Pay,Midtown,No
+T1869,2023-03-18,12:57,Saturday,C169,Female,28,Cappuccino,Drink,Small,3,3.14,9.42,Card,Riverside,Yes
+T1870,2023-06-26,13:05,Monday,C488,Female,55,Cappuccino,Drink,Small,2,3.84,7.68,Card,Suburb,Yes
+T1871,2023-05-21,18:05,Sunday,C360,Male,48,Tea,Drink,Large,2,2.67,5.34,Mobile Pay,Downtown,No
+T1872,2023-11-07,16:33,Tuesday,C307,Female,38,Mocha,Drink,Small,1,5.5,5.5,Mobile Pay,Downtown,No
+T1873,2023-09-24,18:21,Sunday,C200,Male,41,Croissant,Food,-,3,3.44,10.32,Card,Uptown,No
+T1874,2023-02-02,12:42,Thursday,C004,Female,49,Muffin,Food,-,1,2.37,2.37,Mobile Pay,Midtown,Yes
+T1875,2023-01-17,15:03,Tuesday,C127,Male,44,Croissant,Food,-,1,3.28,3.28,Card,Riverside,No
+T1876,2023-07-03,14:30,Monday,C430,Female,47,Sandwich,Food,-,1,4.65,4.65,Cash,Riverside,No
+T1877,2023-07-29,20:25,Saturday,C085,Female,57,Muffin,Food,-,1,1.98,1.98,Mobile Pay,Midtown,No
+T1878,2023-12-02,07:10,Saturday,C337,Female,22,Cappuccino,Drink,Large,3,4.49,13.47,Mobile Pay,Suburb,No
+T1879,2023-09-27,16:37,Wednesday,C410,Male,40,Croissant,Food,-,2,2.14,4.28,Cash,Downtown,Yes
+T1880,2023-01-29,10:54,Sunday,C414,Female,46,Iced Coffee,Drink,Medium,2,3.78,7.56,Card,Suburb,Yes
+T1881,2023-09-18,07:40,Monday,C080,Male,22,Tea,Drink,Medium,2,2.76,5.52,Mobile Pay,Midtown,No
+T1882,2023-12-07,18:41,Thursday,C170,Female,39,Muffin,Food,-,2,2.69,5.38,Mobile Pay,Suburb,No
+T1883,2023-05-06,06:07,Saturday,C469,Male,48,Mocha,Drink,Small,1,4.52,4.52,Card,Uptown,No
+T1884,2023-09-11,19:33,Monday,C333,Male,33,Sandwich,Food,-,3,5.35,16.05,Mobile Pay,Uptown,Yes
+T1885,2023-12-02,06:56,Saturday,C382,Male,19,Iced Coffee,Drink,Small,2,3.08,6.16,Cash,Uptown,Yes
+T1886,2023-04-03,10:05,Monday,C418,Male,24,Sandwich,Food,-,3,6.11,18.33,Mobile Pay,Suburb,Yes
+T1887,2023-01-04,19:09,Wednesday,C156,Female,18,Sandwich,Food,-,2,4.49,8.98,Cash,Uptown,No
+T1888,2023-01-08,10:22,Sunday,C129,Male,43,Cappuccino,Drink,Small,1,3.17,3.17,Mobile Pay,Midtown,Yes
+T1889,2023-07-20,10:22,Thursday,C493,Female,57,Tea,Drink,Medium,2,2.59,5.18,Mobile Pay,Downtown,No
+T1890,2023-03-05,07:37,Sunday,C423,Male,60,Cappuccino,Drink,Medium,2,4.48,8.96,Card,Uptown,No
+T1891,2023-03-26,10:35,Sunday,C158,Female,38,Sandwich,Food,-,3,4.24,12.72,Card,Suburb,No
+T1892,2023-06-22,18:46,Thursday,C488,Male,42,Latte,Drink,Small,3,4.3,12.9,Mobile Pay,Midtown,Yes
+T1893,2023-08-26,14:58,Saturday,C037,Male,43,Brownie,Food,-,1,2.45,2.45,Cash,Suburb,No
+T1894,2023-09-06,10:39,Wednesday,C287,Female,49,Tea,Drink,Medium,3,2.63,7.89,Mobile Pay,Midtown,No
+T1895,2023-06-21,20:40,Wednesday,C458,Male,22,Muffin,Food,-,2,2.13,4.26,Cash,Midtown,Yes
+T1896,2023-05-09,12:15,Tuesday,C143,Male,25,Iced Coffee,Drink,Large,1,3.16,3.16,Card,Suburb,Yes
+T1897,2023-02-26,17:45,Sunday,C059,Female,23,Croissant,Food,-,1,2.36,2.36,Cash,Riverside,Yes
+T1898,2023-06-02,09:29,Friday,C121,Male,42,Espresso,Drink,Large,1,2.43,2.43,Mobile Pay,Uptown,Yes
+T1899,2023-02-04,12:02,Saturday,C209,Female,39,Cappuccino,Drink,Medium,2,3.17,6.34,Card,Suburb,Yes
+T1900,2023-01-26,16:50,Thursday,C041,Male,51,Espresso,Drink,Medium,3,3.09,9.27,Card,Suburb,No
+T1901,2023-04-06,20:54,Thursday,C406,Male,46,Muffin,Food,-,3,2.45,7.35,Mobile Pay,Downtown,Yes
+T1902,2023-12-03,10:15,Sunday,C367,Male,50,Sandwich,Food,-,3,4.06,12.18,Card,Suburb,No
+T1903,2023-04-21,20:33,Friday,C103,Male,32,Mocha,Drink,Small,2,5.45,10.9,Card,Downtown,No
+T1904,2023-11-20,13:24,Monday,C138,Female,35,Muffin,Food,-,2,2.04,4.08,Mobile Pay,Suburb,No
+T1905,2023-11-09,07:04,Thursday,C111,Female,26,Mocha,Drink,Medium,1,4.16,4.16,Mobile Pay,Midtown,No
+T1906,2023-05-01,11:35,Monday,C031,Female,39,Tea,Drink,Small,1,3.06,3.06,Cash,Downtown,Yes
+T1907,2023-10-31,18:00,Tuesday,C273,Male,41,Croissant,Food,-,3,2.59,7.77,Card,Riverside,No
+T1908,2023-03-09,19:11,Thursday,C377,Male,57,Muffin,Food,-,3,2.56,7.68,Card,Midtown,No
+T1909,2023-08-19,17:57,Saturday,C278,Male,31,Tea,Drink,Small,2,2.3,4.6,Mobile Pay,Suburb,No
+T1910,2023-02-20,20:24,Monday,C327,Female,27,Espresso,Drink,Small,2,2.62,5.24,Mobile Pay,Midtown,Yes
+T1911,2023-06-11,06:17,Sunday,C304,Female,44,Mocha,Drink,Medium,1,5.4,5.4,Cash,Downtown,Yes
+T1912,2023-03-06,13:46,Monday,C156,Male,19,Croissant,Food,-,3,3.32,9.96,Mobile Pay,Riverside,Yes
+T1913,2023-12-23,19:02,Saturday,C248,Male,25,Muffin,Food,-,2,2.77,5.54,Card,Suburb,Yes
+T1914,2023-12-25,10:44,Monday,C004,Female,36,Latte,Drink,Large,1,4.5,4.5,Cash,Midtown,Yes
+T1915,2023-05-12,12:55,Friday,C365,Male,53,Latte,Drink,Medium,1,4.06,4.06,Cash,Suburb,No
+T1916,2023-11-15,11:19,Wednesday,C126,Female,43,Cappuccino,Drink,Small,3,3.58,10.74,Card,Downtown,No
+T1917,2023-01-11,08:13,Wednesday,C357,Female,18,Cappuccino,Drink,Large,2,3.52,7.04,Mobile Pay,Riverside,Yes
+T1918,2023-09-10,18:02,Sunday,C139,Male,51,Tea,Drink,Large,1,3.11,3.11,Mobile Pay,Uptown,No
+T1919,2023-03-21,06:29,Tuesday,C299,Female,45,Tea,Drink,Large,2,3.4,6.8,Mobile Pay,Midtown,Yes
+T1920,2023-01-10,15:52,Tuesday,C493,Female,51,Brownie,Food,-,3,2.44,7.32,Cash,Downtown,Yes
+T1921,2023-07-31,09:41,Monday,C027,Male,52,Mocha,Drink,Medium,2,3.88,7.76,Cash,Downtown,Yes
+T1922,2023-05-08,18:22,Monday,C323,Female,28,Espresso,Drink,Small,2,3.17,6.34,Mobile Pay,Downtown,No
+T1923,2023-08-15,20:27,Tuesday,C422,Female,26,Muffin,Food,-,1,2.78,2.78,Cash,Downtown,Yes
+T1924,2023-11-10,10:05,Friday,C181,Male,25,Mocha,Drink,Large,1,4.32,4.32,Card,Riverside,No
+T1925,2023-12-18,14:15,Monday,C182,Female,46,Sandwich,Food,-,2,4.67,9.34,Card,Downtown,Yes
+T1926,2023-01-25,15:00,Wednesday,C463,Female,26,Sandwich,Food,-,2,5.16,10.32,Cash,Midtown,No
+T1927,2023-06-01,12:20,Thursday,C468,Male,21,Muffin,Food,-,1,1.98,1.98,Cash,Uptown,No
+T1928,2023-12-21,09:27,Thursday,C093,Female,58,Espresso,Drink,Medium,1,3.03,3.03,Card,Midtown,Yes
+T1929,2023-08-14,12:20,Monday,C101,Female,20,Croissant,Food,-,1,2.83,2.83,Card,Midtown,Yes
+T1930,2023-10-25,20:12,Wednesday,C257,Male,48,Mocha,Drink,Large,3,3.84,11.52,Mobile Pay,Uptown,No
+T1931,2023-03-22,12:46,Wednesday,C106,Male,45,Sandwich,Food,-,1,6.23,6.23,Card,Midtown,Yes
+T1932,2023-03-17,13:41,Friday,C190,Female,46,Cappuccino,Drink,Small,2,4.09,8.18,Card,Riverside,No
+T1933,2023-11-22,14:33,Wednesday,C061,Female,33,Brownie,Food,-,3,2.1,6.3,Mobile Pay,Uptown,Yes
+T1934,2023-08-09,16:42,Wednesday,C128,Female,50,Croissant,Food,-,1,2.52,2.52,Mobile Pay,Midtown,No
+T1935,2023-08-29,17:43,Tuesday,C382,Male,21,Brownie,Food,-,2,2.3,4.6,Mobile Pay,Uptown,No
+T1936,2023-06-18,20:39,Sunday,C458,Female,40,Mocha,Drink,Large,3,5.24,15.72,Mobile Pay,Suburb,No
+T1937,2023-05-14,09:00,Sunday,C130,Female,60,Mocha,Drink,Small,1,3.95,3.95,Cash,Downtown,Yes
+T1938,2023-12-21,07:03,Thursday,C420,Female,28,Sandwich,Food,-,3,5.58,16.74,Card,Downtown,Yes
+T1939,2023-10-03,07:16,Tuesday,C048,Female,47,Latte,Drink,Small,3,4.52,13.56,Card,Downtown,No
+T1940,2023-02-05,18:48,Sunday,C247,Male,49,Croissant,Food,-,2,3.45,6.9,Cash,Midtown,Yes
+T1941,2023-10-12,17:28,Thursday,C174,Male,50,Sandwich,Food,-,1,4.83,4.83,Card,Suburb,Yes
+T1942,2023-04-29,08:40,Saturday,C284,Female,23,Latte,Drink,Large,3,4.16,12.48,Mobile Pay,Riverside,No
+T1943,2023-07-26,18:25,Wednesday,C482,Female,49,Mocha,Drink,Medium,3,3.72,11.16,Card,Downtown,Yes
+T1944,2023-07-26,07:55,Wednesday,C303,Female,44,Brownie,Food,-,1,2.4,2.4,Mobile Pay,Suburb,No
+T1945,2023-07-12,08:02,Wednesday,C181,Male,32,Mocha,Drink,Small,1,5.4,5.4,Cash,Uptown,No
+T1946,2023-02-24,18:33,Friday,C148,Male,38,Espresso,Drink,Small,2,3.21,6.42,Mobile Pay,Downtown,Yes
+T1947,2023-03-14,18:51,Tuesday,C363,Male,24,Tea,Drink,Large,3,2.3,6.9,Cash,Suburb,Yes
+T1948,2023-09-11,06:47,Monday,C246,Male,34,Cappuccino,Drink,Small,3,3.44,10.32,Mobile Pay,Uptown,No
+T1949,2023-06-26,17:03,Monday,C090,Female,25,Iced Coffee,Drink,Medium,2,3.68,7.36,Cash,Suburb,Yes
+T1950,2023-07-26,12:15,Wednesday,C452,Male,60,Latte,Drink,Medium,1,4.42,4.42,Mobile Pay,Downtown,Yes
+T1951,2023-04-05,06:59,Wednesday,C275,Male,24,Tea,Drink,Medium,3,2.41,7.23,Card,Downtown,No
+T1952,2023-05-19,20:21,Friday,C426,Female,23,Croissant,Food,-,2,2.17,4.34,Card,Midtown,Yes
+T1953,2023-04-08,20:49,Saturday,C167,Female,54,Brownie,Food,-,2,2.44,4.88,Mobile Pay,Uptown,Yes
+T1954,2023-11-14,09:28,Tuesday,C330,Female,58,Tea,Drink,Large,1,3.04,3.04,Card,Riverside,No
+T1955,2023-02-15,19:03,Wednesday,C328,Male,57,Tea,Drink,Medium,3,2.38,7.14,Mobile Pay,Downtown,Yes
+T1956,2023-05-02,20:20,Tuesday,C106,Male,19,Tea,Drink,Small,3,3.03,9.09,Card,Uptown,Yes
+T1957,2023-03-12,13:29,Sunday,C188,Male,22,Cappuccino,Drink,Small,2,3.64,7.28,Card,Downtown,No
+T1958,2023-08-16,14:23,Wednesday,C010,Male,28,Brownie,Food,-,3,2.14,6.42,Card,Uptown,No
+T1959,2023-10-15,10:53,Sunday,C441,Male,52,Espresso,Drink,Large,3,2.86,8.58,Mobile Pay,Midtown,Yes
+T1960,2023-05-24,15:32,Wednesday,C080,Female,60,Tea,Drink,Small,1,3.45,3.45,Cash,Riverside,Yes
+T1961,2023-04-24,12:46,Monday,C235,Male,37,Espresso,Drink,Medium,3,2.93,8.79,Mobile Pay,Suburb,No
+T1962,2023-01-16,14:46,Monday,C323,Female,52,Latte,Drink,Medium,3,4.82,14.46,Cash,Downtown,No
+T1963,2023-04-11,17:29,Tuesday,C206,Female,59,Tea,Drink,Small,1,3.21,3.21,Card,Suburb,No
+T1964,2023-03-22,10:20,Wednesday,C257,Female,54,Cappuccino,Drink,Small,3,4.26,12.78,Mobile Pay,Downtown,No
+T1965,2023-01-14,14:05,Saturday,C386,Female,44,Espresso,Drink,Small,2,2.85,5.7,Mobile Pay,Suburb,No
+T1966,2023-07-27,12:58,Thursday,C369,Male,55,Iced Coffee,Drink,Medium,1,4.19,4.19,Mobile Pay,Downtown,Yes
+T1967,2023-05-06,09:34,Saturday,C291,Female,22,Sandwich,Food,-,1,5.75,5.75,Card,Suburb,Yes
+T1968,2023-02-20,10:17,Monday,C023,Male,43,Latte,Drink,Large,2,4.63,9.26,Cash,Uptown,No
+T1969,2023-09-09,16:43,Saturday,C129,Male,49,Muffin,Food,-,1,2.73,2.73,Mobile Pay,Downtown,Yes
+T1970,2023-01-01,07:50,Sunday,C040,Female,55,Tea,Drink,Medium,3,3.02,9.06,Card,Downtown,No
+T1971,2023-01-10,18:09,Tuesday,C308,Female,43,Mocha,Drink,Small,1,5.08,5.08,Mobile Pay,Midtown,No
+T1972,2023-06-05,19:38,Monday,C316,Female,26,Muffin,Food,-,3,2.92,8.76,Mobile Pay,Riverside,Yes
+T1973,2023-02-24,16:07,Friday,C387,Male,47,Muffin,Food,-,3,2.46,7.38,Cash,Suburb,Yes
+T1974,2023-06-23,07:11,Friday,C233,Male,29,Brownie,Food,-,3,1.79,5.37,Cash,Downtown,Yes
+T1975,2023-09-07,18:25,Thursday,C309,Female,43,Tea,Drink,Large,2,2.3,4.6,Card,Downtown,Yes
+T1976,2023-08-07,14:05,Monday,C242,Male,20,Latte,Drink,Small,1,4.95,4.95,Mobile Pay,Downtown,No
+T1977,2023-07-24,18:09,Monday,C081,Male,47,Espresso,Drink,Large,3,2.47,7.41,Mobile Pay,Uptown,No
+T1978,2023-08-06,16:11,Sunday,C405,Male,24,Latte,Drink,Medium,2,4.89,9.78,Cash,Downtown,Yes
+T1979,2023-04-17,13:51,Monday,C142,Male,37,Muffin,Food,-,1,2.17,2.17,Card,Downtown,No
+T1980,2023-06-23,13:00,Friday,C073,Male,50,Croissant,Food,-,3,2.83,8.49,Mobile Pay,Uptown,No
+T1981,2023-07-23,06:20,Sunday,C476,Male,52,Muffin,Food,-,1,2.99,2.99,Card,Riverside,Yes
+T1982,2023-05-06,08:25,Saturday,C036,Male,31,Sandwich,Food,-,2,4.27,8.54,Cash,Downtown,Yes
+T1983,2023-11-19,16:35,Sunday,C280,Male,44,Croissant,Food,-,1,2.1,2.1,Mobile Pay,Uptown,No
+T1984,2023-07-07,08:53,Friday,C047,Male,58,Croissant,Food,-,3,3.29,9.87,Mobile Pay,Uptown,Yes
+T1985,2023-04-02,17:00,Sunday,C145,Female,59,Sandwich,Food,-,2,4.71,9.42,Mobile Pay,Riverside,Yes
+T1986,2023-11-08,07:06,Wednesday,C432,Male,52,Brownie,Food,-,3,2.01,6.03,Mobile Pay,Downtown,No
+T1987,2023-11-09,19:01,Thursday,C456,Female,33,Mocha,Drink,Medium,1,3.55,3.55,Cash,Suburb,No
+T1988,2023-11-21,16:45,Tuesday,C389,Female,21,Tea,Drink,Small,2,3.27,6.54,Cash,Uptown,No
+T1989,2023-10-10,13:35,Tuesday,C173,Male,36,Cappuccino,Drink,Large,3,4.32,12.96,Mobile Pay,Downtown,Yes
+T1990,2023-05-26,06:45,Friday,C478,Male,56,Tea,Drink,Large,1,2.88,2.88,Card,Downtown,No
+T1991,2023-03-05,06:50,Sunday,C126,Female,50,Iced Coffee,Drink,Small,1,3.34,3.34,Mobile Pay,Uptown,No
+T1992,2023-06-06,20:32,Tuesday,C420,Female,51,Croissant,Food,-,1,2.53,2.53,Mobile Pay,Suburb,Yes
+T1993,2023-08-09,07:04,Wednesday,C367,Male,20,Espresso,Drink,Small,3,2.57,7.71,Mobile Pay,Downtown,Yes
+T1994,2023-12-23,15:13,Saturday,C320,Female,49,Muffin,Food,-,3,2.28,6.84,Cash,Uptown,Yes
+T1995,2023-07-15,19:20,Saturday,C413,Female,18,Brownie,Food,-,2,2.43,4.86,Card,Downtown,No
+T1996,2023-09-19,17:52,Tuesday,C281,Male,55,Mocha,Drink,Large,1,3.82,3.82,Cash,Downtown,No
+T1997,2023-07-18,09:24,Tuesday,C304,Female,42,Latte,Drink,Large,2,4.83,9.66,Mobile Pay,Riverside,Yes
+T1998,2023-03-05,17:43,Sunday,C271,Male,35,Tea,Drink,Small,3,2.27,6.81,Card,Downtown,No
+T1999,2023-09-27,19:06,Wednesday,C478,Male,46,Latte,Drink,Large,2,3.54,7.08,Mobile Pay,Riverside,Yes
+T2000,2023-04-30,19:23,Sunday,C070,Male,24,Iced Coffee,Drink,Large,3,3.45,10.35,Mobile Pay,Uptown,No
